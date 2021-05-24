@@ -169,7 +169,7 @@ Brand Awareness.</p>
     <div class="container-fluid">
         <div class="row">
             <div class="col-lg-5 col-xlg-5col-sm-5">
-            <img src="img/group 92.svg"
+            <img src="img/group92.svg"
      class="Group-92">
 
             </div>
