@@ -26,7 +26,7 @@
     ABOUT BRILLICA
   </a></li>
   <li>
-    <a href="./services.php">OUR SERVICES</a>
+    <a href="./index.php">OUR SERVICES</a>
     <div class="sub-menu-1">
     <ul>
        <li class="hover-me">
