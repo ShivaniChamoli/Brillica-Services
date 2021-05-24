@@ -1,0 +1,133 @@
+*{
+padding-left:0px;
+    box-sizing: border-box ;
+    
+}
+body{
+    
+   
+    color:white;
+   
+    
+}
+.menubar{
+    background-color: #01040B;
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+   background-repeat:no-repeat;
+    object-fit: contain;
+    height:40px;
+    margin-top:5px;
+    
+   
+}
+.menubar ul{
+display: inline-flex;
+list-style: none;
+margin-top:-9px;
+
+}
+.menubar ul li{
+    width:250px ;
+    font-size:20px;
+    padding:12px;
+    color:white;
+    
+}
+.menubar ul li a{
+    text-decoration: none;
+    color:white;
+    margin-top:-20px;
+    font-family:'Segoe UI semibold' ;
+}
+.active, .menubar ul li a:hover{
+color: #749b3f;
+
+}
+.sub-menu-1{
+    display: none;
+    z-index: 9999;
+    font-family:'Segoe UI' ;
+} 
+.menubar ul li:hover .sub-menu-1{
+display:block;
+position:absolute;
+margin-top:1px;
+margin-left:0px;
+background-color: black;
+transition: transform 0.3s ease;
+  transform: translateX(0px);
+
+}
+.menubar ul li:hover .sub-menu-1 ul{
+    display: block;
+    margin:1px;
+}
+
+.menubar ul li:hover .sub-menu-1 ul li a:hover{
+    display: block;
+    margin:1px;
+    transform: translateX(10px);
+}
+
+.menubar ul li:hover .sub-menu-1 ul li{
+   width:300px;
+  padding:7px;
+text-align:left;
+font-family:'Roboto medium' ;
+font-size: 19px;
+
+}
+.fa-angle-right{
+    float:right;
+}
+.sub-menu-2{
+    display:none;
+    
+}
+.hover-me:hover .sub-menu-2{
+    position:absolute;
+    display:block;
+    margin-top:-40px;
+    margin-left:295px;
+    background-color: white;
+    float:left;
+
+}
+.hover-me:hover .sub-menu-2 ul li .aa1{
+    color:black;
+    font-family:'Segoe UI bold' ;
+    font-size:15px;
+    
+
+}
+.hover-me:hover .sub-menu-2 ul li:hover{
+    background-color: #749b3f;
+}
+
+.hover-me:hover .sub-menu-2 ul li .aa1:hover{
+    color:white;
+}
+@media(max-width: 900px) {
+    .menubar {display: none;}
+    .menubar .icon {
+      float: right;
+      display: block;
+    }
+  }
+  
+  @media(max-width: 900px) {
+    .menubar.responsive {position: relative;}
+    .menubar.responsive .icon {
+      position: absolute;
+      right: 0;
+      top: 0;
+    }
+    .menubar.responsive {
+      float: none;
+      display: block;
+      text-align: left;
+    }
+  }
+

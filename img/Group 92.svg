@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="445.678" height="411.293" viewBox="0 0 445.678 411.293">
+    <defs>
+        <style>
+            .cls-6{font-size:22px;font-family:SegoeUI-Bold,Segoe UI;font-weight:700}
+        </style>
+    </defs>
+    <g id="Group_92" transform="translate(-129 -2513.707)">
+        <g id="Group_89">
+            <path id="Polygon_6" fill="#ece9e4" d="M199 0l199 345H0z" transform="rotate(180 276 1462.5)"/>
+            <path id="Polygon_2" fill="#2a64b0" d="M88.5 0L177 154H0z" transform="translate(264 2590)"/>
+            <path id="Polygon_5" fill="#41a3ab" d="M88.5 0L177 154H0z" transform="rotate(180 220.5 1449)"/>
+            <path id="Polygon_3" fill="#ea939a" d="M88.724 0l88.724 153.842H0z" transform="rotate(60 -2022.819 1523.79)"/>
+            <path id="Polygon_4" fill="#faa442" d="M88.724 0l88.724 153.842H0z" transform="rotate(60 -1933.957 1677.703)"/>
+            <text id="DESIGN_DEVELOPMENT" class="cls-6" transform="translate(491 2631)">
+                <tspan x="-52.508" y="0">DESIGN &amp;</tspan><tspan x="-79.175" y="30">DEVELOPMENT</tspan>
+            </text>
+            <text id="RESEARCH_STRATEGY" class="cls-6" transform="translate(197 2653)">
+                <tspan x="-67.692" y="0">RESEARCH &amp;</tspan><tspan x="-53.555" y="30">STRATEGY</tspan>
+            </text>
+            <text id="OPERATIONS_TRANSFORMATION" class="cls-6" transform="translate(429 2815)">
+                <tspan x="-80.609" y="0">OPERATIONS &amp;</tspan><tspan x="-101.917" y="30">TRANSFORMATION</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
