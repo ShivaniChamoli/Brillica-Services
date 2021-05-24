@@ -29,10 +29,13 @@ include_once 'floatingbuttons.php';
     <img class="xq" src="./img/N1.jpg" alt="Los Angeles">
   </div>
   <div class="carousel-item">
-    <img  class="xq" src="./img/s2.jpg" alt="Chicago" >
+    <img  class="xq" src="./img/1st.jpg" alt="Chicago" >
   </div>
   <div class="carousel-item">
-    <img class="xq" src="./img/s3.jpg" alt="Chicago" >
+    <img class="xq" src="./img/2nd.jpg" alt="Chicago" >
+  </div>
+  <div class="carousel-item">
+    <img class="xq" src="./img/3rd.jpg" alt="Chicago" >
   </div>
 </div>
 
