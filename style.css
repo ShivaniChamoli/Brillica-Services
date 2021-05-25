@@ -88,7 +88,7 @@ color: #2c2c2c;
 .Component-10-2 {
   width: 20%;
   height: 6px;
-  margin-top:10px!important;
+  margin-top:10px;
  
   object-fit: contain;
 }
@@ -4326,13 +4326,14 @@ color: #444444;
   .Component-10-2{
     margin-left:auto;
     margin-right: auto;
+    margin-top:4px;
   }
   .rect1{
     width: 100%;
     height: 349px;
-    margin: 10px 0px 35px 0px;
+    margin: 15px 0px 0px 0px;
 
-    padding: 26px 10px 38px 20px;
+    padding: 5px 10px 38px 20px;
     object-fit: contain;
     margin-right:13px;
   }
@@ -4347,40 +4348,39 @@ color: #444444;
   .rect2{
     width: 100%;
     height: 349px;
-    margin: 20px 27px 35px 30px;
+    margin: 10px 0px 0px 0px;
 
-    padding: 33px 18px 38px 31px;
+    padding: 5px 10px 38px 20px;
     object-fit: contain;
-    margin-right:20px;
+    margin-right:13px;
   }
   .rect3{
     width: 100%;
     height: 349px;
-    margin: 20px 27px 35px 30px;
+    margin: 10px 0px 0px 0px;
 
-    padding: 33px 18px 38px 31px;
+    padding: 5px 10px 38px 20px;
     object-fit: contain;
-    margin-right:20px;
+    margin-right:13px;
 
   }
   .rect4{
     width: 100%;
     height: 349px;
-    margin: 20px 27px 35px 30px;
+    margin: 10px 0px 20px 0px;
 
-    padding: 33px 18px 38px 31px;
+    padding: 5px 10px 38px 20px;
     object-fit: contain;
-    margin-right:20px;
-    
+    margin-right:13px;
   }
   .rect5{
     width: 100%;
     height: 349px;
-    margin: 20px 27px 35px 30px;
+    margin: 10px 0px 20px 0px;
 
-    padding: 33px 18px 38px 31px;
+    padding: 5px 10px 38px 20px;
     object-fit: contain;
-    margin-right:20px;
+    margin-right:13px;
   }
   .industry-association{
     margin-left: 2.5% !important;
@@ -4738,7 +4738,8 @@ width:90% ;
 }
 .card2{
   margin-top:-300px;
-  font-size:18px;
+  font-size:25px;
+  width:50%;
   color:white;
   font-family: 'Segoe UI';
   font-weight: bold;
@@ -4746,16 +4747,14 @@ width:90% ;
   font-style: normal;
   line-height: normal;
   letter-spacing: normal;
-  text-align: center;
-  margin-left: auto;
-  margin-right: auto;
+  text-align: left;
   display: block;
     }
 
     .card-content-2,.card-content-3,.card-content-4,.card-content-5{
-      margin-top:50px !important;
+      margin-top:20px !important;
       font-family: 'Segoe UI' !important;
-      font-size: 19px !important;
+      font-size: 18px !important;
       font-weight: normal !important;
       width:100%;
       font-stretch: normal !important;
@@ -4763,10 +4762,7 @@ width:90% ;
       line-height: normal !important;
       letter-spacing: normal !important;
       color:white !important;
-      margin-left: auto;
-  margin-right: auto;
- 
-      text-align:center;
+      text-align:left;
     }
     
 .training-text{
