@@ -120,7 +120,7 @@ include_once 'header.php';
    
     width: 95%;
     height: fit-content;
-   margin-top:-150px;
+   margin-top:-100px;
    margin-left:10px;
    margin-right: 10px;
 
@@ -136,8 +136,8 @@ include_once 'header.php';
 .heading-f1{
     width: 100%;
   height: 37px;
-  font-family: 'Segoe UI';
-  font-size: 24px;
+  font-family: 'Segoe UI semibold';
+  font-size: 22px;
   font-weight: 600;
   font-stretch: normal;
   font-style: normal;
@@ -190,6 +190,13 @@ margin-right: auto;
   padding: 7px 109px 6px 110px;
   object-fit: contain;
   background-color: #323398;
+  font-size: 15px;
+  font-family: 'Segoe UI semibold';
+ 
+  font-weight: 600;
+  
+  text-align: center;
+ 
 }
 
 #close{
