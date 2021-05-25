@@ -91,7 +91,12 @@ include_once 'header.php';
 ::placeholder {
   color:#000000;
   font-size:14px;
-  opacity: 1; 
+  opacity: 0.6 !important; 
+}
+.px{
+  color:#000000;
+  font-size:14px;
+  opacity: 0.6 !important; 
 }
 .fx{
   margin-top:50px;
@@ -240,7 +245,7 @@ margin-right: auto;
         <br>
         <label for="service" id="l1">Our Service</label>
         <select id="country" class="inpt2" name="country">
-        <option value="" disabled selected>Service you are interested</option>
+        <option value="" disabled selected class="px">Service you are interested</option>
                 <option value="Training">Technology Training</option>
                 <option value="Web Development">Web and App Development</option>
                 <option value="Internship">Internship</option>
@@ -251,7 +256,7 @@ margin-right: auto;
         <label for="country"  id="l1">Country</label>      
         
             <select id="country" class="inpt2" name="country">
-            <option value="" disabled selected>Select Country</option>
+            <option value="" disabled selected class="px">Select Country</option>
                 <option value="Afghanistan">Afghanistan</option>
                 <option value="Åland Islands">Åland Islands</option>
                 <option value="Albania">Albania</option>
