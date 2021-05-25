@@ -78,7 +78,7 @@ practice.
             </p>
         </div>
         <div >
-            <a class="redirect" href="./course4.php">know more ></a>
+            <a class="redirect" href="./course4.php">Know More&nbsp&nbsp></a>
         </div>
 
     </div>
@@ -99,7 +99,7 @@ practice.
             </p>
         </div>
         <div >
-            <a class="redirect" href="./webandapp.php">know more ></a>
+            <a class="redirect" href="./webandapp.php">Know More&nbsp&nbsp></a>
         </div>
 
     </div>
@@ -120,7 +120,7 @@ practice.
             </p>
         </div>
         <div >
-            <a class="redirect" href="#">know more ></a>
+            <a class="redirect" href="#">Know More&nbsp&nbsp></a>
         </div>
 
     </div>
@@ -141,7 +141,7 @@ practice.
             </p>
         </div>
         <div >
-            <a class="redirect" href="./internship.php">know more ></a>
+            <a class="redirect" href="./internship.php">Know More&nbsp&nbsp></a>
         </div>
 
     </div>
@@ -161,7 +161,7 @@ practice.
             </p>
         </div>
         <div >
-            <a class="redirect" href="./facultydevelopment.php">know more ></a>
+            <a class="redirect" href="./facultydevelopment.php">Know More&nbsp&nbsp></a>
         </div>
 
     </div>
