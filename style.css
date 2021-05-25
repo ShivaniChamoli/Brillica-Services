@@ -4738,7 +4738,7 @@ width:90% ;
 }
 .card2{
   margin-top:-300px;
-  font-size:25px;
+  font-size:30px;
   width:50%;
   color:white;
   font-family: 'Segoe UI';
@@ -4752,7 +4752,7 @@ width:90% ;
     }
 
     .card-content-2,.card-content-3,.card-content-4,.card-content-5{
-      margin-top:20px !important;
+      margin-top:40px !important;
       font-family: 'Segoe UI' !important;
       font-size: 18px !important;
       font-weight: normal !important;
