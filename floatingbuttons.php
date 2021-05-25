@@ -108,18 +108,22 @@ include_once 'header.php';
   color:#000000;
 }
 
-@media(max-width:650px){
+@media(max-width:900px){
+  
   .center {
             position: fixed;
-    margin-top:-60px;
-    width: 100%;
-    height: fit-content;
-   margin-left:10px;
    
+    width: 95%;
+    height: fit-content;
+   margin-top:-150px;
+   margin-left:10px;
+   margin-right: 10px;
+
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     background-color: white;
     z-index: 900;
 }
+
 
 .hideform {
     display: none;
@@ -128,7 +132,7 @@ include_once 'header.php';
     width: 100%;
   height: 37px;
   font-family: 'Segoe UI';
-  font-size: 28px;
+  font-size: 24px;
   font-weight: 600;
   font-stretch: normal;
   font-style: normal;
@@ -138,18 +142,20 @@ include_once 'header.php';
   color: #ffffff;
  padding-top:20px;
  padding-left:0px;
- margin-left:-10px
+margin-left: auto;
+margin-right: auto;
 }
 .heading-f{
     width: 100%;
-  height: 84px;
+  height: 64px;
   margin-top:-20px;
+  margin-bottom: -30px;
   background-color: #323398;
 }
 #l1{
-    width: 8%;
+    width:auto;
   height: 20px;
-  margin: 8px 1px 22px 44px;
+  margin: 8px 1px 22px 20px;
   object-fit: contain;
   font-family: 'Segoe UI semibold';
   font-size: 15px;
@@ -158,13 +164,13 @@ include_once 'header.php';
   font-style: normal;
   line-height: normal;
   letter-spacing: normal;
-  text-align: right;
+  text-align: left;
   color: #000000;  
 }
 #inpt{
-    width: 70%;
+    width: 90%;
   height: 38px;
-  margin: 5px 0 15px 29px;
+  margin: -10px 0 15px 20px;
   padding: 8px 2px 9px 17px;
   object-fit: contain;
   border: solid 1px #8c8989;
@@ -172,9 +178,9 @@ include_once 'header.php';
   color:#000000;
 }
 #submit{
-    width: 70%;
+    width: 90%;
   height: 39px;
-  margin: 5px 0 0 105px;
+  margin: 5px 0 0 20px;
   margin-bottom: 40px;
   padding: 7px 109px 6px 110px;
   object-fit: contain;
@@ -200,9 +206,9 @@ include_once 'header.php';
   font-family: 'Segoe UI';
 }
 .inpt2{
-  width: 70%;
+  width: 90%;
   height: 38px;
-  margin: 5px 0 15px 29px;
+  margin: -10px 0 15px 20px;
   padding: 8px 2px 9px 17px;
   object-fit: contain;
   border: solid 1px #8c8989;
@@ -213,6 +219,7 @@ include_once 'header.php';
     </style>
 </head>
 <html>
+  <div class="cen2">
 <div class="center hideform">
     <div class="heading-f"><h1 class="heading-f1">Enquiry Form </h1>
     <img id="close" src="img/group 2268.svg"
@@ -500,7 +507,7 @@ include_once 'header.php';
     
 </div>
 </div>
-
+  </div>
 <div class='float3'>
                 <i class="fas fa-copy fa-2x my-float3" id="show"></i>
                 </div>
