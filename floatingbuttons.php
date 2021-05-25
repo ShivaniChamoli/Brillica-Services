@@ -234,9 +234,7 @@ margin-right: auto;
   <div class="cen2">
 <div class="center hideform">
     <div class="heading-f"><h1 class="heading-f1">Enquiry Form </h1>
-    <img id="close" src="img/group 2268.svg"
-     
-     >
+    <img id="close" src="./img/Group 2268.svg">
     </div>
   
     <div class="fx">
