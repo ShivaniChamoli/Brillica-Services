@@ -4457,7 +4457,7 @@ color: #444444;
   }  
   .brillica-services-for-it-training{
   
-    margin: 50px 0px 0px 0px !important;
+    margin: 50px 0px 10px 0px !important;
   width:100%;
     font-family: 'Segoe UI'!important;
     font-size: 20px!important;
@@ -4466,7 +4466,7 @@ color: #444444;
     font-style: normal!important;
     line-height: normal!important;
     letter-spacing: normal!important;
-    text-align: left!important;
+    text-align: center!important;
     color: #2c2c2c!important;
   }
 
