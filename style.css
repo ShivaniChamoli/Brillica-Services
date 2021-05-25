@@ -5761,8 +5761,7 @@ color: #ffffff;
   text-align: left;
   color: #444444;
 }
-.consocx{
-  
+.consocx{ 
   margin: 0px 5px 36px 80px;
   font-size: 10px;
   font-weight: bold;
@@ -5786,8 +5785,7 @@ color: #ffffff;
 }
 .c-it{
   margin:auto;
-  width:50%;
-  display: block;
+  width:auto;
   margin-top:20px;
 }
 .indus-title1{
@@ -5807,7 +5805,7 @@ color: #ffffff;
   margin-right: auto;
   display: block;
   color: white;
-  margin-top: 50px;
+  margin-top:30px;
   font-family: 'Segoe UI';
   font-size:25px;
   width:100%;
