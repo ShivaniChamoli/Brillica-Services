@@ -52,7 +52,7 @@ include_once 'floatingbuttons.php';
 </div>
    <div class="container-fluid ">
    <div>
-       <h1 class="row industry-assoc-services">Our Services</h1>
+       <h1 class="industry-assoc-services">Our Services</h1>
     </div>
 
    

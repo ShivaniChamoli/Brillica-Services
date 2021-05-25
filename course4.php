@@ -27,8 +27,8 @@ if ($result->num_rows > 0) {
 <body>
     <div class="container-fluid">
        <div class="row">
-        <img src="./img/group 36.png"
-     srcset="./img/group 36@2x.png 2x,
+        <img src="./img/Group 36.png"
+     srcset="./img/Group 36@2x.png 2x ,
              ./img/group 36@3x.png 3x"
      class="Group-36">
     <div> <h1 class="catalog">Course Catalog</h1></div>
