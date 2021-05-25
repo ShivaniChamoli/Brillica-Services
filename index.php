@@ -21,6 +21,7 @@ include_once 'floatingbuttons.php';
   <li data-target="#demo" data-slide-to="0" class="active"></li>
   <li data-target="#demo" data-slide-to="1"></li>
   <li data-target="#demo" data-slide-to="2"></li>
+  <li data-target="#demo" data-slide-to="3"></li>
 </ul>
 
 <!-- The slideshow -->
@@ -63,7 +64,7 @@ include_once 'floatingbuttons.php';
 
 <div class="row">
   <div class="col-xlg-3 rect1">
-        <img src="img/Group 2250.png"
+      <a href="./course4.php" > <img src="img/Group 2250.png"
         srcset="img/Group 2250@2x.png 2x,
                 img/Group 2250@3x.png 3x"
         class="serv1">
@@ -80,11 +81,11 @@ practice.
         <div >
             <a class="redirect" href="./course4.php">Know More&nbsp&nbsp></a>
         </div>
-
+      </a>
     </div>
   
     <div class="col-xlg-2 rect2">
-        <img src="img/Group 2251.png"
+    <a href="./webandapp.php" >  <img src="img/Group 2251.png"
         srcset="img/Group 2251@2x.png 2x,
                 img/Group 2251@3x.png 3x"
                 class="serv1" >
@@ -101,11 +102,11 @@ practice.
         <div >
             <a class="redirect" href="./webandapp.php">Know More&nbsp&nbsp></a>
         </div>
-
+    </a>
     </div>
   
     <div class="col-xlg-2 rect3">
-        <img src="img/Group 2252.png"
+    <a href="#" >   <img src="img/Group 2252.png"
         srcset="img/Group 2252@2x.png 2x,
                 img/Group 2252@3x.png 3x"
                 class="serv1"  >
@@ -122,11 +123,11 @@ practice.
         <div >
             <a class="redirect" href="#">Know More&nbsp&nbsp></a>
         </div>
-
+    </a>
     </div>
 
     <div class="col-xlg-2 rect4">
-        <img src="img/Group 2253.png"
+    <a href="./internship.php" >   <img src="img/Group 2253.png"
         srcset="img/Group 2253@2x.png 2x,
                 img/Group 2253@3x.png 3x"
                 class="serv1">
@@ -143,10 +144,10 @@ practice.
         <div >
             <a class="redirect" href="./internship.php">Know More&nbsp&nbsp></a>
         </div>
-
+    </a>
     </div>
     <div class="col-xlg-3 rect5">
-        <img src="img/Group 2254.png"
+    <a href="./facultydevelopment.php" >   <img src="img/Group 2254.png"
         srcset="img/Group 2254@2x.png 2x,
                 img/Group 2254@3x.png 3x"
                 class="serv1" >
@@ -163,7 +164,7 @@ practice.
         <div >
             <a class="redirect" href="./facultydevelopment.php">Know More&nbsp&nbsp></a>
         </div>
-
+    </a>
     </div>
    
 </div>
@@ -173,27 +174,41 @@ practice.
     
 </div>
 
-<div class="container-fluid box">
-
-    <h1 class="row industry-association">Our Industry Associations</h1>
+<div class="container-fluid bx3">
+  <h2 class="industry-association">Our Industry Association</h2>  
  
+  <div id="myCarousel2" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+      <li data-target="#myCarousel2" data-slide-to="0" class="active"></li>
+      <li data-target="#myCarousel2" data-slide-to="1"></li>
+      <li data-target="#myCarousel2" data-slide-to="2"></li>
+    </ol>
 
-
-<div class="row">
- <img src="img/Component 10 – 1.svg"
- class="Component-10-1">
+    <!-- Wrapper for slides -->
+   
+    <div class="carousel-inner">
+   <div class="item active">
+        <img src="./img/m1.png" alt="Los Angeles" class="c-it">
+        <h1 class="indus-title">MICROSOFT</h1>
+        <h1 class="indus-title1">Authorised Education Partner</h1>
+        <br><br><br><br>
+      </div>
+     
+      <div class="item">
+        <img src="./img/m2.png" alt="Chicago" class="c-it">
+        <h1 class="indus-title">IBM</h1>
+        <h1 class="indus-title1">Registered Business Partner</h1>
+        <br><br><br><br>
+      </div>
+    
+      
+   
+    </div>
+    <!-- Left and right controls -->
+   
+  </div>
 </div>
-<div class="row p1">
-    <img src="img/p1.png"
-     srcset="img/p1@2x.png 2x,
-             img/p1@3x.png 3x"
-     class="p1">
-
-</div>
-<br>
-<br>
-</div>
-
 
 <div class="container-fluid">
 
