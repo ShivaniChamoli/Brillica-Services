@@ -91,7 +91,7 @@ facing your organization. </p>
 <div class="row">
   <div class="col-xlg-4 col-lg-4">
   <div class="Rectangle-261">
- <div> <img src="img/noun_mind_943140.svg"
+ <div> <img src="./img/noun_mind_943140.svg"
      class="noun_mind_943140">
     <p class="fstp1">Impart Learning
  in Advanced Teaching 
@@ -101,7 +101,7 @@ Techniques</p>
   </div>
   <div class="col-xlg-4 col-lg-4">
   <div class="Rectangle-262">
-  <div><img src="img/noun_degree_3621672.svg"
+  <div><img src="./img/noun_degree_3621672.svg"
      class="noun_degree_3621672">
      <p class="fstp1">Enhance Function
 Area Expertise of the 
@@ -111,7 +111,7 @@ Participants.</p>
   </div>
   <div class="col-xlg-4 col-lg-4">
     <div class="Rectangle-263">
-    <div> <img src="img/noun_degree_3305958.svg"
+    <div> <img src="./img/noun_degree_3305958.svg"
      class="noun_degree_3305958">
      <p class="fstp1">Argument Ability of 
 Faculty to Drive Student
@@ -126,7 +126,7 @@ Performance.</p>
 <div class="row">
   <div class="col-xlg-4 col-lg-4">
   <div class="Rectangle-264">
-  <div> <img src="img/noun_classroom_1971090.svg"
+  <div> <img src="./img/noun_classroom_1971090.svg"
      class="noun_classroom_1971090">
      <p class="fstp1">Connect Learning 
 with Effective Classroom
@@ -136,7 +136,7 @@ with Effective Classroom
   </div>
   <div class="col-xlg-4 col-lg-4">
   <div class="Rectangle-266">
-  <div> <img src="img/noun_research_3884281.svg"
+  <div> <img src="./img/noun_research_3884281.svg"
      class="noun_Research_3884281">
      <p class="fstp1">Improve Capability
 to Conduct Meaningful
@@ -146,7 +146,7 @@ Research.</p>
   </div>
   <div class="col-xlg-4 col-lg-4">
     <div class="Rectangle-265">
-    <div> <img src="img/noun_development_637205.svg"
+    <div> <img src="./img/noun_development_637205.svg"
      class="noun_development_637205">
      <p class="fstp1">Leverage Pedagogical
 Skills for Case Analysis &
