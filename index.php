@@ -429,7 +429,7 @@ practice.
             </p>
         </div>
         <div >
-            <a class="redirect2" href="#">Know More&nbsp&nbsp></a>
+            <a class="redirect2" href="./leadership.php">Know More&nbsp&nbsp></a>
         </div>
             </div>
      
@@ -474,7 +474,7 @@ practice.
             </p>
         </div>
         <div >
-            <a class="redirect2" href="#">Know More&nbsp&nbsp></a>
+            <a class="redirect2" href="./contactus.php">Know More&nbsp&nbsp></a>
         </div>
           </div>
      
