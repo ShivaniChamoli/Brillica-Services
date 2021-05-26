@@ -3678,10 +3678,10 @@ width:1250px;
 
 
   .Rectangle-39, .Rectangle-46, .Rectangle-47, .Rectangle-48, .Rectangle-45, .Send{
-    width: 50%;
+    width: 45%;
     margin-left: 0px;
     margin-right: auto;
-    margin-top: 0px;;
+    margin-top: -10px;;
     margin-bottom: 0px;
     display: block;
 }
@@ -3689,7 +3689,7 @@ width:1250px;
       width: 85%;
       margin-left: 20px;
       margin-right: auto;
-      margin-top: 20px;
+      margin-top: 30px;
       margin-bottom: auto;
       display: block;
       font-size: 20px;
@@ -3699,15 +3699,15 @@ width:1250px;
   width: 60%;
     margin-left: 20px;
     margin-right: auto;
-    margin-top: auto;
+    margin-top: -10px;
     display: block;
-    font-size: 15px;
+    font-size: 13px;
 }
 .Untitled-2 {
   float: right;
   display: block;
-  margin-top:-150px;
-  width:35%;
+  margin-top:-190px;
+  width:40%;
   height:35%;
 }
 .contelx2{
@@ -3718,6 +3718,7 @@ width:1250px;
     display: block;
     font-size: 15px;
     display: block;
+    margin-top:-25px;
 }
 .Send {
   margin-bottom: 0;
@@ -3726,12 +3727,12 @@ width:1250px;
 .fpara {
   margin:0px;
   margin-left:210px;
-  margin-top:-203px;
+  margin-top:-163px;
   width: 165px;
   height: auto;
   text-align: justify;
   display: block;
-  
+  font-size:12px;
 }
 
 .footer-note {
@@ -3750,14 +3751,14 @@ width:1250px;
 
 
 .facebook {
-  margin-left:35%;
+  margin-left:33%;
   
     
 }
 .facebook, .twitter, .linkedin, .instagram {
   height:25px;
   width: 25px;
-  margin-top:15px;
+  margin-top:0px;
 }
 
 .fbod { 
@@ -5755,6 +5756,20 @@ color: #ffffff;
   letter-spacing: normal;
   text-align: center;
   color: #323398;
+}
+.con{
+  width: 250px;
+  height: 21px;
+  margin: -10px 0 5px -5px;
+  font-family: 'Segoe UI bold';
+  font-size: 13px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #bababd;
 }
 .consocx1{
   margin: 0px 5px 36px 10px;
