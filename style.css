@@ -3632,7 +3632,11 @@ width:1250px;
       margin: auto;
       object-fit: contain;
     }
-
+    #f{
+      margin-left: 10px;
+      margin-top: 20px;
+      
+    }
     .ph-icon {
       width: 12.7px;
       height: 12.7px;
@@ -3675,25 +3679,25 @@ width:1250px;
 
   .Rectangle-39, .Rectangle-46, .Rectangle-47, .Rectangle-48, .Rectangle-45, .Send{
     width: 50%;
-    margin-left: auto;
+    margin-left: 0px;
     margin-right: auto;
-    margin-top: auto;
-    margin-bottom: auto;
+    margin-top: 0px;;
+    margin-bottom: 0px;
     display: block;
 }
 .LOCATION{
-  width: 85%;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: auto;
-    margin-bottom: auto;
-    display: block;
-    font-size: 20px;
+      width: 85%;
+      margin-left: 20px;
+      margin-right: auto;
+      margin-top: 20px;
+      margin-bottom: auto;
+      display: block;
+      font-size: 20px;
 }
 .location-paragaph {
   height:100px;
   width: 85%;
-    margin-left: auto;
+    margin-left: 20px;
     margin-right: auto;
     margin-top: auto;
     display: block;
@@ -3702,13 +3706,13 @@ width:1250px;
 .Untitled-2 {
   float: right;
   display: block;
-  margin-top:-50px;
-  width:30%;
-  height:20%;
+  margin-top:-150px;
+  width:35%;
+  height:35%;
 }
 .contelx2{
   width: 100%;
-    margin-left: auto;
+    margin-left:0px;
     margin-right: auto;
    margin-top: 0%;
     display: block;
@@ -3720,20 +3724,25 @@ width:1250px;
 }
 
 .fpara {
-  margin: 40px;
-  width: auto;
+  margin:0px;
+  margin-left:262px;
+  margin-top:-203px;
+  width: 200px;
   height: auto;
-  text-align: left;
+  text-align: justify;
   display: block;
+  
 }
 
 .footer-note {
-  margin: 0;
-  text-align: center;
+ 
+  margin-left:20px;
+  text-align: left;
+  font-size:24px;
 }
 
 .icon-tel {
-  margin-left: 7%;
+  margin-left: 20px;
   margin-bottom: 10px;
   margin-top: 10px;
 }
@@ -3741,13 +3750,14 @@ width:1250px;
 
 
 .facebook {
-  margin-left:7%;
+  margin-left:35%;
+  
     
 }
 .facebook, .twitter, .linkedin, .instagram {
-  height:20px;
-  width: 20px;
-  margin-top:-20px;
+  height:25px;
+  width: 25px;
+  margin-top:15px;
 }
 
 .fbod { 
@@ -5793,7 +5803,7 @@ color: #ffffff;
 .Group-2255,.Group-2259,.Group-2258 {
   width: 100%;
   height: 350px;
-  margin: 0px 13px 10px auto;
-  
+  margin: 0px 13px 10px auto; 
   }
+  
 }
