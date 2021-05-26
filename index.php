@@ -420,10 +420,10 @@ class="certified">
         <div class="col-lg-4  col-xlg-4 col-sm-12 box3">
 
           <a href="./leadership2.php">
-              <div class="Group-2255 "></div>
-     <div class="b3">
+              <div><img class="Group-2255" src="./img/Group 2260.png"></div>
+     
         <h1 class="text-hover leadx">Leadership</h1>  
-    </div></a> 
+    </a> 
         </div>
         
 
@@ -431,20 +431,18 @@ class="certified">
 
         <div class="col-lg-4  col-xlg-4 col-sm-12 box3 ">
            
-        <div
-     class="Group-2259"></div>
-    <div class="b1">
+        <div><img src="./img/Group 2259.png" class="Group-2259"></div>
+    
        <h1 class="text-hover2 leadx2">Career</h1>
-        </div>
+        
      
         </div>
         
         <div class="col-lg-4  col-xlg-4 col-sm-12 box3">
         <a href="./contactus.php"> 
-            <div class="Group-2258"></div>
-     <div class="b2">
-       <div class="div-text-hov"><h1 class="text-hover1 leadx3">Contact</h1>  </div> 
-        </div></a>
+            <div><img class="Group-2258" src="./img/Group 2258.png" class="Group-2258"></div>
+     <h1 class="text-hover1 leadx3">Contact</h1>
+      </a>
     </div>
 </div>
 </div>
