@@ -136,7 +136,7 @@ with Effective Classroom
   </div>
   <div class="col-xlg-4 col-lg-4">
   <div class="Rectangle-266">
-  <div> <img src="./img/noun_research_3884281.svg"
+  <div> <img src="./img/noun_Research_3884281.svg"
      class="noun_Research_3884281">
      <p class="fstp1">Improve Capability
 to Conduct Meaningful
@@ -160,7 +160,7 @@ Development.</p>
 <div class="container-fluid">
 <div class="row">
  <h2 class="get-in-touch">GET IN TOUCH</h2>
- <a href="mailto:info@brillicaservices.com?subject=Faculty Development Programme Enquiry"><span><img src="img/group 146.svg"
+ <a href="mailto:info@brillicaservices.com?subject=Faculty Development Programme Enquiry"><span><img src="./img/Group 146.svg"
      class="Group-146" id="showx"></span></a>
 </div>
 </div>
