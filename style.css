@@ -4609,7 +4609,7 @@ color: #444444;
     height:300px;
     width:100%;
   color:#749b3f;
-  margin-left:8%;
+  margin-left:9%;
   font-family: 'Roboto';
   margin-right:auto; 
   font-weight: bold;
@@ -4622,10 +4622,10 @@ color: #444444;
   }
   
   .text-hover1{
-    margin-top:-400px;
+    margin-top:-330px;
     font-size: 50px;
   color:#749b3f;
- margin-left: 5%;
+ margin-left: 9%;
   font-family: 'Roboto';
     width:100%;
   font-weight: bold;
@@ -4640,10 +4640,10 @@ color: #444444;
   
   
   .text-hover2{
-    margin-top:-400px;
+    margin-top:-330px;
     font-size: 50px;
   color:#749b3f;
- margin-left: 5%;
+ margin-left: 9%;
   font-family: 'Roboto';
     width:100%;
   font-weight: bold;
@@ -4761,7 +4761,7 @@ width:90% ;
   color:rgb(37, 37, 37) !important;
   text-align:left;
   margin-top:-200px;
-  margin-left: 8%;
+  margin-left: 9%;
 }
     
 .training-text{
@@ -4818,7 +4818,7 @@ width:90% ;
       text-align: left;
       color: #292727;
       width:100%;
-      margin-left:8%;
+      margin-left:9%;
     }
     .industry-associations{
       width: 100%;
@@ -5789,7 +5789,7 @@ color: #ffffff;
  
 
 }
-.Group-2255 {
+.Group-2255,.Group-2259,.Group-2258 {
   width: 100%;
   height: 350px;
   margin: 0px 13px 10px auto;
