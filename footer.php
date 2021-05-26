@@ -61,9 +61,9 @@ include 'header.php';
 </div>
 
 <div class="col-lg-2 col-lg-2">
-<div><img src="./img/untitled-2.png"
-     srcset="./img/untitled-2@2x.png 2x,
-             ./img/untitled-2@3x.png 3x"
+<div><img src="./img/Untitled-2.png"
+     srcset="./img/Untitled-2@2x.png 2x,
+             ./img/Untitled-2@3x.png 3x"
      class="Untitled-2">
 </div>
 <a href="https://www.facebook.com/BrillicaServices" target="_blank" > <svg class="facebook" xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-facebook" viewBox="0 0 16 16">
