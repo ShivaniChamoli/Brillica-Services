@@ -4562,7 +4562,7 @@ color: #444444;
   .explore-more-about-brillica{
     width: 100%;
     height: 61px;
-    margin-top: 20px;
+    margin-top: 40px;
     margin-left:auto;
     margin-right: auto;
     object-fit: contain;
@@ -4575,11 +4575,12 @@ color: #444444;
     letter-spacing: normal;
     text-align: center;
     color: #2c2c2c;
+    margin-bottom: 20px;
   }
   .Group-2255 {
     width: 100%;
     height: 400px;
-    margin: 10px auto 0px auto;
+    margin: -10px auto 0px auto;
   display: block;
   
   }
@@ -4603,12 +4604,12 @@ color: #444444;
 
   }
   .text-hover{
-    margin-top:-240px;
-    font-size: 40px;
-    height:180px;
+    margin-top:-360px;
+    font-size: 50px;
+    height:300px;
     width:100%;
   color:#749b3f;
-  margin-left:auto;
+  margin-left:5%;
   font-family: 'Roboto';
   margin-right:auto; 
   font-weight: bold;
@@ -4616,14 +4617,15 @@ color: #444444;
   font-style: normal;
   line-height: normal;
   letter-spacing: normal;
-  text-align: center;
+  text-align: left;
+  
   }
   
   .text-hover1{
-    margin-top:-290px;
-    font-size: 40px;
+    margin-top:-400px;
+    font-size: 50px;
   color:#749b3f;
- margin-left: auto;
+ margin-left: 5%;
   font-family: 'Roboto';
     width:100%;
   font-weight: bold;
@@ -4631,28 +4633,27 @@ color: #444444;
   font-style: normal;
   line-height: normal;
   letter-spacing: normal;
-  text-align: center;
+  text-align: left;
   display: block;
-  height:180px;
+  height:300px;
   }
   
   
   .text-hover2{
-    margin-top:-290px;
-    font-size: 40px;
-    height:300px;
-    width:100%;
+    margin-top:-400px;
+    font-size: 50px;
   color:#749b3f;
-  margin-left:auto;
+ margin-left: 5%;
   font-family: 'Roboto';
-  margin-right:auto; 
+    width:100%;
   font-weight: bold;
   font-stretch: normal;
   font-style: normal;
   line-height: normal;
   letter-spacing: normal;
-  text-align: center;
-  height:180px;
+  text-align: left;
+  display: block;
+  height:300px;
   }
   .header-3{
     background-image: url(./img/UntitlHJK.png);
@@ -4748,6 +4749,20 @@ width:90% ;
       color:white !important;
       text-align:left;
     }
+.card-content-9{
+  font-family: 'Segoe UI' !important;
+  font-size: 16px !important;
+  font-weight: normal !important;
+  width:100%;
+  font-stretch: normal !important;
+  font-style: normal !important;
+  line-height: normal !important;
+  letter-spacing: normal !important;
+  color:rgb(37, 37, 37) !important;
+  text-align:left;
+  margin-top:-200px;
+  margin-left: 5%;
+}
     
 .training-text{
   text-align: center;
@@ -4789,6 +4804,22 @@ width:90% ;
       color: #ffffff;
       width:100%
     }
+    .redirect2{
+      margin-top: 40px;
+      font-size: 16px;
+      display: block;
+      height:100px;
+      font-family: 'Segoe UI';
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: normal;
+      letter-spacing: normal;
+      text-align: left;
+      color: #292727;
+      width:100%;
+      margin-left:5%;
+    }
     .industry-associations{
       width: 100%;
       height: 412px;
@@ -4809,6 +4840,9 @@ width:90% ;
       letter-spacing: normal;
       text-align: justify;
       color: #595858;
+      margin-left:auto;
+      margin-right:auto;
+      display: block;
     }
     .catalog-p3{
       width: 90% !important;

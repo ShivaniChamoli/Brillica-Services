@@ -418,11 +418,22 @@ class="certified">
 
     <div class="row">
         <div class="col-lg-4  col-xlg-4 col-sm-12 box3">
-
           <a href="./leadership2.php">
-              <div><img class="Group-2255" src="./img/Group 2260.png"></div>
+              <div><img class="Group-2255" src="./img/Group 2260.png">
+              <h1 class="text-hover leadx">Leadership</h1>
+              <div class="card-content-9">
+            <p>
+                An internship is the best way to<br>
+put classroom knowledge to <br>
+practice.
+            </p>
+        </div>
+        <div >
+            <a class="redirect2" href="#">Know More&nbsp&nbsp></a>
+        </div>
+            </div>
      
-        <h1 class="text-hover leadx">Leadership</h1>  
+         
     </a> 
         </div>
         
@@ -431,17 +442,42 @@ class="certified">
 
         <div class="col-lg-4  col-xlg-4 col-sm-12 box3 ">
            
-        <div><img src="./img/Group 2259.png" class="Group-2259"></div>
+        <div><img src="./img/Group 2259.png" class="Group-2259">
+
+        <h1 class="text-hover2 leadx2">Career</h1>
+        <div class="card-content-9">
+            <p>
+                An internship is the best way to<br>
+put classroom knowledge to <br>
+practice.
+            </p>
+        </div>
+        <div >
+            <a class="redirect2" href="#">Know More&nbsp&nbsp></a>
+        </div>
+      </div>
     
-       <h1 class="text-hover2 leadx2">Career</h1>
+       
         
      
         </div>
         
         <div class="col-lg-4  col-xlg-4 col-sm-12 box3">
         <a href="./contactus.php"> 
-            <div><img class="Group-2258" src="./img/Group 2258.png" class="Group-2258"></div>
-     <h1 class="text-hover1 leadx3">Contact</h1>
+            <div><img class="Group-2258" src="./img/Group 2258.png" class="Group-2258">
+            <h1 class="text-hover1 leadx3">Contact</h1>
+            <div class="card-content-9">
+            <p>
+                An internship is the best way to<br>
+put classroom knowledge to <br>
+practice.
+            </p>
+        </div>
+        <div >
+            <a class="redirect2" href="#">Know More&nbsp&nbsp></a>
+        </div>
+          </div>
+     
       </a>
     </div>
 </div>
