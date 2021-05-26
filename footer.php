@@ -61,7 +61,7 @@ include 'header.php';
 </div>
 
 <div class="col-lg-2 col-lg-2">
-<div><img src="./img/untitled-2.png"
+<div><img src="./img/Untitled-2.png"
      srcset="./img/untitled-2@2x.png 2x,
              ./img/untitled-2@3x.png 3x"
      class="Untitled-2">
