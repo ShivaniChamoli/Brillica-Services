@@ -1401,6 +1401,9 @@ color: #000000;
   object-fit: contain;
 
 }
+.card-content-9,.redirect2{
+  display:none;
+}
 .course-col-1{
 
 width: 220px;
