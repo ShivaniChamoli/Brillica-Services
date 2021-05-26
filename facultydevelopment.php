@@ -52,16 +52,16 @@ facing your organization. </p>
 </div>
 
 <div class="col-lg-1 col-xlg-1">
-<img src="img/group 148.svg"
+<img src="./img/Group 148.svg"
      class="Group-148">
      <div class="Rectangle-242"></div>
-     <img src="img/group 149.svg"
+     <img src="./img/Group 149.svg"
      class="Group-149">
      <div class="Rectangle-242"></div>
-     <img src="img/group 150.svg"
+     <img src="./img/Group 150.svg"
      class="Group-150">
      <div class="Rectangle-242"></div>
-     <img src="img/group 151.svg"
+     <img src="./img/Group 150.svg"
      class="Group-151">
 </div>
 

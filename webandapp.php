@@ -169,7 +169,7 @@ Brand Awareness.</p>
     <div class="container-fluid">
         <div class="row">
             <div class="col-lg-5 col-xlg-5col-sm-5">
-            <img src="img/group92.svg"
+            <img src="./img/Group92.svg"
      class="Group-92">
 
             </div>
@@ -196,9 +196,9 @@ to sustain consistency, quality, and growth.</p>
     <div class="row">
 <h1 class="tech2">Our Technology Stack</h1>
 <div>
-<img src="img/xfg.png"
-     srcset="img/xfg@2x.png 2x,
-             img/xfg@3x.png 3x"
+<img src="./img/xfg.png"
+     srcset="./img/xfg@2x.png 2x,
+             ./img/xfg@3x.png 3x"
      class="xfg">
 </div>
     </div>
@@ -228,7 +228,7 @@ to sustain consistency, quality, and growth.</p>
 
             <div class="col-lg-5 col-xlg-5">
          <div class="">
-         <img src="img/noun_contact_1092471.svg"
+         <img src="./img/noun_contact_1092471.svg"
      class="noun_contact_1092471">
          </div>
 
