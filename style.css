@@ -3659,7 +3659,7 @@ width:1250px;
     margin-left: -15px;
     width: 58%;
     text-align: center;
-    
+   
   }
 
   .facebook1, .twitter1, .linkedin1 {
@@ -3681,9 +3681,17 @@ width:1250px;
   }
 
   .pay-online {
-    width: auto;
+    width:100px;
     text-align: center;
-    padding-top:8px;
+    padding-top:2px;
+    color:white;
+    border:white 2px solid;
+    border-radius: 4px;
+    position:relative;
+    margin-left:50px;
+  }
+  .green-box:hover{
+    background-color: #749b3f;
   }
 
 

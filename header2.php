@@ -48,7 +48,7 @@
     </div>
    
         <div class="green-box">
-           <a href="https://pages.razorpay.com/pl_DpExGgOHtCpfuW/view"> <p class="pay-online">PAY ONLINE</p></a>
+         <div class="btxc">  <a href="https://pages.razorpay.com/pl_DpExGgOHtCpfuW/view"> <p class="pay-online">PAY ONLINE</p></a></div>
        
     </div>
 </div>
