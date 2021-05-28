@@ -3631,6 +3631,7 @@ width:1250px;
       height: 84px;
       margin: auto;
       object-fit: contain;
+      margin-top:35px;
     }
     #f{
       margin-left: 10px;
@@ -3655,25 +3656,34 @@ width:1250px;
   }
 
   .green-box {
-    margin-left: 0;
-    width: 50%;
+    margin-left: -15px;
+    width: 58%;
     text-align: center;
+    
   }
 
   .facebook1, .twitter1, .linkedin1 {
     margin-left: 10px;
     margin-right: 10px;
+    width:20px;
+    height:18px;
+    margin-top:5px;
+    color:white;
   }
   
   .black-box {
-    margin-left: 50%;
+    margin-left: 54%;
     width: 50%;
     text-align: center;
+    margin-top:-162px;
+    background-color:#749b3f;
+
   }
 
   .pay-online {
     width: auto;
     text-align: center;
+    
   }
 
 
