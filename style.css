@@ -12,6 +12,20 @@ html {
         margin-top:auto;
         
 }
+.card-content-9{
+  font-family: 'Segoe UI' !important;
+  font-size: 16px !important;
+  font-weight: normal !important;
+  width:100%;
+  font-stretch: normal !important;
+  font-style: normal !important;
+  line-height: normal !important;
+  letter-spacing: normal !important;
+  color:rgb(37, 37, 37) !important;
+  text-align:left;
+  margin-top:-50px;
+  margin-left: 9%;
+}
 
 .about{
 color:green;
@@ -3679,17 +3693,22 @@ width:1250px;
     background-color:#749b3f;
 
   }
-
+.btxc{
+ 
+}
   .pay-online {
     width:100px;
     text-align: center;
-    padding-top:4px;
-    color:white;
-    border:white 2px solid;
-    border-radius: 4px;
-    position:relative;
+    padding-top:6px;
+    color:black;
     margin-left:50px;
-    height:33px;
+    border-radius: 7px;
+    box-shadow: 1px 1px #02330a;
+   background-color:white;
+   height:33px;
+   text-align:center
+    
+    
   }
   .green-box:hover{
     background-color: #749b3f;
