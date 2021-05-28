@@ -16,7 +16,7 @@
     <div class="container-fluid">
 <div class="row">
 <div class="col-lg-4 col-xlg-4">
-  <a href="./services.php"  ><img src="img/BRILLICA HD Logo.png"
+  <a href="./index.php"  ><img src="img/BRILLICA HD Logo.png"
     srcset="img/BRILLICA HD Logo@2x.png 2x,
             img/BRILLICA HD Logo@3x.png 3x"
     class="BRILLICA-HD-Logo"></a>

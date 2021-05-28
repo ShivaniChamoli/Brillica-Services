@@ -3683,12 +3683,13 @@ width:1250px;
   .pay-online {
     width:100px;
     text-align: center;
-    padding-top:2px;
+    padding-top:4px;
     color:white;
     border:white 2px solid;
     border-radius: 4px;
     position:relative;
     margin-left:50px;
+    height:33px;
   }
   .green-box:hover{
     background-color: #749b3f;
