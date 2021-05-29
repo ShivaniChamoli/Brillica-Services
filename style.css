@@ -69,9 +69,9 @@ text-align: justify;
   }
 
 .training-container{
-  margin-top:-10px;
+  margin-top:50px;
   background-color:#EDECEC;
-  
+  margin-bottom:50px
 }
 .training-container2{
   margin-top:100px;
@@ -184,16 +184,18 @@ border-radius: 30%;
 .t-content2{
   
   font-family:'Segoe UI'; 
-  font-size: 20px;
+  font-size: 22px;
   font-weight: normal;
   font-stretch: normal;
   font-style: normal;
   line-height: normal;
   letter-spacing: normal;
-  margin-left:5%;
+  margin-left:auto;
+  margin-right: auto;
   color: #2c2c2c;
-text-align:justify;
-width:450px;
+text-align:center;
+width:60%;
+margin-top:40px;
 }
 
 .banner {
@@ -375,7 +377,7 @@ margin-top:-180px;
     .Build-your-door-to-opportunities-with-Brillica-M {
       width: auto;
       height: 70px;
-      font-family: SegoeUI;
+      font-family: 'SegoeUI';
       font-size: 20px;
       font-weight: normal;
       font-stretch: normal;
@@ -400,7 +402,12 @@ margin-top:-180px;
       
     }
   
-
+    .c-it2{
+      margin:auto;
+      width:25%;
+      margin-top:20px;
+      display: block;
+    }
 
 
 
@@ -3748,7 +3755,7 @@ width:1250px;
     margin-left: -15px;
     width: 58%;
     text-align: center;
-   
+   background-color: #242424;
   }
 
   .facebook1, .twitter1, .linkedin1 {
@@ -3765,7 +3772,7 @@ width:1250px;
     width: 50%;
     text-align: center;
     margin-top:-160px;
-    background-color:#749b3f;
+    background-color:#242424;
 
   }
 
@@ -3773,10 +3780,10 @@ width:1250px;
     width:100px;
     text-align: center;
     padding-top:7px;
-    color:black;
+    color:#242424;
     margin-left:50px;
     border-radius: 7px;
-    box-shadow: 1px 1px #02330a;
+    box-shadow: 1px 1px #d3dbd4;
    background-color:white;
    height:32px;
    text-align:center
@@ -3784,7 +3791,7 @@ width:1250px;
     
   }
   .green-box:hover{
-    background-color: #749b3f;
+    background-color: #242424;
   }
 
 
@@ -3837,13 +3844,13 @@ width:1250px;
 
 .fpara {
   margin:0px;
-  margin-left:210px;
+  margin-left:56%;
   margin-top:-163px;
-  width: 165px;
+  width: 185px;
   height: auto;
   text-align: justify;
   display: block;
-  font-size:12px;
+  font-size:14px;
 }
 
 .footer-note {
@@ -4016,11 +4023,13 @@ width:1250px;
           margin-bottom:40px;
           margin-left:30px;
         }
-        .training-container2{
+        .training-container2,.training-container{
           margin-top:20px;
+          margin-bottom:20px;
           background-color:#EDECEC;
           
         }
+        
         .training-text{
           width:100%;
           text-align: left;
@@ -4032,11 +4041,11 @@ width:1250px;
           }
           
           .Component-10-1 {
-            width: 100px;
+            width: 100%;
             height: 6px;
             margin-left:auto;
             margin-right: auto;
-            margin-top:20px;
+            margin-top:10px;
             object-fit: contain;
             display: block;
           }
@@ -4074,7 +4083,7 @@ width:1250px;
 
 }
 .t-content2{
-  font-size: 18px;
+  font-size: 17px;
   font-family:'Segoe UI'; 
   font-weight: normal;
   font-stretch: normal;
@@ -4083,8 +4092,11 @@ width:1250px;
   letter-spacing: normal;
   text-align: justify;
   color: #2c2c2c;
-  margin-left:5%;
+  margin-left:auto;
+  margin-right: auto;
+  display: block;
   width:80%;
+  margin-top:20px;
 }
 .Group-75{
   
@@ -4496,11 +4508,7 @@ color: #444444;
   text-align:center;
   
   }
-  .Component-10-1{
-    margin-left:auto;
-            margin-right: auto;
-            display: block;
-  }
+ 
   .p1{
     width: 254px;
     height:254px;
@@ -4805,7 +4813,7 @@ color: #444444;
   width: 100% !important;
   height: 20px !important;
   font-family:'Segoe UI' !important;
-  font-size: 20px !important;
+  font-size: 16px !important;
   font-weight: normal !important;
   font-stretch: normal !important;
   font-style: normal !important;
@@ -4822,12 +4830,13 @@ color: #444444;
 margin-top:30px ;
 margin-left:auto;
 margin-right: auto;
-font-size: 20px ;
+font-size: 16px ;
 font-family: 'Segoe UI' ;
 color:#595858 ;
 text-align: justify  ;
-margin-bottom:-50px;
-width:90% ;
+
+width:90%;
+height:fit-content;
 }
 .line-between-aboutpage-content{
   display:none;
@@ -4836,13 +4845,14 @@ width:90% ;
   margin-top:20px ;
   margin-left:auto;
   margin-right: auto;
-  font-size: 20px ;
+  font-size: 16px ;
   font-family: 'Segoe UI' ;
   color:#595858 ;
   text-align: justify  ;
-  margin-bottom:-50px;
+  height:fit-content;
   display: block;
   width:90% !important ;
+  margin-bottom:50px;
 }
 .card2{
   margin-top:-300px;
@@ -4890,18 +4900,18 @@ width:90% ;
 .training-text{
   text-align: center;
   margin-top:20px;
-  font-size: 30px;
+  font-size: 20px;
   font-family:'Segoe UI';
   width:100%;
   color: #2c2c2c;
+  display: block;
   }
   .bannerx {
     width: 100%;
-    height: 250px;
     object-fit: contain;
     background-size: cover;
    background-repeat:no-repeat;
-   object-fit: contain
+   
   }
   .industry-text{
     margin-left:0px;
@@ -5897,6 +5907,12 @@ color: #ffffff;
   margin:auto;
   width:auto;
   margin-top:20px;
+}
+.c-it2{
+  margin:auto;
+  width:80%;
+  margin-top:20px;
+  display: block;
 }
 .indus-title1{
   margin-left:auto;

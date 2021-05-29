@@ -47,58 +47,65 @@
       </div>
    </div>
 </div>
+
+<div>
+   <img src="img/Component 19 – 1.png"
+      srcset="img/Component 19 – 1@2x.png 2x,
+      imgComponent 19 – 1/component-19-1@3x.png 3x" 
+      width="100%" class="bannerx" >
+</div>
+
 <div class="container-fluid training-container">
-   <div class= "row">
+<div class= "row">
       <h1 class="training-text">Why Choose Brillica Services for IT Training </h1>
-   </div>
-   <div class="row">
-      <img src="img/Component 10 – 1.svg"
-         class="Component-10-1">
-   </div>
-   <div class="row align">
-      <div class="col-lg-6">
-         <img src="img/Component 11 – 1.svg"
-            class="green-content">
-         <div>
-            <p class="t-content">
+   </div>  
+ 
+  <div id="myCarousel2" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+      <li data-target="#myCarousel2" data-slide-to="0" class="active"></li>
+      <li data-target="#myCarousel2" data-slide-to="1"></li>
+      <li data-target="#myCarousel2" data-slide-to="2"></li>
+      <li data-target="#myCarousel2" data-slide-to="2"></li>
+    </ol>
+
+    <!-- Wrapper for slides -->
+   
+    <div class="carousel-inner">
+   <div class="item active">
+        <img src="./img/Component 11 – 1.svg" alt="Los Angeles" class="c-it2">
+        
+       <p class="t-content2">
                We guarantee high-quality training with our  large pool of in-house certified instructors, 
                who bring on-board massive training and education
                industry experience and walk you through the certification success.
             </p>
-         </div>
+        <br><br><br><br>
       </div>
-      <div class="col-lg-6">
-         <img src="img/Component 12 – 1.svg"
-            class="green-content2">
-         <div>
-            <p class="t-content2">
+     
+      <div class="item">
+        <img src="./img/Component 12 – 1.svg" alt="Chicago" class="c-it2">
+        <p class="t-content2">
                Every student counts for us and we ensure to conduct our batches as scheduled, irrespective ofthe number of participants. Unlike others, we do
                not postpone or cancel the training because we
                value your decision and time you make out to fulfil your training needs.
             </p>
-         </div>
+        <br><br><br><br>
       </div>
-   </div>
-   <div class="row align">
-      <div class="col-lg-6">
-         <img src="img/Component 13 – 1.svg"
-            class="green-content">
-         <div>
-            <p class="t-content">
+      <div class="item">
+        <img src="./img/Component 13 – 1.svg" alt="Chicago" class="c-it2">
+       
+        <p class="t-content2">
                We concenter our training to develop the industry-demanded technical skills for all 
                verticals rather than sticking to 
                topic-specific training deliveries. We invest 
                dedicated efforts to add rich value to your technical training experience and your profile for making you best-fit for the corporate world.
             </p>
-         </div>
-         <br>
-         <br>
+        <br><br><br><br>
       </div>
-      <div class="col-lg-6">
-         <img src="img/Component 14 – 1.svg"
-            class="green-content2">
-         <div>
-            <p class="t-content2">
+      <div class="item">
+        <img src="./img/Component 14 – 1.svg" alt="Chicago" class="c-it2">
+        <p class="t-content2">
                We offer holistic learning
                solutions, best to fit the unique
                learning needs of every
@@ -110,30 +117,55 @@
                better, suiting your
                conveniences.
             </p>
-         </div>
+        <br><br><br><br>
       </div>
-   </div>
+      
+   
+    </div>
+    <!-- Left and right controls -->
+   
+  </div>
 </div>
-<div>
-   <img src="img/Component 19 – 1.png"
-      srcset="img/Component 19 – 1@2x.png 2x,
-      imgComponent 19 – 1/component-19-1@3x.png 3x" 
-      width="100%" class="bannerx" >
-</div>
-<div class="container-fluid ">
-   <div class= "row">
-      <h1 class="industry-text">Our Industry Associations</h1>
-   </div>
-   <div class="row">
-      <img src="img/Component 10 – 1.svg"
-         class="Component-10-1">
-   </div>
-   <div class= "row">
-      <img src="img/Component 20 – 1.png"
-         srcset="img/Component 20 – 1@2x.png 2x,
-         img/Component 20 – 1@3x.png 3x"
-         class="industry-associations">
-   </div>
+
+
+
+
+
+
+<div class="container-fluid bx3">
+  <h2 class="industry-association">Our Industry Association</h2>  
+ 
+  <div id="myCarousel2" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+      <li data-target="#myCarousel2" data-slide-to="0" class="active"></li>
+      <li data-target="#myCarousel2" data-slide-to="1"></li>
+      <li data-target="#myCarousel2" data-slide-to="2"></li>
+    </ol>
+
+    <!-- Wrapper for slides -->
+   
+    <div class="carousel-inner">
+   <div class="item active">
+        <img src="./img/m1.png" alt="Los Angeles" class="c-it">
+        <h1 class="indus-title">MICROSOFT</h1>
+        <h1 class="indus-title1">Authorised Education Partner</h1>
+        <br><br><br><br>
+      </div>
+     
+      <div class="item">
+        <img src="./img/m2.png" alt="Chicago" class="c-it">
+        <h1 class="indus-title">IBM</h1>
+        <h1 class="indus-title1">Registered Business Partner</h1>
+        <br><br><br><br>
+      </div>
+    
+      
+   
+    </div>
+    <!-- Left and right controls -->
+   
+  </div>
 </div>
 </body>
 <?php
