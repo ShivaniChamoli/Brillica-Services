@@ -55,11 +55,52 @@
       width="100%" class="bannerx" >
 </div>
 
+
+
+<div class="container-fluid bx3">
+  <h2 class="industry-association">Our Industry Association</h2>  
+ 
+  <div id="myCarousel2" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+      <li data-target="#myCarousel2" data-slide-to="0" class="active"></li>
+      <li data-target="#myCarousel2" data-slide-to="1"></li>
+      <li data-target="#myCarousel2" data-slide-to="2"></li>
+    </ol>
+
+    <!-- Wrapper for slides -->
+   
+    <div class="carousel-inner">
+   <div class="item active">
+        <img src="./img/m1.png" alt="Los Angeles" class="c-it">
+        <h1 class="indus-title">MICROSOFT</h1>
+        <h1 class="indus-title1">Authorised Education Partner</h1>
+        <br><br><br><br>
+      </div>
+     
+      <div class="item">
+        <img src="./img/m2.png" alt="Chicago" class="c-it">
+        <h1 class="indus-title">IBM</h1>
+        <h1 class="indus-title1">Registered Business Partner</h1>
+        <br><br><br><br>
+      </div>
+    
+      
+   
+    </div>
+    <!-- Left and right controls -->
+   
+  </div>
+</div>
+
 <div class="container-fluid training-container">
 <div class= "row">
       <h1 class="training-text">Why Choose Brillica Services for IT Training </h1>
    </div>  
- 
+   <div class= "row">
+   <img src="img/Component 10 – 1.svg"
+    class="Component-10-1">
+   </div> 
   <div id="myCarousel2" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
     <ol class="carousel-indicators">
@@ -119,47 +160,6 @@
             </p>
         <br><br><br><br>
       </div>
-      
-   
-    </div>
-    <!-- Left and right controls -->
-   
-  </div>
-</div>
-
-
-
-
-
-
-<div class="container-fluid bx3">
-  <h2 class="industry-association">Our Industry Association</h2>  
- 
-  <div id="myCarousel2" class="carousel slide" data-ride="carousel">
-    <!-- Indicators -->
-    <ol class="carousel-indicators">
-      <li data-target="#myCarousel2" data-slide-to="0" class="active"></li>
-      <li data-target="#myCarousel2" data-slide-to="1"></li>
-      <li data-target="#myCarousel2" data-slide-to="2"></li>
-    </ol>
-
-    <!-- Wrapper for slides -->
-   
-    <div class="carousel-inner">
-   <div class="item active">
-        <img src="./img/m1.png" alt="Los Angeles" class="c-it">
-        <h1 class="indus-title">MICROSOFT</h1>
-        <h1 class="indus-title1">Authorised Education Partner</h1>
-        <br><br><br><br>
-      </div>
-     
-      <div class="item">
-        <img src="./img/m2.png" alt="Chicago" class="c-it">
-        <h1 class="indus-title">IBM</h1>
-        <h1 class="indus-title1">Registered Business Partner</h1>
-        <br><br><br><br>
-      </div>
-    
       
    
     </div>
