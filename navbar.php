@@ -52,7 +52,7 @@
         background-color:#749b3f !important;
         transition: transform 0.3s ease ;
         transform: translateX(2px);
-        color: rgb(255, 254, 254);
+        color:white !important;
         
       }
       .dd li a{
@@ -158,7 +158,7 @@
         transition: transform 0.3s ease !important;
         transform: translateX(2px) !important;
         color: rgb(255, 254, 254) !important;
-        
+        color:white !important;
       }
       .dd li a{
         color:white !important;
@@ -269,13 +269,13 @@
 
 <nav class="navbar navbar-expand-md navbar-dark bxcc">
   
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main_nav">
+  <button class="navbar-toggler mr-auto" type="button" data-toggle="collapse" data-target="#main_nav" aria-controls="#main_nav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
   <div class="collapse navbar-collapse" id="main_nav">
     
   
-    <ul class="navbar-nav">
+    <ul class="navbar-nav mr-auto">
       <li class="nav-item active"> <a class="nav-link" style="color:white" href="./aboutus.php">ABOUT BRILLICA</a> </li>
       
       <li class="nav-item dropdown" href="./index.php">

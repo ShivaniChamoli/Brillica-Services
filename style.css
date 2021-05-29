@@ -23,8 +23,8 @@ html {
   letter-spacing: normal !important;
   color:rgb(37, 37, 37) !important;
   text-align:left;
-  margin-top:-50px;
-  margin-left: 9%;
+  margin-top:80px;
+  margin-left: 41%;
 }
 
 .about{
@@ -311,8 +311,54 @@ margin-top:-180px;
 
 }
 
-
-
+.redirect2{
+  margin-top: 60px;
+  font-size: 16px;
+  display: block;
+  height:100px;
+  font-family: 'Segoe UI';
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #292727;
+  width:100%;
+  margin-left:41%;
+}
+.redirect3{
+  margin-top: 60px;
+  font-size: 16px;
+  display: block;
+  height:100px;
+  font-family: 'Segoe UI';
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #292727;
+  width:100%;
+  margin-left:20%;
+}
+.redirect4{
+  margin-top: 60px;
+  font-size: 16px;
+  display: block;
+  height:100px;
+  font-family: 'Segoe UI';
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #292727;
+  width:100%;
+  margin-left:2%;
+}
 
 
 
@@ -784,10 +830,10 @@ overflow: hidden;
 }
 
 .text-hover{
-margin-top:-240px;
+margin-top:-340px;
 font-size: 43px;
 color:#749b3f;
-margin-left:22%;
+margin-left:12%;
 font-family: 'Roboto';
 width:100%;
 font-weight: bold;
@@ -800,13 +846,13 @@ text-decoration: none;
 }
 
 .text-hover1{
-  margin-top:-240px;
+  margin-top:-340px;
   font-size: 43px;
   height:200px;
   width:350px;
 color:#749b3f;
-margin-left:70px;
-margin-right: auto;
+margin-left:4px;
+margin-right:auto;
 font-family: 'Roboto';
 display: block;
 font-weight: bold;
@@ -820,12 +866,12 @@ text-decoration: none;
 
 
 .text-hover2{
-  margin-top:-240px;
+  margin-top:-340px;
   font-size: 43px;
   height:200px;
   width:350px;
 color:#749b3f;
-margin-left:auto;
+margin-left:18%;
 margin-right: auto;
 font-family: 'Roboto';
 text-decoration: none;
@@ -834,7 +880,36 @@ font-stretch: normal;
 font-style: normal;
 line-height: normal;
 letter-spacing: normal;
-text-align:center;
+text-align:left;
+}
+.card-content-10{
+  font-family: 'Segoe UI' !important;
+  font-size: 16px !important;
+  font-weight: normal !important;
+  width:100%;
+  font-stretch: normal !important;
+  font-style: normal !important;
+  line-height: normal !important;
+  letter-spacing: normal !important;
+  color:rgb(37, 37, 37) !important;
+  text-align:left;
+  margin-top:-80px;
+  margin-left: 20%;
+}
+.card-content-11{
+  font-family: 'Segoe UI' !important;
+  font-size: 16px !important;
+  font-weight: normal !important;
+  width:100%;
+  font-stretch: normal !important;
+  font-style: normal !important;
+  line-height: normal !important;
+  letter-spacing: normal !important;
+  color:rgb(37, 37, 37) !important;
+  text-align:left;
+  margin-top:-80px;
+  margin-left: 2%;
+ 
 }
 
 
@@ -4797,7 +4872,7 @@ width:90% ;
       color:white !important;
       text-align:left;
     }
-.card-content-9{
+.card-content-9,.card-content-10,.card-content-11{
   font-family: 'Segoe UI' !important;
   font-size: 16px !important;
   font-weight: normal !important;
@@ -4852,7 +4927,7 @@ width:90% ;
       color: #ffffff;
       width:100%
     }
-    .redirect2{
+    .redirect2,.redirect3,.redirect4{
       margin-top: 60px;
       font-size: 16px;
       display: block;

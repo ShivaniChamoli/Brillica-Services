@@ -445,7 +445,7 @@ practice.
         <div><img src="./img/Group 2259.png" class="Group-2259">
 
         <h1 class="text-hover2 leadx2">Career</h1>
-        <div class="card-content-9">
+        <div class="card-content-10">
             <p>
                 An internship is the best way to<br>
 put classroom knowledge to <br>
@@ -453,7 +453,7 @@ practice.
             </p>
         </div>
         <div >
-            <a class="redirect2" href="#">Know More&nbsp&nbsp></a>
+            <a class="redirect3" href="#">Know More&nbsp&nbsp></a>
         </div>
       </div>
     
@@ -466,7 +466,7 @@ practice.
         <a href="./contactus.php"> 
             <div><img class="Group-2258" src="./img/Group 2258.png" class="Group-2258">
             <h1 class="text-hover1 leadx3">Contact</h1>
-            <div class="card-content-9">
+            <div class="card-content-11">
             <p>
                 An internship is the best way to<br>
 put classroom knowledge to <br>
@@ -474,7 +474,7 @@ practice.
             </p>
         </div>
         <div >
-            <a class="redirect2" href="./contactus.php">Know More&nbsp&nbsp></a>
+            <a class="redirect4" href="./contactus.php">Know More&nbsp&nbsp></a>
         </div>
           </div>
      
