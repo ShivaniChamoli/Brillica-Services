@@ -13,9 +13,9 @@ include_once 'floatingbuttons.php';
 </head>
 <body>
     <div class="container-fluid"><div class="row">
-        <img src="./img/group 2239.jpg"
-     srcset="./img/group 2239@2x.jpg 2x,
-             ./img/group 2239@3x.jpg 3x"
+        <img src="./img/Group 2239.jpg"
+     srcset="./img/Group 2239.jpg 2x,
+     ./img/Group 2239.jpg 3x"
      class="Group-75">
      <h1 class="catalog">Internship</h1>
      <p class="catalog-p">Struggling to get an interview call or a job interview?<br>
@@ -121,7 +121,7 @@ Internships are often temporary and for a fixed period which is decided by the p
     
     <div class="container-fluid">
         <div class="row">
-  <h2 class="get-in-touch1">GET IN TOUCH</h2> <a href="mailto:info@brillicaservices.com?subject=Internship Enquiry"><span><img src="./img/group 146.svg"
+        <a href="mailto:info@brillicaservices.com?subject=Internship Enquiry"> <h2 class="get-in-touch1">GET IN TOUCH</h2> <span><img src="./img/Group 146.svg"
      class="Group-146" id="showx"></span></a>
 </div>
     </div>

@@ -159,8 +159,9 @@ Development.</p>
 
 <div class="container-fluid">
 <div class="row">
- <h2 class="get-in-touch">GET IN TOUCH</h2>
- <a href="mailto:info@brillicaservices.com?subject=Faculty Development Programme Enquiry"><span><img src="./img/Group 146.svg"
+<a href="mailto:info@brillicaservices.com?subject=Faculty Development Programme Enquiry">
+  <h2 class="get-in-touch">GET IN TOUCH</h2>
+ <span><img src="./img/Group 146.svg"
      class="Group-146" id="showx"></span></a>
 </div>
 </div>

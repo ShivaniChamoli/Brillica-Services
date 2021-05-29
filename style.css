@@ -5232,8 +5232,8 @@ height:fit-content;
   background-color: #edecec;
 }
 .sh{
-  height:150px;
-  width:90%;
+  height:190px;
+  width:96%;
   margin-left:auto;
   margin-right:auto;
   display: block;
@@ -5314,10 +5314,10 @@ height:fit-content;
   -webkit-filter: grayscale(100%);
 }
 
-.get-in-touch1,.get-in-touch{
-  width: 50%;
+.get-in-touch{
+  width: 100%;
   height: auto;
-  margin: 30px auto -20px auto;
+  margin: 30px auto -20px 30%;
   object-fit: contain;
   font-family:'Segoe UI';
   font-size: 26px;
@@ -5329,11 +5329,30 @@ height:fit-content;
   text-align: center;
   color: #2c2c2c;
 }
-.Group-146 {
-  width:85%;
+.get-in-touch1{
+  width: 100%;
   height: auto;
-  margin: 40px auto 0px 0px;
+  margin: 30px auto -20px 30%;
   object-fit: contain;
+  font-family:'Segoe UI';
+  font-size: 26px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #2c2c2c;
+  
+}
+.Group-146 {
+  
+    width: 25%;
+    height: auto;
+    margin: -31px auto 0px 135%;
+    object-fit: contain;
+    display: block;
+
 }
 .catalog2{
   width: 100%;
