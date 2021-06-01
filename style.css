@@ -3768,18 +3768,13 @@ width:1250px;
   }
   
   .black-box {
-    width: 108%;
+    width: 100%;
     text-align: right;
     margin-top:-119px;
-    background-color:#242424;
+    background-color:white;
     height:35px;
     margin-left: -15px;  
   }
-  .green-box:hover{
-    background-color: #242424;
-  }
-
-
   .Rectangle-39, .Rectangle-46, .Rectangle-47, .Rectangle-48, .Rectangle-45, .Send{
     width: 45%;
     margin-left: 0px;
