@@ -1233,7 +1233,7 @@ margin-right:10px;
   height: 30px;
   margin: 20px auto 20px 2%;
   color: black;
-  border-radius: 8px;;
+  border-radius: 8px;
 }
 .twitter1{
   width: 30px;
@@ -3760,7 +3760,7 @@ width:1250px;
 
   .facebook1, .twitter1, .linkedin1 {
     margin-left: 2px;
-    margin-right: 1px;
+    margin-right: 3px;
     width:18px;
     height:18px;
     margin-top:7px;
