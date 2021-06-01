@@ -108,9 +108,9 @@ include_once 'floatingbuttons.php';
 </head>
 <body>
     <div class="container-fluid"><div class="row">
-        <img src="img/group 71.jpg"
-     srcset="img/group 71@2x.jpg 2x,
-             img/group 71@3x.jpg 3x"
+        <img src="./img/group 71.jpg"
+     srcset="./img/group 71@2x.jpg 2x,
+             ./img/group 71@3x.jpg 3x"
      class="Group-36">
      <h1 class="catalog">Contact</h1>
      <p class="catalog-p">Explore your learning potentials with Brillica Services.</p>
