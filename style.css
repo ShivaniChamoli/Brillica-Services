@@ -4105,7 +4105,7 @@ width:1250px;
     margin: -241px 27px 6px 20px;
     text-shadow: 0 3px 6px var(--black-16);
     font-family: 'Archivo';
-    font-size: 30px;
+    font-size: 26px;
     font-weight: 900;
     font-stretch: normal;
     font-style: normal;
@@ -4129,8 +4129,8 @@ width:1250px;
 }
 .catalog-p1{
   width:100%;
-  height: 108px;
-  margin: -181px 10px 0 20px;
+  height: auto;
+  margin: -161px 10px 0 20px;
   object-fit: contain;
   font-family: 'Segoe UI';
   font-size: 14px;
@@ -5606,10 +5606,10 @@ height:fit-content;
 .leadership-text{
   width: 100%;
   height: 87px;
-  margin: -160px 0px 12px 4%;
+  margin: -125px 0px 12px 4%;
   text-shadow: 0 3px 6px var(--black-16);
   font-family: 'Archivo';
-  font-size: 35px;
+  font-size: 30px;
   font-weight: 900;
   font-stretch: normal;
   font-style: normal;
@@ -5621,10 +5621,10 @@ height:fit-content;
 }
 .leadership-paragraph{
   width: 100%;
-  height: 105px;
-  margin: -110px 0px 65px 4%;
+  height: 85px;
+  margin: -80px 0px 65px 4%;
   font-family: 'Segoe UI';
-  font-size: 17px;
+  font-size: 14.5px;
   font-weight: normal;
   font-stretch: normal;
   font-style: normal;
@@ -5645,10 +5645,10 @@ height:fit-content;
 }
 .yogendrasir2,.pooja-mam2{
   width: 50%;
-  height: 302px;
+  height: auto;
   transition: filter .5s ease-in-out;
-  -webkit-filter: grayscale(100%);
-  margin-top:100px;
+  -webkit-filter: grayscale(0%);
+  margin-top:-30px;
   display:block;
   margin-left: auto;
   margin-right: auto;
@@ -5985,5 +5985,11 @@ color: #ffffff;
     color: #2e2e30;
     color: #797575;
     font-family: 'Segeo UI';
+  }
+  .background1{
+    background-size: cover;
+    background-position: center;
+   background-repeat:no-repeat;
+    width:100%;
   }
 }

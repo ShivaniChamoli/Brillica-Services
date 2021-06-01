@@ -32,7 +32,7 @@ include_once 'floatingbuttons.php';
 
 		<div class="col-lg-6 col-md-12 col-xs-12 col-sm-12  anch ">
 			
-			<img class="yogendrasir2" src="img/Yogendra.jpg">
+			<img class="yogendrasir2" src="./img/Yogendra.jpg">
             
             <div ><p class="leadership-col-1-name">
                 Yogendra Singh Negi
@@ -51,7 +51,7 @@ include_once 'floatingbuttons.php';
 		
 </div>
 <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12  anch ">
-<img class="pooja-mam2" src="img/poojamam.jpg">
+<img class="pooja-mam2" src="./img/poojamam.jpg">
            
             <div ><p class="leadership-col-2-name">
                 Pooja Pandey
@@ -70,7 +70,7 @@ include_once 'floatingbuttons.php';
              
 </div>
 <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12  anch ">
-<img class="yogendrasir2" src="img/Manishamam.jpg">
+<img class="yogendrasir2" src="./img/Manishamam.jpg">
             
             <div ><p class="leadership-col-1-name">
             Manisha Chauhan Negi
@@ -89,7 +89,7 @@ include_once 'floatingbuttons.php';
 		
 </div>
 <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12  anch ">
-<img class="pooja-mam2" src="img/priya.jpg">
+<img class="pooja-mam2" src="./img/priya.jpg">
             
             <div ><p class="leadership-col-2-name">
             Priya Chauhan
@@ -108,7 +108,7 @@ include_once 'floatingbuttons.php';
 </div>
 <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12  anch ">
 			
-			<img class="yogendrasir2" src="img/Reenamam.jpg">
+			<img class="yogendrasir2" src="./img/Reenamam.jpg">
             
             <div ><p class="leadership-col-1-name">
             Reena Negi
@@ -127,7 +127,7 @@ include_once 'floatingbuttons.php';
 		
 </div>
 <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12  anch ">
-<img class="pooja-mam2" src="img/Deepikamam.jpeg">
+<img class="pooja-mam2" src="./img/Deepikamam.jpeg">
            
             <div ><p class="leadership-col-2-name">
             Deepika Negi
@@ -146,7 +146,7 @@ include_once 'floatingbuttons.php';
              
 </div>
 <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12  anch ">
-<img class="yogendrasir2" src="img/ayushsir.jpeg">
+<img class="yogendrasir2" src="./img/ayushsir.jpeg">
             
             <div ><p class="leadership-col-1-name">
             Ayush Shukla
@@ -165,7 +165,7 @@ include_once 'floatingbuttons.php';
 		
 </div>
 <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12  anch ">
-<img class="pooja-mam2" src="img/Nandeshsir.jpg">
+<img class="pooja-mam2" src="./img/Nandeshsir.jpg">
             
             <div ><p class="leadership-col-2-name">
             Nandesh Prasad
@@ -184,7 +184,7 @@ include_once 'floatingbuttons.php';
 </div>
 <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12  anch ">
 			
-			<img class="yogendrasir2" src="img/Anshumansir.jpg">
+			<img class="yogendrasir2" src="./img/Anshumansir.jpg">
             
             <div ><p class="leadership-col-1-name">
             Anshuman Yadav
@@ -203,7 +203,7 @@ include_once 'floatingbuttons.php';
 		
 </div>
 <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12  anch ">
-<img class="pooja-mam2" src="img/Shivam.jpeg">
+<img class="pooja-mam2" src="./img/Shivam.jpeg">
            
             <div ><p class="leadership-col-2-name">
             Shivam Negi
@@ -222,7 +222,7 @@ include_once 'floatingbuttons.php';
              
 </div>
 <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12  anch ">
-<img class="yogendrasir2" src="img/Shivani.jpg">
+<img class="yogendrasir2" src="./img/Shivani.jpg">
             
             <div ><p class="leadership-col-1-name">
             Shivani Chamoli
