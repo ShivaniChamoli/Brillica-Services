@@ -87,18 +87,20 @@
       .dropdown-menu > li:hover > .submenu{
         display: block !important; 
       }
+      .mnp{
+        width:101% !important;
+      }
     	
     .nav-item{
       color:white !important;
-      margin-left:auto !important;
-      margin-right:auto !important;
       display: block !important;
       font-weight:600 !important;
-      margin-top: -10px !important;
-      width:280px !important;
-      text-align: center !important;
-      font-size:19px !important;
-    }
+      margin-top: -19px !important;
+      text-align: center;
+      font-size:16px !important;
+     margin-left: 13% !important;
+    
+         }
     
     
     .navbar .nav-item:hover .dd
@@ -272,11 +274,11 @@
   <button class="navbar-toggler mr-auto" type="button" data-toggle="collapse" data-target="#main_nav" aria-controls="#main_nav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
-  <div class="collapse navbar-collapse" id="main_nav">
+  <div class="collapse navbar-collapse mn" id="main_nav">
     
   
     <ul class="navbar-nav mr-auto">
-      <li class="nav-item active"> <a class="nav-link" style="color:white" href="./aboutus.php">ABOUT BRILLICA</a> </li>
+      <li class="nav-item active"> <a class="nav-link" style="color:white" href="./aboutus.php">ABOUT&nbspBRILLICA</a> </li>
       
       <li class="nav-item dropdown" href="./index.php">
         <a class="nav-link dropdown-toggle" style="color:white" href="#" data-toggle="dropdown">OUR SERVICES</a>
@@ -357,8 +359,9 @@
           
           </ul>
 </li>
-      <li class="nav-item" > <a class="nav-link" style="color:white" href="./contactus.php">CONTACT US</a> </li>
+      <li class="nav-item" > <a class="nav-link" style="color:white" href="./contactus.php">CONTACT&nbspUS</a> </li>
       <li class="nav-item"> <a class="nav-link" style="color:white" href="./blog3.php">BLOG</a> </li>
+      <li class="nav-item"> <a class="nav-link" style="color:white" href="https://pages.razorpay.com/pl_DpExGgOHtCpfuW/view">PAY&nbspONLINE</a> </li>
     </ul>
   
   

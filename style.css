@@ -1210,36 +1210,36 @@ margin-right:10px;
   color: #242424;
 }
 .ph-icon{
-  width: 12.7px;
-  height: 12.7px;
-  margin-left:240px;
-  margin-top:-4px;
-}
-.black-box{
-  background-color:#242424;
-  margin-left:-165px;
-  width:120px;
- 
-}
-.facebook1{
   width: 14.8px;
   height: 14.8px;
   margin: 9.1px 14.7px 9.2px 6px;
   color: #bababd;
 }
+.black-box{
+  background-color:white;
+  margin-left:0px;
+  width:100%;
+ 
+}
+.facebook1{
+  width: 30px;
+  height: 30px;
+  margin: 20px auto 20px 55%;
+  color: black;
+}
 
 .linkedin1{
-  width: 14.8px;
-  height: 14.8px;
-  margin: 9.1px 14.7px 9.2px -5px;
-  color: #bababd;
+  width: 30px;
+  height: 30px;
+  margin: 20px auto 20px 2%;
+  color: black;
   border-radius: 8px;;
 }
 .twitter1{
-  width: 14.8px;
-  height: 14.8px;
-  margin: 9.1px 14.7px 9.2px -10px;
-  color: #bababd;
+  width: 30px;
+  height: 30px;
+  margin: 20px auto 20px 2%;
+  color: black;
   border-radius: 8px;;
 }
 .green-box{
@@ -3761,34 +3761,19 @@ width:1250px;
   .facebook1, .twitter1, .linkedin1 {
     margin-left: 10px;
     margin-right: 10px;
-    width:20px;
-    height:18px;
+    width:22px;
+    height:22px;
     margin-top:5px;
     color:white;
   }
   
   .black-box {
-    margin-left: 54%;
-    width: 50%;
-    text-align: center;
-    margin-top:-160px;
+    width: 107%;
+    text-align: right;
+    margin-top:-119px;
     background-color:#242424;
-
-  }
-
-  .pay-online {
-    width:100px;
-    text-align: center;
-    padding-top:7px;
-    color:#242424;
-    margin-left:50px;
-    border-radius: 7px;
-    box-shadow: 1px 1px #d3dbd4;
-   background-color:white;
-   height:32px;
-   text-align:center
-    
-    
+    height:35px;
+    margin-left: -15px;  
   }
   .green-box:hover{
     background-color: #242424;
@@ -4116,7 +4101,7 @@ width:1250px;
 }
 .description-heading{
   width:100%;
-    height: 87px;
+    height: auto;
     margin: -241px 27px 6px 20px;
     text-shadow: 0 3px 6px var(--black-16);
     font-family: 'Archivo';
@@ -4163,33 +4148,33 @@ width:1250px;
   margin-top:10%;
   background-color:#edecec ;
   height:fit-content;
-  padding: 5px 0px 0px 10px;
+  padding: 5px 0px 10px 10px;
   width:95%;
 }
 .high-heading
 { width: 100%;
-  
-  height: 40px;
-  margin: 0 114px 26px 20px;
+  height: auto;
+  margin: 5px auto 0px auto;
   object-fit: contain;
   font-family: 'Segoe UI';
-  font-size: 35px;
+  font-size: 28px;
   font-weight: bold;
   font-stretch: normal;
   font-style: normal;
   line-height: normal;
   letter-spacing: normal;
-  text-align: left;
+  text-align: center;
   color: #444444;
+  display: block;
 
 }
 .highlights{
   width: 90%;
-  
-  margin: 10px 0 0 25px;
+  height: auto;
+  margin: 10px 0 0px 25px;
   object-fit: contain;
   font-family: 'Segoe UI';
-  font-size: 20px;
+  font-size: 17px;
   font-weight: normal;
   font-stretch: normal;
   font-style: normal;
@@ -4201,34 +4186,35 @@ width:1250px;
 .prerequisite{
   margin-left:auto;
   margin-right:auto;
-  margin-top:10%;
+  margin-top:20px;
   background-color:#edecec ;
   height:fit-content;
-  padding: 5px 20px 57px 20px;
+  padding: 5px 20px 5px 20px;
   width: 95%;
+  height: fit-content;
 }
 .pre-heading{
-
   width: 100%;
-  height: 40px;
+  height:auto;
   object-fit: contain;
   font-family: 'Segoe UI';
-  font-size: 35px;
+  font-size: 28px;
   font-weight: bold;
   font-stretch: normal;
   font-style: normal;
   line-height: normal;
   letter-spacing: normal;
-  text-align: left;
+  text-align: center;
   color: #444444;
+  margin-top: 5px;
 }
 .pre-para{
   width: 90%;
   height:fit-content;
-  padding: 9px 20px 30px 30px;
+  padding: 9px 20px 10px 30px;
   object-fit: contain;
   font-family: 'Segoe UI';
-  font-size: 20px;
+  font-size: 17px;
   font-weight: normal;
   font-stretch: normal;
   font-style: normal;
@@ -4242,32 +4228,33 @@ width:1250px;
   margin-top:10% !important;
   background-color:#edecec !important;
   height:fit-content !important;
-  padding: 9.7px 10px 57px 10px !important;
+  padding: 9.7px 10px 5px 10px !important;
   width:95% !important;
+  height:fit-content;
 }
 .high-heading2{
   width: 100%;
-  height: 40px;
-  margin: 5px 114px 46px 20px;
+  height:auto;
+  margin: 5px auto 30px auto;
   object-fit: contain;
   font-family: 'Segoe UI';
-  font-size: 35px;
+  font-size: 28px;
   font-weight: bold;
   font-stretch: normal;
   font-style: normal;
   line-height: normal;
   letter-spacing: normal;
-  text-align: left;
+  text-align: center;
   color: #444444;
 
 }
 .content-2{
   width: 90%;
   height: fit-content;
-  margin: 10px 0 0 25px;
+  margin: 10px 0 20px 25px;
   object-fit: contain;
   font-family: 'Segoe UI';
-  font-size: 20px;
+  font-size: 17px;
   font-weight: normal;
   font-stretch: normal;
   font-style: normal;
@@ -4280,19 +4267,23 @@ width:1250px;
   display:none;
 }
 .course-head{
-  font-size: 24px;
+  font-size: 28px;
   font-weight: bold;
   color: #749b3f;
-  margin-top:12%;
+  margin-top:30px;
   width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  margin-bottom: 0px;
 }
 .desc-para,.desc-para1{
   width: 90%;
   height: fit-content;
-  margin: 20px auto 40px auto;
+  margin: 20px auto 0px auto;
   object-fit: contain;
   font-family: 'Segoe UI';
-  font-size: 18px;
+  font-size: 17px;
   font-weight: normal;
   font-stretch: normal;
   font-style: normal;
@@ -4307,19 +4298,19 @@ width:1250px;
 .obj{
  
   width: 100%;
-  margin: 0px 0 71px;
-  margin-bottom:50px;
+  margin: 30px 0 30px;
+  margin-bottom:30px;
   padding: 24px 118px 46px 183px;
   object-fit: contain;
   background-color: #edecec;
 }
 .objective{
  width: 100%;
-height: 106px;
-margin: 0 10px 20px 40px;
+height: auto;
+margin: 0 auto 20px auto;
 object-fit: contain;
 font-family: 'Segoe UI';
-font-size: 35px;
+font-size: 28px;
 font-weight: bold;
 font-stretch: normal;
 font-style: normal;
@@ -4331,12 +4322,12 @@ color: #444444;
 
 .objective-para{
   width: 100%;
-height: 36px;
-margin: -55px auto auto auto;
+height: auto;
+margin: 0px auto 30px auto;
 display: block;
 object-fit: contain;
 font-family: 'Segoe UI';
-font-size: 19.5px;
+font-size: 18px;
 font-weight: 600;
 font-stretch: normal;
 font-style: normal;
@@ -4349,21 +4340,21 @@ color: #444444;
   display: none;
 }
 .thumbxc{
-  margin-top:20px;
-  margin-bottom:40px;
+  margin-top:auto;
+  margin-bottom:auto;
   margin-left:0px;
 }
 .c_obj{
-  width: 100%;
+  width: 80%;
     height: auto;
     margin: 0px auto 0px auto;
     font-family: 'Segoe UI semibold';
-    font-size: 20px;
+    font-size:16.5px;
     font-stretch: normal;
     font-style: normal;
     line-height: normal;
     letter-spacing: normal;
-    text-align:left;
+    text-align:center;
     color: #749b3f;
    
   }
@@ -4371,7 +4362,7 @@ color: #444444;
    display:none;
   }
   .tad{
-    font-size: 35px;
+    font-size: 28px;
     width: 100%;
     font-weight: bold;
     color: #749b3f;
@@ -4388,9 +4379,9 @@ color: #444444;
   }
   .sub-h{
     width: 100%;
-    height: 44px;
+    height: auto;
     font-family: 'Segoe UI';
-    font-size: 25px;
+    font-size: 21px;
     font-weight: 600;
     font-stretch: normal;
     font-style: normal;
@@ -4399,14 +4390,15 @@ color: #444444;
     text-align: center;
     color: #444444;
     margin: auto;
+    margin-top: 10px;
   
   }
   .par-c{
-    width: 100%;
+    width: 90%;
     height: fit-content;
-    margin:auto auto auto auto;
+    margin:10px auto 30px auto;
     font-family: 'Segoe UI';
-    font-size: 20px;
+    font-size: 17px;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
@@ -5371,12 +5363,12 @@ height:fit-content;
 }
 .fdpp1{
   width: 100%;
-  height: 90px;
-  margin: 0px auto 20px auto;
+  height: auto;
+  margin: 30px auto 0px auto;
   object-fit: contain;
   font-family: 'Segoe UI';
-  font-size: 18px;
-  font-weight: 600;
+  font-size: 16px;
+  font-weight: normal;
   font-stretch: normal;
   font-style: normal;
   line-height: normal;
@@ -5385,9 +5377,9 @@ height:fit-content;
   color: #2c2c2c;
 }
 .fdp{
-  width: 100%;
-  height: 58px;
-  margin: 59px auto 20px auto;
+  width: 90%;
+  height: auto;
+  margin: 30px auto 0px auto;
   object-fit: contain;
   font-family: 'Segoe UI';
   font-size: 35px;
@@ -5402,13 +5394,13 @@ height:fit-content;
 .Group-152{
   width: 100%;
   height: auto;
-  margin: 0px auto 20px auto;
+  margin: 30px auto 0px auto;
   object-fit: contain;
 }
 .fdp2{
   width: 100%;
-  height: 58px;
-  margin: 0px auto 20px auto;
+  height: auto;
+  margin: 0px auto 0px auto;
   object-fit: contain;
   font-family: 'Segoe UI';
   font-size: 35px;
@@ -5423,14 +5415,14 @@ height:fit-content;
 .Group-147 {
   width: 100%;
   height: 80%;
-  margin: 10px auto 0px auto;
+  margin: 30px auto 0px auto;
   object-fit: contain;
 }
 .fdpbded{
   width: 100%;
   height:auto;
-  margin: 74px 0 54px;
-  padding: 30px 140px 60px 155px;
+  margin: 30px 0 0px;
+  padding: 30px auto 60px auto;
   object-fit: contain;
   opacity: 1;
   background-color: #EDECEC;
@@ -5438,10 +5430,10 @@ height:fit-content;
 .t1{
   width:100%;
   height: 60px;
-  margin: -480px auto 76px 100px;
+  margin: -480px auto 76px 90px;
   object-fit: contain;
   font-family: 'Segoe UI';
-  font-size: 22px;
+  font-size: 17px;
   font-weight: 600;
   font-stretch: normal;
   font-style: normal;
@@ -5451,10 +5443,10 @@ height:fit-content;
   color: #444444;
 }
 .t1,.t2,.t3,.t4{
-  margin-left:100px;
-  width:85%;
+  margin-left:90px;
+  width:70%;
   font-family: 'Segoe UI';
-  font-size: 22px;
+  font-size: 17px;
   font-weight: 600;
   font-stretch: normal;
   font-style: normal;
@@ -5463,8 +5455,8 @@ height:fit-content;
 }
 .fdp3{
   width: 100%;
-  height: 58px;
-  margin: 20px auto 40px auto;
+  height: auto;
+  margin: 30px auto 0px auto;
   object-fit: contain;
   font-family: 'Segoe UI';
   font-size: 35px;
@@ -5514,9 +5506,9 @@ height:fit-content;
   object-fit: contain;
 }
 .Rectangle-264,.Rectangle-266,.Rectangle-265,.Rectangle-262,.Rectangle-263,.Rectangle-261{
-  width: 70%;
+  width: 75%;
   height: 300px;
-  margin: 29px auto 30px auto;
+  margin: 30px auto 0px auto;
   padding: 27.1px 13px 28px 14px;
   object-fit: contain;
 }

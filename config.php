@@ -6,9 +6,9 @@
 //$database = "brillicamain";
 
 $hostname = "sql6.freemysqlhosting.net";
-$username = "sql6414507";     
-$password = "qBFEUxmN3C";
-$database = "sql6414507";
+$username = "sql6416316";     
+$password = "ihTSgAd3X6";
+$database = "sql6416316";
 $conn = new mysqli("$hostname","$username","$password","$database");
 
 // Check connection
