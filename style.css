@@ -3992,10 +3992,10 @@ width:1250px;
       .course-col-1{
 
         width:82%;
-          height: auto;
+          height:60px;
           margin: -50px 4.7px 15px 20px;
           font-family: 'Segoe UI';
-          font-size: 13.5px;
+          font-size: 12px;
           font-weight: bold;
           font-stretch: normal;
           font-style: normal;
