@@ -27,11 +27,11 @@
 
     <div class="col-lg-8 col-xlg-8">
         <div class="black-box">
-            <a href="https://www.facebook.com/BrillicaServices" ><img src="./img/facebook-circular-logo.svg" class="facebook1"></a>
-              <a href="https://www.linkedin.com/company/brillica-services-pvt-ltd" target="_blank" > <img src="./img/linkedin.svg" class="twitter1"></a>
-              <a href="https://twitter.com/BrillicaServic1" target="_blank" > <img src="./img/twitter.svg" class="twitter1"></a>
-              <a href="https://www.instagram.com/brillicaservices0309/"><img src="./img/instagram (1).svg" class="twitter1">
-              <a href="tel:+91 88821-40688"><img src="./img/phone-call.svg" class="twitter1"></a>
+            <a href="https://www.facebook.com/BrillicaServices"><i class="fab fa-facebook"></i></a>
+              <a href="https://www.linkedin.com/company/brillica-services-pvt-ltd" target="_blank" > <i class="fab fa-linkedin-in twitter1"></i></a>
+              <a href="https://twitter.com/BrillicaServic1" target="_blank" > <i class="fab fa-twitter twitter1"></i></a>
+              <a href="https://www.instagram.com/brillicaservices0309/"><i class="fab fa-instagram twitter1"></i></a>
+              
         
     </div>
    

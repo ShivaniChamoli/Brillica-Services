@@ -359,9 +359,10 @@
           
           </ul>
 </li>
-      <li class="nav-item" > <a class="nav-link" style="color:white" href="./contactus.php">CONTACT&nbspUS</a> </li>
+     
       <li class="nav-item"> <a class="nav-link" style="color:white" href="./blog3.php">BLOG</a> </li>
       <li class="nav-item"> <a class="nav-link" style="color:white" href="https://pages.razorpay.com/pl_DpExGgOHtCpfuW/view">PAY&nbspONLINE</a> </li>
+      <li class="nav-item" > <a class="nav-link" style="color:white" href="./contactus.php">CONTACT&nbspUS</a> </li>
     </ul>
   
   
