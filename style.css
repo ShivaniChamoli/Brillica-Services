@@ -1086,9 +1086,21 @@ margin-top: 2%!important;
   margin: 29.1px 14.7px 9.2px -70px;
   color: #bababd;
 }
-.facebook:hover{
-  color: #21dd10;
-  transform: scale(1.1);
+.fa-phone-alt{
+color:black;
+font-size:22px;
+}
+.txt-con{
+  color:black;
+  font-size:18px;
+  font-family: 'Segoe UI bold';
+  width:250px;
+}
+.txt-con2{
+  color:black;
+  font-size:18px;
+  font-family: 'Segoe UI bold';
+  width:250px;
 }
 .linkedin{
   width: 40px;
@@ -1096,10 +1108,6 @@ margin-top: 2%!important;
   margin: 29.1px 14.7px 9.2px -5px;
   color: #bababd;
   border-radius: 8px;;
-}
-.linkedin:hover{
-  color: #2e6de4;
-  transform: scale(1.1);
 }
 .twitter{
   width: 40px;
@@ -1224,7 +1232,7 @@ margin-right:10px;
 .fa-facebook{
   width: 35px;
   height: 34px;
-  margin: 20px auto 20px 53%;
+  margin: 20px auto 20px 30%;
   font-size:33px;
   color: black;
   
@@ -6002,4 +6010,23 @@ color: #ffffff;
    background-repeat:no-repeat;
     width:100%;
   }
+  .fa-phone-alt{
+    color:white;
+    font-size:12px;
+    
+    }
+    .txt-con{
+      color:white;
+      font-size:10px;
+      font-family: 'Segoe UI';
+      font-weight: bold;
+    } 
+    .txt-con2{
+      color:white;
+      font-size:10px;
+      font-family: 'Segoe UI';
+      font-weight: bold;
+      margin-right:22%;
+    }  
+
 }
