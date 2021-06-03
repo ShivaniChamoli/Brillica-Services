@@ -18,8 +18,7 @@ include_once 'floatingbuttons.php';
              img/Group 154@3x.png 3x"
      class="Group-36">
      <h1 class="catalog2">Faculty Development Programme</h1>
-     <p class="catalog-p3">The Faculty Development Program is a 5 Day program that covers detailed 
-sessions and discussions on all the topics as prescribed.</p>
+     <p class="catalog-p3">Faculty Development Program is a skill development program specially designed for academic educators.</p>
     </div>
 
     <div class="row">

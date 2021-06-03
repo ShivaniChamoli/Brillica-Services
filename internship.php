@@ -18,10 +18,8 @@ include_once 'floatingbuttons.php';
      ./img/Group 2239.jpg 3x"
      class="Group-75">
      <h1 class="catalog">Internship</h1>
-     <p class="catalog-p">Struggling to get an interview call or a job interview?<br>
-Ever wondered why is it so difficult?
-<br><br>
-Get IT Internships and Work Experience Guidance by Experts</p> 
+     <p class="catalog-p">
+Get IT Internships and Work Experience Guidance by Experts and work on live projects.</p> 
     </div>
     <div class="row">
        <div> <h1 class="internship-heading">

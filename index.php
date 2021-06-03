@@ -420,7 +420,7 @@ class="certified">
         <div class="col-lg-4  col-xlg-4 col-sm-12 box3">
           <a href="./leadership2.php">
               <div><img class="Group-2255" src="./img/Group 2260.png">
-              <h1 class="text-hover leadx">Leadership</h1>
+              <h1 class="text-hover leadx">Our Team</h1>
               <div class="card-content-9">
             <p>
                 An internship is the best way to<br>

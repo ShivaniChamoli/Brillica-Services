@@ -31,14 +31,15 @@ if ($result->num_rows > 0) {
      srcset="./img/Group 36@2x.png 2x ,
              ./img/group 36@3x.png 3x"
      class="Group-36">
-    <div> <h1 class="catalog">Course Catalog</h1></div>
-   
+     <h1 class="catalog">Course Catalog</h1>
+     <p class="catalog-p">Learn Highly demanded IT Training Programs with us. ONLINE | OFFLINE both modes available.</p>
     </div>
     </div>
     
   <div class="container-fluid" id="c">
  <div class="row">
       <h1 class="courses-heading">Top-Ranked & Highly Demanded IT Courses</h1>
+      
   </div>
   <div class="row">
     <img src="img/Component 10 – 1.svg"
