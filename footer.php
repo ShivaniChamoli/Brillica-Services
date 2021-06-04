@@ -84,7 +84,7 @@ include 'header.php';
   <div class="fbod">
 
 </div>
-<div class="container-fluid noPaddingMobile">
+<div class="container noPaddingMobile">
   
     <h3>
 <a href="./privacypolicy.php" class="privacy">Privacy Policy</a> <span style="margin-left:5px;color: #bababd;margin-right:5px;  font-size: 13px;"> | </span>

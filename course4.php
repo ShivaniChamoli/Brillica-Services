@@ -46,9 +46,9 @@ if ($result->num_rows > 0) {
     class="bar">
 </div>
 <div class="row">
-        <div class="col-lg-3 col-xlg-3 col-md-3 col-sm-12">
+        <div class="col-lg-3 col-xl-3 col-md-3 col-sm-12">
     <h1 class="courses-training-courses">Training Courses</h1></div>
-    <div class="col-xlg-7 col-lg-7">
+    <div class="col-xl-7 col-lg-7">
         <input type="text" id="myInput" class="form-control rounded searchbar" onkeyup="myFunction()" placeholder="Search" title="Type in a name">
         
     </div>

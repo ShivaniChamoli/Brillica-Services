@@ -22,7 +22,7 @@
     class="BRILLICA-HD-Logo"></a>
 </div>
 
-    <div class="col-lg-6 col-xlg-6">
+    <div class="col-lg-8 col-xl-8">
         <div class="black-box">
 
         <a  href="tel:88821-40688"><i class="fas fa-phone-alt"></i><span class="txt-con"> +91 88821-40688  &nbsp|</a></span> <a  href="tel:90840-63259"><span class="txt-con2"> +91 90840-63259</a></span>

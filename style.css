@@ -24,7 +24,7 @@ html {
   color:rgb(37, 37, 37) !important;
   text-align:left;
   margin-top:80px;
-  margin-left: 41%;
+  margin-left: 12%;
 }
 
 .about{
@@ -36,33 +36,32 @@ color:green;
         color: green;
 }
   .brillica-aboutpage-content{
-    width: 460px;
-  height: 444px;
+    width: 90%;
+  height: fit-content;
   margin-top: 94px;
-  margin-left:180px;
-  font-size: 21px;
-  font-family: 'Segoe UI';
+  
+  font-size: 22px;
+  font-family: 'Segoe UI bold';
   color:#595858;
 text-align: justify ;
 
   }
   .line-between-aboutpage-content{
     width: 2px !important;
-    height: 350px !important;
-    margin: 94px 40px 43px 0px !important;
-    margin-left:100px !important;
+    height: fit-content !important;
+    margin: 94px 0px 43px 20px !important;
     object-fit: contain !important;
     margin-top:94px !important;
   
   }
   .brillica-content-2{
-    width: 90%;
-    margin-left:-50px;
-  height: 444px;
+    width: 80%;
+    margin-left: 10px;
+  height: fit-content;
   margin-top:94px;
 text-align: justify;
-  font-size: 21px;
-  font-family:'Segoe UI';
+  font-size: 22px;
+  font-family:'Segoe UI bold';
   color:#595858;
 
 
@@ -328,7 +327,7 @@ margin-top:-180px;
   text-align: left;
   color: #292727;
   width:100%;
-  margin-left:41%;
+  margin-left:12%;
 }
 .redirect3{
   margin-top: 60px;
@@ -344,7 +343,7 @@ margin-top:-180px;
   text-align: left;
   color: #292727;
   width:100%;
-  margin-left:20%;
+  margin-left:14%;
 }
 .redirect4{
   margin-top: 60px;
@@ -360,7 +359,7 @@ margin-top:-180px;
   text-align: left;
   color: #292727;
   width:100%;
-  margin-left:2%;
+  margin-left:10%;
 }
 
 
@@ -424,25 +423,26 @@ margin-top:-180px;
   }
 
   .industry-assoc-services{
-    margin-left: 41% ;
-   
+    margin-left: auto ;
+   margin-right: auto;
+   width:100%;
     font-size: 44px;
     font-weight: bold;
     font-stretch: normal;
     font-style: normal;
     line-height: normal;
     letter-spacing: normal;
-    text-align: left;
+    text-align: center;
     color: #2c2c2c!important;
   }
   .rect1{
     width: 200px;
     height: 349px;
-    margin: 20px 27px 105px 87px;
-    margin-left:140px;
+    margin: 20px 27px 105px 0px;
     padding: 33px 18px 38px 31px;
     object-fit: contain;
     margin-right:20px;
+    float:right;
   
   }
   .rect1:hover{
@@ -474,32 +474,31 @@ margin-top:-180px;
 
   .rect2{
     width: 200px;
-    height: 349px;
-    margin: 20px 6px 105px 27px;
+    margin: 20px 0px 30px 27px;
     padding: 33px 21px 38px 30px;
     object-fit: contain;
-    margin-right:25px;
+    margin-right:27px;
   }
   .rect3{
     width: 200px;
-    height: 349px;
-    margin: 20px 27px 105px 3px;
+   
+    margin: 20px 27px 0px 27px;
     padding: 33px 18px 38px 31px;
     object-fit: contain;
     margin-left:15px;
   }
   .rect4{
     width: 200px;
-    height: 349px;
-    margin: 20px 27px 105px 7px;
+   
+    margin: 20px 27px 0px 0px;
     padding: 33px 21px 38px 30px;
     object-fit: contain;
     margin-left:15px;
   }
   .rect5{
     width: 200px;
-    height: 349px;
-    margin: 20px 27px 105px 7px;
+    
+    margin: 20px 0px 0px 10px;
     padding: 33px 21px 38px 30px;
     object-fit: contain;
     margin-left:15px;
@@ -618,17 +617,15 @@ text-align: left;
 
 .brillica-services-for-it-training{
   
-  margin: 50px 234px 35px 235px !important;
-  margin-left: 22% !important;
-
+  margin: 30px auto 30px auto !important;
+  margin-left:auto !important;
+  margin-right: auto !important;
+ width:100% !important;
   font-family: 'Segoe UI'!important;
-  font-size: 44px!important;
+  font-size: 40px!important;
   font-weight: bold!important;
   font-stretch: normal!important;
-  font-style: normal!important;
-  line-height: normal!important;
-  letter-spacing: normal!important;
-  text-align: left!important;
+  text-align: center!important;
   color: #2c2c2c!important;
 }
 
@@ -694,11 +691,11 @@ margin-top:5px;
 
 }
 .image{
-  width: 425px;
-  height: 177px;
+  width: 100%;
+  height: auto;
   margin-top:0px;
 
-  margin-left:-85px;
+  margin-left:-12%;
   object-fit: contain;
   
 }
@@ -723,15 +720,12 @@ margin-top:5px;
 .Group-2255 {
 width: 368px;
 height: 350px;
-margin: 50px 2px 10px 148px;
-margin-left:35%;
-
+margin: 50px 2px 10px 0px;
 }
 .Group-2258{
   width: 360px;
   height: 350px;
-  margin: 50px auto 10px;
-  margin-left:-40px;
+  margin: 50px auto 10px -10px;
   display: block;
   background-size: cover;
 }
@@ -747,7 +741,6 @@ margin-left:35%;
 }
 .box3{
   position: relative;
-  width:500px;
 overflow: hidden;
 
 }
@@ -841,7 +834,7 @@ overflow: hidden;
 margin-top:-340px;
 font-size: 43px;
 color:#749b3f;
-margin-left:12%;
+margin-left:-7%;
 font-family: 'Roboto';
 width:100%;
 font-weight: bold;
@@ -859,7 +852,7 @@ text-decoration: none;
   height:200px;
   width:350px;
 color:#749b3f;
-margin-left:4px;
+margin-left:8%;
 margin-right:auto;
 font-family: 'Roboto';
 display: block;
@@ -868,7 +861,7 @@ font-stretch: normal;
 font-style: normal;
 line-height: normal;
 letter-spacing: normal;
-text-align:left;
+
 text-decoration: none;
 }
 
@@ -879,7 +872,7 @@ text-decoration: none;
   height:200px;
   width:350px;
 color:#749b3f;
-margin-left:18%;
+margin-left:12%;
 margin-right: auto;
 font-family: 'Roboto';
 text-decoration: none;
@@ -902,7 +895,7 @@ text-align:left;
   color:rgb(37, 37, 37) !important;
   text-align:left;
   margin-top:-80px;
-  margin-left: 20%;
+  margin-left: 14%;
 }
 .card-content-11{
   font-family: 'Segoe UI' !important;
@@ -916,7 +909,7 @@ text-align:left;
   color:rgb(37, 37, 37) !important;
   text-align:left;
   margin-top:-80px;
-  margin-left: 2%;
+  margin-left: 10%;
  
 }
 
@@ -934,7 +927,7 @@ margin-top: 2%!important;
 .footer-note{
   width: 100%;
   height: 44px;
-  margin: 10px 181px -20px 191px;
+  margin: 10px 10% -20px 8%;
   font-family: 'Segoe UI';
   font-size: 28px;
   font-weight: bold;
@@ -948,7 +941,7 @@ margin-top: 2%!important;
 .Rectangle-39 {  
     width: 209px;
     height: 25px;
-    margin: 30px 335px -5px 180px;
+    margin: 30px 335px -5px 30%;
     padding: 1px 124px 3px 17px;
     border-radius: 12px;
     background-color: #bababd;
@@ -972,7 +965,7 @@ margin-top: 2%!important;
 .Rectangle-46 { 
   width: 209px;
   height: 25px;
-  margin: 16px 335px -5px 180px;
+  margin: 16px 335px -5px 30%;
   padding: 2px 130px 2px 17px;
   border-radius: 12px;
   background-color: #bababd;
@@ -980,7 +973,7 @@ margin-top: 2%!important;
 .Rectangle-47 {
    width: 209px;
   height: 25px;
-  margin: 14px 335px -5px 180px;
+  margin: 14px 335px -5px 30%;
   padding: 2px 84px 2px 17px;
   border-radius: 12px;
   background-color: #bababd;
@@ -988,7 +981,7 @@ margin-top: 2%!important;
 .Rectangle-48 {
    width: 209px;
   height: 25px;
-  margin: 17px 335px -5px 180px;
+  margin: 17px 335px -5px 30%;
   padding: 2px 16px 2px 17px;
   border-radius: 12px;
   background-color: #bababd;
@@ -997,7 +990,7 @@ margin-top: 2%!important;
 .Rectangle-45 {
   width: 106px;
   height: 25px;
-  margin: 25.2px 398px 29px 180px;
+  margin: 25.2px 398px 29px 30%;
   border-radius: 10px;
   background-color: #669933;
 
@@ -1006,7 +999,7 @@ margin-top: 2%!important;
 .Send {
   width: 85px;
   height: 22px;
-  margin: 15px 441px 65px 180px;
+  margin: 15px 441px 65px 30%;
   font-family:'Segoe UI';
   font-size: 15px;
   font-weight: 600;
@@ -1143,7 +1136,7 @@ margin-top:-10px;
 .privacy{
   width: 100%;
   height: 33px;
-  margin: 0px 10px 0px 195px;
+  margin: 0px 10px 0px 10%;
   font-family: 'Segoe UI';
   font-size: 13px;
   font-weight: normal;
@@ -2725,9 +2718,9 @@ height:30px;
   background-color: #dbdbdd;
 }
 .fpara{
-  width: 280px;
+  width: 80%;
   height: 166px;
-  margin: 30px 5px 13.8px 50px;
+  margin: 30px 0% 13.8px 12%;
   object-fit: contain;
   font-family: 'Segoe UI';
   font-size: 13.7px;
@@ -4673,7 +4666,7 @@ color: #444444;
     font-size:20px;
     margin-left: 0px;
   margin-top:5px;
-  width:100%;
+  width:80%;
     font-family: 'Segoe UI';
     text-align:center;
     font-weight: bold;

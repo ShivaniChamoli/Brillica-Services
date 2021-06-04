@@ -51,7 +51,7 @@ include_once 'floatingbuttons.php';
    </div>
    
 </div>
-   <div class="container-fluid ">
+   <div class="container">
    <div>
        <h1 class="industry-assoc-services">Our Services</h1>
     </div>
@@ -63,7 +63,7 @@ include_once 'floatingbuttons.php';
 </div>
 
 <div class="row">
-  <div class="col-xlg-3 rect1">
+  <div class="col-xl-2 col-lg-2  rect1">
       <a href="./course4.php" > <img src="img/Group 2250.png"
         srcset="img/Group 2250@2x.png 2x,
                 img/Group 2250@3x.png 3x"
@@ -84,7 +84,7 @@ practice.
       </a>
     </div>
   
-    <div class="col-xlg-2 rect2">
+    <div class="col-xl-2 col-lg-2  rect2">
     <a href="./webandapp.php" >  <img src="img/Group 2251.png"
         srcset="img/Group 2251@2x.png 2x,
                 img/Group 2251@3x.png 3x"
@@ -105,7 +105,7 @@ practice.
     </a>
     </div>
   
-    <div class="col-xlg-2 rect3">
+    <div class="col-xl-2 col-lg-2  rect3">
     <a href="#" >   <img src="img/Group 2252.png"
         srcset="img/Group 2252@2x.png 2x,
                 img/Group 2252@3x.png 3x"
@@ -126,7 +126,7 @@ practice.
     </a>
     </div>
 
-    <div class="col-xlg-2 rect4">
+    <div class="col-xl-2 col-lg-2  rect4">
     <a href="./internship.php" >   <img src="img/Group 2253.png"
         srcset="img/Group 2253@2x.png 2x,
                 img/Group 2253@3x.png 3x"
@@ -146,7 +146,7 @@ practice.
         </div>
     </a>
     </div>
-    <div class="col-xlg-3 rect5">
+    <div class="col-xl-2 col-lg-2  rect5">
     <a href="./facultydevelopment.php" >   <img src="img/Group 2254.png"
         srcset="img/Group 2254@2x.png 2x,
                 img/Group 2254@3x.png 3x"
@@ -212,7 +212,7 @@ practice.
 
 <div class="container-fluid">
 
-    <h1 class="row brillica-services-for-it-training">Why choose Brillica Services for IT training</h1>
+    <h1 class="brillica-services-for-it-training">Why choose Brillica Services for IT training</h1>
  
 
 
@@ -387,7 +387,7 @@ Batch Schedules
 <div class="container-fluid  box">
 
     <div class="row">
-<div class="col-xlg-8 col-lg-8">
+<div class="col-xl-8 col-lg-8 col-md-12">
     <p class="corporate-learning">
         Corporate Learning solutions @Brillica Services
     </p>
@@ -397,7 +397,7 @@ Batch Schedules
         solutions and optimize the workforce proficiency with globally-recognized certification 
         training, delivered by subject matter experts and lead the market upfront.</p>
 </div>
-<div class="col-xlg-4 col-lg-4">
+<div class="col-xl-4 col-lg-4 col-md-12">
 <img class="image" src="img/Certificate-Stock-Photo.png"
 srcset="img/Certificate-Stock-Photo@2x.png 2x,
         img/Certificate-Stock-Photo@3x.png 3x"
@@ -411,13 +411,13 @@ class="certified">
 
 
 
-<div class="container-fluid" style="margin-bottom:100px">
+<div class="container" style="margin-bottom:100px">
     <div class="row">
         <h1 class="explore-more-about-brillica">Explore more about Brillica :</h1>
     </div>
 
     <div class="row">
-        <div class="col-lg-4  col-xlg-4 col-sm-12 box3">
+        <div class="col-lg-4  col-xl-4 col-sm-12 box3">
           <a href="./leadership2.php">
               <div><img class="Group-2255" src="./img/Group 2260.png">
               <h1 class="text-hover leadx">Our Team</h1>
@@ -440,7 +440,7 @@ practice.
 
 
 
-        <div class="col-lg-4  col-xlg-4 col-sm-12 box3 ">
+        <div class="col-lg-4  col-xl-4 col-sm-12 box3 ">
            
         <div><img src="./img/Group 2259.png" class="Group-2259">
 
@@ -462,7 +462,7 @@ practice.
      
         </div>
         
-        <div class="col-lg-4  col-xlg-4 col-sm-12 box3">
+        <div class="col-lg-4  col-xl-4 col-sm-12 box3">
         <a href="./contactus.php"> 
             <div><img class="Group-2258" src="./img/Group 2258.png" class="Group-2258">
             <h1 class="text-hover1 leadx3">Contact</h1>
