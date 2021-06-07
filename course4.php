@@ -71,7 +71,7 @@ if ($result->num_rows > 0) {
         foreach ($pics as $pic) {
             $cid = $pic['course_no'];
     ?>
-		<div class="col-lg-3 col-md-4 col-xs-6 col-sm-6 thumbxc anch ">
+		<div class="col-lg-3 col-md-4 col-xl-3 col-xs-6 col-sm-6 thumbxc anch ">
 			<a href="course_description2.php?detail=<?= $cid; ?>">
 				<img class="abcimg"  src="<?=$pic['course_img']?>"
                                 >

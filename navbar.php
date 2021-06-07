@@ -18,7 +18,7 @@
       border-radius: 0px !important;
   }
     /* ============ desktop view ============ */
-    @media all and (min-width: 992px) {
+    @media all and (min-width:1210px) {
     .bxcc{
       background-color: black !important;
     }
@@ -95,12 +95,13 @@
       color:white !important;
       display: block !important;
       font-weight:600 !important;
-      margin-top: -19px !important;
-      text-align: center;
+      margin-top: -12px !important;
       font-size:16px !important;
-     margin-left: 13% !important;
-    
-         }
+      color:white;
+      width:100% !important;
+      text-align: center !important;
+      padding-left:10% !important;
+    }
     
     
     .navbar .nav-item:hover .dd
@@ -114,7 +115,7 @@
     /* ============ desktop view .end// ============ */
     
     /* ============ small devices ============ */
-    @media (max-width: 991px) {
+    @media (max-width: 1209px) {
         .dropdown-menu.dd {
             background: black;
       }

@@ -63,7 +63,7 @@ include_once 'floatingbuttons.php';
 </div>
 
 <div class="row">
-  <div class="col-xl-2 col-lg-2  rect1">
+  <div class="col-xl-2 col-lg-2 rect1">
       <a href="./course4.php" > <img src="img/Group 2250.png"
         srcset="img/Group 2250@2x.png 2x,
                 img/Group 2250@3x.png 3x"
@@ -84,7 +84,7 @@ practice.
       </a>
     </div>
   
-    <div class="col-xl-2 col-lg-2  rect2">
+    <div class="col-xl-2 col-lg-2 rect2">
     <a href="./webandapp.php" >  <img src="img/Group 2251.png"
         srcset="img/Group 2251@2x.png 2x,
                 img/Group 2251@3x.png 3x"
@@ -105,7 +105,7 @@ practice.
     </a>
     </div>
   
-    <div class="col-xl-2 col-lg-2  rect3">
+    <div class="col-xl-2 col-lg-2 rect3">
     <a href="#" >   <img src="img/Group 2252.png"
         srcset="img/Group 2252@2x.png 2x,
                 img/Group 2252@3x.png 3x"
@@ -126,7 +126,7 @@ practice.
     </a>
     </div>
 
-    <div class="col-xl-2 col-lg-2  rect4">
+    <div class="col-xl-2 col-lg-2 rect4">
     <a href="./internship.php" >   <img src="img/Group 2253.png"
         srcset="img/Group 2253@2x.png 2x,
                 img/Group 2253@3x.png 3x"
@@ -146,7 +146,7 @@ practice.
         </div>
     </a>
     </div>
-    <div class="col-xl-2 col-lg-2  rect5">
+    <div class="col-xl-2 col-lg-2 rect5">
     <a href="./facultydevelopment.php" >   <img src="img/Group 2254.png"
         srcset="img/Group 2254@2x.png 2x,
                 img/Group 2254@3x.png 3x"
@@ -417,7 +417,7 @@ class="certified">
     </div>
 
     <div class="row">
-        <div class="col-lg-4  col-xl-4 col-sm-12 box3">
+        <div class="col-lg-4 col-md-6  col-xl-4 col-sm-12 box3">
           <a href="./leadership2.php">
               <div><img class="Group-2255" src="./img/Group 2260.png">
               <h1 class="text-hover leadx">Our Team</h1>
@@ -440,7 +440,7 @@ practice.
 
 
 
-        <div class="col-lg-4  col-xl-4 col-sm-12 box3 ">
+        <div class="col-lg-4 col-md-6 col-xl-4 col-sm-12 box3 ">
            
         <div><img src="./img/Group 2259.png" class="Group-2259">
 
@@ -462,7 +462,7 @@ practice.
      
         </div>
         
-        <div class="col-lg-4  col-xl-4 col-sm-12 box3">
+        <div class="col-lg-4 col-md-6 col-xl-4 col-sm-12 box3">
         <a href="./contactus.php"> 
             <div><img class="Group-2258" src="./img/Group 2258.png" class="Group-2258">
             <h1 class="text-hover1 leadx3">Contact</h1>

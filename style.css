@@ -79,11 +79,10 @@ text-align: justify;
 }
 .training-text{
 text-align: center;
-padding-left:25%;
+width:100%;
 margin-top:20px;
 font-size: 40px;
 font-family:'Segoe UI';
-
 color: #2c2c2c;
 }
 
@@ -952,7 +951,7 @@ margin-top: 2%!important;
 .placeholder{
   width: 48px;
   height: 24px;
-  font-family:' Segoe UI';
+  font-family:'Segoe UI';
   font-size: 18px;
   font-weight: normal;
   font-stretch: normal;
@@ -1081,19 +1080,22 @@ margin-top: 2%!important;
   color: #bababd;
 }
 .fa-phone-alt{
-color:black;
+color:white;
 font-size:22px;
+font-family: 'SegoeUI bold';
 }
 .txt-con{
-  color:black;
+  color:white;
   font-size:18px;
-  font-family: 'Segoe UI bold';
+  font-family: 'Segoe UI';
+  font-weight: 600;
   width:250px;
 }
 .txt-con2{
-  color:black;
+  color:white;
   font-size:18px;
-  font-family: 'Segoe UI bold';
+  font-family: 'Segoe UI';
+  font-weight: 600;
   width:250px;
 }
 .linkedin{
@@ -1165,7 +1167,7 @@ margin-right:10px;
 .BRILLICA-HD-Logo {
   width: 271px;
   height: 124px;
-  margin: 10px 21px 0 115px;
+  margin: 10px auto 0 7%;
   object-fit: contain;
 }
 .contact-number{
@@ -1218,34 +1220,35 @@ margin-right:10px;
   color: #bababd;
 }
 .black-box{
-  background-color:white;
-  margin-left:0px;
+  background-color:#242424;
+  margin-right: 0px;
   width:100%;
+  height:134px;
  
 }
 .fa-facebook{
   width: 35px;
   height: 34px;
-  margin: 20px auto 20px 30%;
+  margin: 40px auto 20px 30%;
   font-size:33px;
-  color: black;
+  color: white;
   
 }
 
 .linkedin1{
   width: 30px;
   height: 30px;
-  margin: 20px auto 20px 2.5%;
+  margin: 40px auto 20px 2.5%;
   color: white;
   
 }
 .twitter1{
   width: 35px;
   height: 34px;
-  margin: 20px auto 20px 2.5%;
-  color: white;
+  margin: 40px auto 20px 2.5%;
+  color: black;
   border-radius:50%;
-  background-color: #000000;
+  background-color: white;
   font-size:25px;
   text-align: center;
   padding-top: 5px;
@@ -1464,9 +1467,9 @@ margin-right:10px;
   
 }
 .courses-heading{
-width: 904px;
+width: 100%;
 height: 106px;
-margin: 57px 17px 74px 300px;
+margin: 57px auto 74px auto;
 object-fit: contain;
 font-family:'Segoe UI';
 font-size: 40px;
@@ -1480,7 +1483,9 @@ color: #595858;
 }
 .bar{
   margin-top:-150px;
-  margin-left:650px;
+  margin-left:auto;
+  margin-right:auto;
+  
 }
 .courses-training-courses{
 width: 100%;
@@ -3737,6 +3742,7 @@ width:1250px;
       margin: auto;
       object-fit: contain;
       margin-top:35px;
+      padding-top:10px;
     }
     #f{
       margin-left: 10px;
@@ -3761,8 +3767,8 @@ width:1250px;
   }
 
   .fa-facebook{
-    margin-left: auto;
-    margin-right: 5px;
+    margin-left: 0%;
+    margin-right: 7px;
     width:18px;
     height:18px;
     margin-top:7px;
@@ -3771,8 +3777,8 @@ width:1250px;
     border-radius: 50%;
   }
  .twitter1, .linkedin1 {
-    margin-left: 2px;
-    margin-right: 5px;
+    margin-left: 0px;
+    margin-right: 7px;
     width:20px;
     height:20px;
     margin-top:7px;
@@ -3788,7 +3794,7 @@ width:1250px;
     text-align: right;
     margin-top:-119px;
     background-color:#242424;
-    height:35px;
+    height:auto;
     margin-left: -15px; 
     
   }
@@ -4032,18 +4038,7 @@ width:1250px;
           margin-bottom:30px;
           background-color:#EDECEC;
           
-        }
-        
-        .training-text{
-          width:100%;
-          text-align: left;
-          margin-left:-70px;
-          margin-top:20px;
-          font-size: 30px;
-          font-family:'Segoe UI';
-          color: #2c2c2c;
-          }
-          
+        } 
           .Component-10-1 {
             width: 100%;
             height: 6px;
