@@ -1084,10 +1084,13 @@ color:white;
 
 border-radius: 50%;
 font-size:25px;
-padding:1%;
+padding:3%;
 height:40px;
 width:40px;
 font-family: 'SegoeUI bold';
+}
+.lll{
+  float:right;
 }
 .txt-con{
   color:white;
@@ -1234,23 +1237,37 @@ margin-right:10px;
 .fa-facebook{
   width: 35px;
   height: 20px;
-  margin: 8px auto 5px 24%;
+  margin: 8px auto 5px 0%;
   font-size:33px;
   color: white;
-  
+  float:right;
 }
 
 .twitter1{
   width: 35px;
   height:34px;
-  margin:0px auto 5px 2.5%;
+  margin:8px 2.5% 5px auto;
   color: black;
   border-radius:50%;
   background-color: white;
   font-size:25px;
   text-align: center;
   padding-top: 5px;
-  
+  float:right;
+}
+.twitterx2{
+  width: 35px;
+  height:34px;
+  margin:0px auto 5px auto;
+  display: block;
+  color: black;
+  border-radius:50%;
+  background-color: white;
+  font-size:25px;
+  text-align: center;
+  margin-top: 8px;
+  padding-top:5px;
+  float:right;
 }
 .green-box{
   background-color:#749b3f;
@@ -3789,7 +3806,7 @@ width:1250px;
   
   .black-box {
     width: 109%;
-    text-align: right;
+    text-align: left;
     margin-top:-119px;
     background-color:#242424;
     height:auto;
@@ -6008,6 +6025,7 @@ color: #ffffff;
       font-size:10.5px;
       font-family: 'Segoe UI';
       font-weight: bold;
+      margin-left:-5%;
     } 
     .txt-con2{
       color:white;
