@@ -46,7 +46,6 @@ if ($result->num_rows > 0) {
             <p class="blog-p2">
             <?=$blog['blog_title']?>
                 </p>
-                <p class="blog-p3">By <span style=" color: #000000;"><?=$blog['blogger_name']?></span><?=$blog['date']?> 5:23:19 PM</p>
         </div>
     </div>
 
