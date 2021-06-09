@@ -17,8 +17,9 @@
 <div class="container-fluid" style="background-color:#242424">
 
 <div class="row">
-<div class="col-lg-4 col-xl-4 col-md-4">
+<div class="col-lg-6 col-xl-6 col-md-6">
 <a  href="tel:88821-40688"><i class="fas fa-phone-alt"></i><span class="txt-con"> +91 88821-40688  &nbsp|</a></span> <a  href="tel:90840-63259"><span class="txt-con2"> +91 90840-63259</a></span>    
+<a href="mailto:info@brillicaservices.com"><i class="fas fa-envelope"></i></a></span>
 </div>
 
 <div class="col-lg-6 col-xl-6 lll">

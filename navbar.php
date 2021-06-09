@@ -37,7 +37,7 @@
         position: relative !important;
       }
       .dd{
-        background-color: black !important;
+        background-color: white !important;
       }
       .cd{
         background-color: white !important;
@@ -56,17 +56,17 @@
         
       }
       .dd li a{
-        color:white !important;
+        color:black !important;
         font-family:'Segoe UI semibold'!important;
         font-size:19px !important;
         margin-bottom:5px;
+        background-color: white;
       }
       .dd li a:hover{
         color:#749b3f !important;
         transition: transform 0.3s ease !important;
         transform: translateX(2px) !important;
-        background-color: black !important;
-        
+        background-color: white !important;
       }
       .dropdown-menu .submenu{ 
         display: none !important;

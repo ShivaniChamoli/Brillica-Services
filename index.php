@@ -270,7 +270,6 @@ practice.
   <div class="owl-carousel">
     <div class="item"><img src="./img/Group 173.svg"></div>
     <div class="item"><img src="./img/Group 174.svg"></div>
-    <div class="item"><img src="./img/Group 175.svg"></div>
     <div class="item"><img src="./img/Group 176.svg"></div>
     <div class="item"><img src="./img/Group 177.svg"></div>
   </div>
