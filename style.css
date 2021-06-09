@@ -2248,8 +2248,8 @@ height:30px;
   color: #444444;
 }
 .par-c{
-  width: 651px;
-  height: 313px;
+  width: 100%;
+  height: auto;
   margin: -50px 126px 122px 4px;
   padding: 61px 164px 208px 0;
   object-fit: contain;
