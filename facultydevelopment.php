@@ -45,12 +45,12 @@ facing your organization. </p>
     </div>
     
     <div class="row">
-<div class="col-lg-6 col-xlg-6">
+<div class="col-lg-6 col-xl-6">
 <img src="img/xx2.png"
      class="Group-147">
 </div>
 
-<div class="col-lg-1 col-xlg-1">
+<div class="col-lg-1 col-xl-1">
 <img src="./img/Group 148.svg"
      class="Group-148">
      <div class="Rectangle-242"></div>
@@ -64,7 +64,7 @@ facing your organization. </p>
      class="Group-151">
 </div>
 
-<div class="col-lg-5 col-xlg-5">
+<div class="col-lg-5 col-xl-5">
 <p class="t1">Teaching Training & 
 Research Skills</p>
 <p class="t2">Assessments Self-exploration
@@ -79,7 +79,7 @@ Post- Program Support</p>
     </div>
 </div>
 
-<div class="container-fluid">
+<div class="container">
 <div class="row">
 <h1 class="fdp3">Guiding Principles</h1>
     </div>
@@ -88,7 +88,7 @@ Post- Program Support</p>
 facing your organization. </p>
 </div>
 <div class="row">
-  <div class="col-xlg-4 col-lg-4">
+  <div class="col-xl-4 col-lg-4">
   <div class="Rectangle-261">
  <div> <img src="./img/noun_mind_943140.svg"
      class="noun_mind_943140">
@@ -98,7 +98,7 @@ Techniques</p>
     </div>
       </div>
   </div>
-  <div class="col-xlg-4 col-lg-4">
+  <div class="col-xl-4 col-lg-4">
   <div class="Rectangle-262">
   <div><img src="./img/noun_degree_3621672.svg"
      class="noun_degree_3621672">
@@ -108,7 +108,7 @@ Participants.</p>
 </div>
       </div>
   </div>
-  <div class="col-xlg-4 col-lg-4">
+  <div class="col-xl-4 col-lg-4">
     <div class="Rectangle-263">
     <div> <img src="./img/noun_degree_3305958.svg"
      class="noun_degree_3305958">
@@ -123,7 +123,7 @@ Performance.</p>
 
 
 <div class="row">
-  <div class="col-xlg-4 col-lg-4">
+  <div class="col-xl-4 col-lg-4">
   <div class="Rectangle-264">
   <div> <img src="./img/noun_classroom_1971090.svg"
      class="noun_classroom_1971090">
@@ -133,7 +133,7 @@ with Effective Classroom
     </div> 
       </div>
   </div>
-  <div class="col-xlg-4 col-lg-4">
+  <div class="col-xl-4 col-lg-4">
   <div class="Rectangle-266">
   <div> <img src="./img/noun_Research_3884281.svg"
      class="noun_Research_3884281">
@@ -143,7 +143,7 @@ Research.</p>
     </div> 
       </div>
   </div>
-  <div class="col-xlg-4 col-lg-4">
+  <div class="col-xl-4 col-lg-4">
     <div class="Rectangle-265">
     <div> <img src="./img/noun_development_637205.svg"
      class="noun_development_637205">
