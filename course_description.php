@@ -44,7 +44,7 @@ framing, desktop app development and much more.</p>
 
     <div class="container-fluid">
         <div class="row">
-            <div class="col-lg-6 col-xlg-6">
+            <div class="col-lg-6 col-xl-6">
                 <div class="highlights-box">
                     <h1 class="high-heading">Course Highlights</h1>
                     <ul type="disc" class="highlights">
@@ -69,7 +69,7 @@ The course would benefit you the most if you preferably possess a basic understa
                 </div>
             </div>
 
-            <div class="col-lg-6 col-xlg-6">
+            <div class="col-lg-6 col-xl-6">
                 <div class="content-box">
                 <h1 class="high-heading2">Course Content</h1>
               <div class="content-2" > <ul type="disc">
@@ -108,7 +108,7 @@ The course would benefit you the most if you preferably possess a basic understa
         <div class="about-course">
             <h1 class="course-head">Course Description</h1>
 <div class="row">
-<div class="col-lg-5 col-xlg-5">
+<div class="col-lg-5 col-xl-5">
     <p class="desc-para">
 Python programming is the most popular and powerful programing language used nearly in all AI and machine learning operations.
  It is a highly sought-after skill by software professionals, app developers and beginner programmers. This powerful object-oriented programming language is featured with high extensibility, large standard library, portability and embed-ability making it popular in domains of data analysis and visualization, AI and machine learning, application back-end framing, desktop app development and much more.<br>
@@ -117,7 +117,7 @@ Python programming course at Brillica Services are offered in customized, on-sit
     </p>
 </div>
 
-<div class="col-lg-5 col-xlg-5">
+<div class="col-lg-5 col-xl-5">
     <p class="desc-para1">
     individual and group training modes mapped to your specific learning needs. Our highly experienced and certified Python instructors help you gain the much-needed practical exposure on creating Python scripts, working with regular expressions, binary data, and using the extensive functionality of Python modules. Extra emphasis is placed on features unique to Python, such as tuples, array slices, and output formatting, assisting you to stay ahead of the curve with the unique skill-set.
 
@@ -141,43 +141,43 @@ Brillica services pioneers in delivering all-embracing Python programming traini
 </div>
 
 <div class="row">
-    <div class="col-lg-3 col-xlg-3">
+    <div class="col-lg-3 col-xl-3">
         <img src="img/Learn Python programming Fundamentals.svg" class="obj-1">
     </div>
 
-    <div class="col-lg-3 col-xlg-3">
+    <div class="col-lg-3 col-xl-3">
         <img src="img/Learn Python programming Fundamentals.svg" class="obj-2">
     </div>
 
-    <div class="col-lg-3 col-xlg-3">
+    <div class="col-lg-3 col-xl-3">
         <img src="img/Learn Python programming Fundamentals.svg" class="obj-3">
     </div>
 </div>
 
 <div class="row">
-    <div class="col-lg-3 col-xlg-3">
+    <div class="col-lg-3 col-xl-3">
         <img src="img/Learn Python programming Fundamentals.svg" class="obj-1">
     </div>
 
-    <div class="col-lg-3 col-xlg-3">
+    <div class="col-lg-3 col-xl-3">
         <img src="img/Learn Python programming Fundamentals.svg" class="obj-2">
     </div>
 
-    <div class="col-lg-3 col-xlg-3">
+    <div class="col-lg-3 col-xl-3">
         <img src="img/Learn Python programming Fundamentals.svg" class="obj-3">
     </div>
 </div>
 
 <div class="row">
-    <div class="col-lg-3 col-xlg-3">
+    <div class="col-lg-3 col-xl-3">
         <img src="img/Learn Python programming Fundamentals.svg" class="obj-1">
     </div>
 
-    <div class="col-lg-3 col-xlg-3">
+    <div class="col-lg-3 col-xl-3">
         <img src="img/Learn Python programming Fundamentals.svg" class="obj-2">
     </div>
 
-    <div class="col-lg-3 col-xlg-3">
+    <div class="col-lg-3 col-xl-3">
         <img src="img/Learn Python programming Fundamentals.svg" class="obj-3">
     </div>
 </div>
@@ -185,13 +185,13 @@ Brillica services pioneers in delivering all-embracing Python programming traini
 
 <div class="container-fluid">
     <div class="row">
-        <div class="col-xlg-6 col-lg-6">
+        <div class="col-xl-6 col-lg-6">
         <img src="img/project-managment-approach.jpg"
      srcset="img/project-managment-approach@2x.jpg 2x,
              img/project-managment-approach@3x.jpg 3x"
      class="project-managment-approach">
         </div>
-        <div class="col-xlg-6 col-lg-6">
+        <div class="col-xl-6 col-lg-6">
         <h1 style="font-size: 40px;
   font-weight: bold;
   color: #749b3f;margin-top:100px;">Target Audience</h1>

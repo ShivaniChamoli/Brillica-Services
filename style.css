@@ -1933,8 +1933,8 @@ height:30px;
 }
 .course-line{
   margin-top:-600px;
-  margin-left:-190px;
-  width:206%;
+  margin-left:-26%;
+  width:auto;
 }
 .catalog-p1{
   width:90%;
@@ -1977,7 +1977,7 @@ height:30px;
     color: #749b3f;
 }
 .highlights{
-  width: 500px;
+  width: auto;
   height: 300px;
   margin: 46px 0 0 14px;
   object-fit: contain;
@@ -1999,9 +1999,9 @@ height:30px;
   padding: 9.7px 54.9px 57px 45px;
 }
 .high-heading{
-  width: 240px;
+  width: auto;
   height: 40px;
-  margin: 0 114px 46px 14px;
+  margin: 0 auto 46px auto;
   object-fit: contain;
   font-family: 'Segoe UI';
   font-size: 30px;
@@ -2038,9 +2038,9 @@ height:30px;
 }
 
 .pre-para{
-  width: 650px;
+  width:auto;
   height: 315px;
-  padding: 9px 230px 166px 0;
+  padding: 9px 10px 10px 0;
   object-fit: contain;
   font-family: 'Segoe UI';
   font-size: 22px;
@@ -2078,7 +2078,7 @@ height:30px;
   width:500px !important;
 }
 .content-2{
-  width: 400px;
+  width: auto;
   height: 630px;
   margin: 46px 0 0 14px;
   object-fit: contain;
@@ -2101,9 +2101,9 @@ height:30px;
     margin-left:11%;
   }
   .desc-para{
-    width: 500px;
-    height: 593px;
-    margin: 39px 39px 99px 170px;
+    width: 90%;
+    height: auto;
+    margin: 39px auto 99px 24%;
     object-fit: contain;
     font-family: 'Segoe UI';
     font-size: 22px;
@@ -2116,9 +2116,9 @@ height:30px;
     color: #444444;
   }
   .desc-para1{
-    width: 500px;
-    height: 593px;
-    margin: 39px 39px 99px -30px;
+    width: 90%;
+    height: auto;
+    margin: 39px 39px 99px -15%;
     object-fit: contain;
     font-family: 'Segoe UI';
     font-size: 22px;
@@ -2164,7 +2164,8 @@ height:30px;
 }
 .bar2{
   margin-top:0px;
-  margin-left:700px;
+  margin-left:auto;
+  margin-right:auto;
   margin-bottom:80px;
 }
 .obj{
@@ -2226,10 +2227,11 @@ height:30px;
   color: #749b3f;
 }
 .project-managment-approach {
-  width: 491px;
-  height: 400px;
-  margin: 55px 0 -102.6px 183px;
+  width: auto;
+  height: auto;
+  margin: 55px auto -102.6px auto;
   object-fit: contain;
+  display: block;
 }
 
 .sub-h{
@@ -2271,8 +2273,8 @@ height:30px;
 
 .cont-bod{
   width: 1px;
-  height: 500px;
-  margin: 41px 15px 99px 130px;
+  height:auto;
+  margin: 41px auto 99px auto;
   object-fit: contain;
   background-color: #444444;
 }
@@ -3212,8 +3214,8 @@ transform: scale(1.1);
 }
 .c_obj{
 
-  width: 330px;
-    height: 48px;
+  width: auto;
+    height: auto;
     margin: -47px 74.7px 0.1px 80px;
     font-family: 'Segoe UI semibold';
     font-size: 22px;
