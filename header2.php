@@ -17,14 +17,11 @@
 <div class="container-fluid" style="background-color:#242424">
 
 <div class="row">
-<div class="col-lg-4 col-xl-4 col-md-4 .col-4 col-sm-4">
-<a  href="tel:88821-40688"><i class="fas fa-phone-alt"></i><span class="txt-con"> +91 88821-40688  &nbsp|</a></span> <a  href="tel:90840-63259"><span class="txt-con2"> +91 90840-63259</a></span>
-       
+<div class="col-lg-4 col-xl-4 col-md-4">
+<a  href="tel:88821-40688"><i class="fas fa-phone-alt"></i><span class="txt-con"> +91 88821-40688  &nbsp|</a></span> <a  href="tel:90840-63259"><span class="txt-con2"> +91 90840-63259</a></span>    
 </div>
-<div class="col-lg-2 col-xl-2 col-md-2 .col-2 col-sm-2">
-<a href="mailto:info@brillicaservices.com" target="_blank" > <i class="fas fa-envelope twitterx2"></i></a>
-              </div>
-<div class="col-lg-6 col-xl-5 .col-6 col-sm-6 lll">
+
+<div class="col-lg-6 col-xl-6 lll">
         
 
         <a href="https://www.facebook.com/BrillicaServices"><i class="fab fa-facebook"></i></a>

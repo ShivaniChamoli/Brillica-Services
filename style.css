@@ -3755,13 +3755,15 @@ width:1250px;
     padding: 10px;
     text-align: center;
   }
-
+.lll{
+  margin-top:-30px;
+}
   .fa-facebook{
     margin-left: 0%;
     margin-right: 7px;
     width:18px;
     height:18px;
-    margin-top:7px;
+    margin-top:0px;
     color:white;
     font-size:18px;
     border-radius: 50%;
@@ -3771,22 +3773,12 @@ width:1250px;
     margin-right: 7px;
     width:20px;
     height:20px;
-    margin-top:7px;
+    margin-top:0px;
     background-color: white;
     border-radius: 50%;
     color: #242424;
     font-size:15px;
     padding:3px;
-  }
-  
-  .black-box {
-    width: 109%;
-    text-align: left;
-    margin-top:-119px;
-    background-color:#242424;
-    height:auto;
-    margin-left: -15px; 
-    
   }
   .Rectangle-39, .Rectangle-46, .Rectangle-47, .Rectangle-48, .Rectangle-45, .Send{
     width: 45%;
@@ -6007,7 +5999,6 @@ color: #ffffff;
       font-size:10.5px;
       font-family: 'Segoe UI';
       font-weight: bold;
-      margin-right:24%;
     }  
 
     .float{
@@ -6114,5 +6105,20 @@ color: #ffffff;
   letter-spacing: normal;
   text-align: left;
   display: block;
+    }
+
+    .twitterx2{
+      width: 35px;
+      height:34px;
+      margin:0px auto 5px auto;
+      display: block;
+      color: black;
+      border-radius:50%;
+      background-color: white;
+      font-size:15px;
+      text-align: center;
+      margin-top: 8px;
+      padding-top:5px;
+      float:left;
     }
 }

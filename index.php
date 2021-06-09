@@ -9,7 +9,41 @@ include_once 'floatingbuttons.php';
 <html lang="en">
 <head>
   <title>Brillica Services</title>
-  
+  <style>
+    .carousel-wrap {
+  margin: 40px auto -50px;
+  padding: 0 5%;
+  width: 80%;
+  position: relative;
+}
+
+/* fix blank or flashing items on carousel */
+.owl-carousel .item {
+  position: relative;
+  z-index: 100; 
+  -webkit-backface-visibility: hidden; 
+}
+
+/* end fix */
+.owl-nav > div {
+  margin-top: -26px;
+  position: absolute;
+  top: 50%;
+  color: #cdcbcd;
+}
+
+.owl-nav i {
+  font-size: 52px;
+}
+
+.owl-nav .owl-prev {
+  left: -30px;
+}
+
+.owl-nav .owl-next {
+  right: -30px;
+}
+    </style>
 </head>
 <body>
   <div class="container-fluid">
@@ -232,148 +266,15 @@ practice.
 
 
 <div class="container-fluid">
-   <div class="row" >
-   <div id="demo2" class="carousel slide" style=" margin: auto auto; " data-ride="carousel">
-
-<!-- Indicators -->
-<ul class="carousel-indicators">
-  <li data-target="#demo2" data-slide-to="0" class="active"></li>
-  <li data-target="#demo2" data-slide-to="1"></li>
-  <li data-target="#demo2" data-slide-to="2"></li>
-  <li data-target="#demo2" data-slide-to="3"></li>
-</ul>
-
-<!-- The slideshow -->
-<div class="carousel-inner">
-  <div class="carousel-item active" >
-  
-    <div >   <img src="img/certified.png"
-     srcset="img/certified@2x.png 2x,
-             img/certified@3x.png 3x"
-     class="certified">
-     
-        <div >  <p class="heading1">
-            Certified & Experienced
-    Instructors
-        </p>
-    </div>
-    <div>
-        
-        <p class="paragraph-4">
-            
-            We guarantee high-quality
-             training with our large pool of
-              in-house certified instructors,
-               who bring on-board massive 
-            training and education industry
-             experience and walk you through the certification success.
-             <br>
-             <br>
-        </p>
-    </div>
-   
-</div>
+   <div class="carousel-wrap">
+  <div class="owl-carousel">
+    <div class="item"><img src="./img/Group 173.svg"></div>
+    <div class="item"><img src="./img/Group 174.svg"></div>
+    <div class="item"><img src="./img/Group 175.svg"></div>
+    <div class="item"><img src="./img/Group 176.svg"></div>
+    <div class="item"><img src="./img/Group 177.svg"></div>
   </div>
-  <div class="carousel-item">
-  
-  
-    <div>   <img src="img/guarantee.png"
-     srcset="img/guarantee@2x.png 2x,
-             img/guarantee@3x.png 3x"
-     class="certified">
- 
-<div>
-    <p class="heading1">
-        100% Guarantee to Run 
-Batch Schedules
-    </p>
 </div>
-<div>
-    <p class="paragraph-4">
-        <br>
-        Every student counts for us 
-        and we ensure to conduct our 
-        batches as scheduled,
-         irrespective of the number of
-          participants. Unlike others, we
-           do not postpone or cancel the
-            training because we value your
-            decision and time you make
-            out  to fulfil your training
-            needs.</p>
-</div>
-
-    </div>
-
-  
-  
-  </div>
-  <div class="carousel-item">
-  
-    <div>   <img src="img/teacher.png"
-     srcset="img/teacher@2x.png 2x,
-             img/teacher@3x.png 3x"
-     class="certified">
-     
-        <div >  <p class="heading1">
-            Focused on Specialized Technical
- Training in All Verticals
-        </p>
-    </div>
-    <div>
-        
-        <p class="paragraph-4">
-            We concenter our training to develop the industry-demanded technical
-             skills for all verticals rather than sticking to topic-specific training deliveries. 
-             We invest dedicated efforts to add rich value to your technical training experience 
-            and your profile for making you best-fit for the corporate world.
-             <br>
-             <br>
-        </p>
-    </div>
-    
-    
-</div>
-  </div>
-
-  <div class="carousel-item">
-  
-    <div>   <img src="img/video-tutorials.png"
-     srcset="img/video-tutorials@2x.png 2x,
-             img/video-tutorials@3x.png 3x"
-     class="certified">
- 
-<div>
-    <p class="heading1">
-        Blended Learning Modes
-    </p>
-</div>
-<div>
-    <p class="paragraph-4">
-        <br>
-        
-      
-        We offer holistic learning solutions,
-         best to fit the unique learning needs of every 
-         corporate and individual. All authorized and official 
-         IT trainings are offered to you in diverse blended modes 
-         to help you comprehend and learn better, suiting your 
-         conveniences.</p>
-</div>
-
-    </div>
- 
-</div>
-
-<!-- Left and right controls -->
-<a class="carousel-control-prev" href="#demo2" data-slide="prev">
-  <span class="carousel-control-prev-icon"></span>
-</a>
-<a class="carousel-control-next" href="#demo2" data-slide="next">
-  <span class="carousel-control-next-icon"></span>
-</a>
-</div>
-   </div>
    
 </div>
 </div>
@@ -483,7 +384,9 @@ practice.
 </div>
 </div>
 
+<div class="container">
 
+</div>
 
 
 </body>
@@ -492,5 +395,26 @@ practice.
 include 'footer.php';
 ?>
 <script>
-
+$('.owl-carousel').owlCarousel({
+  loop: true,
+  margin: 40,
+  nav: true,
+  navText: [
+    "<i class='fa fa-caret-left'></i>",
+    "<i class='fa fa-caret-right'></i>"
+  ],
+  autoplay: true,
+  autoplayHoverPause: true,
+  responsive: {
+    0: {
+      items: 1
+    },
+    600: {
+      items: 3
+    },
+    1000: {
+      items: 3
+    }
+  }
+})
 </script>
