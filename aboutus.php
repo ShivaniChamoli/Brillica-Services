@@ -20,7 +20,7 @@
 </div>
 <div class="container">
    <div class= "row">
-      <div class="col-lg-5 col-sm-12 col-xs-12 col-xl-5 ">
+      <div class="col-lg-6 col-sm-12 col-xs-12 col-xl-6 ">
          <p class="brillica-aboutpage-content">
             Brillica Services Private Limited is a trusted training provider and leading provider at high quality
             , innocatiove and industry relevant IT skills, empowering and budding IT aspirants with across-the-board
@@ -35,7 +35,7 @@
          <div> <img src="img/Component 7 – 1.svg"
             class="line-between-aboutpage-content"></div>
       </div>
-      <div class="col-lg-6 col-xl-6 col-sm-12 col-xs-12">
+      <div class="col-lg-5 col-xl-5 col-sm-12 col-xs-12">
          <p class="brillica-content-2">
             Brillica Services brings forth an array of specialized and in-demand IT training courses in diverse domains
             including Data Science, Data Analytics, Project Management, Cloud Computing, Cyber Security, Development and Robotics and much more.

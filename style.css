@@ -36,11 +36,12 @@ color:green;
         color: green;
 }
   .brillica-aboutpage-content{
-    width: 90%;
+    width: 100%;
   height: fit-content;
   margin-top: 94px;
-  
-  font-size: 22px;
+margin-left: auto;
+margin-right: auto;
+  font-size: 24px;
   font-family: 'Segoe UI bold';
   color:#595858;
 text-align: justify ;
@@ -49,18 +50,18 @@ text-align: justify ;
   .line-between-aboutpage-content{
     width: 2px !important;
     height: fit-content !important;
-    margin: 94px 0px 43px 20px !important;
+    margin: 94px auto 43px auto !important;
     object-fit: contain !important;
-    margin-top:94px !important;
-  
+    display: block;  
   }
   .brillica-content-2{
-    width: 80%;
-    margin-left: 10px;
+    width: 100%;
   height: fit-content;
   margin-top:94px;
 text-align: justify;
-  font-size: 22px;
+margin-left: auto;
+margin-right: auto;
+  font-size: 24px;
   font-family:'Segoe UI bold';
   color:#595858;
 
