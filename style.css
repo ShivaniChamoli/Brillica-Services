@@ -2738,7 +2738,7 @@ height:30px;
 .catalog2{
   width: 100%;
   height: 87px;
-  margin: -341px 272px 6px 180px;
+  margin: -341px 2% 6px 12%;
   text-shadow: 0 3px 6px var(--black-16);
   font-family: 'Archivo';
   font-size: 65px;
@@ -2773,9 +2773,9 @@ height:30px;
   
 }
 .fdp{
-  width: 202px;
-  height: 58px;
-  margin: 59px 80px 31px 650px;
+  width: 100%;
+  height: auto;
+  margin: 59px auto 31px auto;
   object-fit: contain;
   font-family: 'Segoe UI';
   font-size: 44px;
@@ -2789,10 +2789,9 @@ height:30px;
 }
 
 .fdpp1{
-  width: 1056px;
-  height: 90px;
-  margin: 15px 155px 42px;
-  margin-left:200px;
+  width:70%;
+  height: auto;
+  margin: 15px auto 42px auto;
   object-fit: contain;
   font-family: 'Segoe UI';
   font-size: 22px;
@@ -2805,9 +2804,9 @@ height:30px;
   color: #2c2c2c;
 }
 .Group-152{
-  width: 1169px;
+  width: 100%;
   height: 402px;
-  margin: 42px 149px 74px 128px;
+  margin: 42px auto 74px auto;
   object-fit: contain;
 }
 .fdpbded{
@@ -2821,9 +2820,9 @@ height:30px;
 }
 
 .fdp2{
-  width: 202px;
+  width: 100%;
   height: 58px;
-  margin: 20px 80px 31px 650px;
+  margin: 20px auto 31px auto;
   object-fit: contain;
   font-family: 'Segoe UI';
   font-size: 40px;
@@ -2837,9 +2836,9 @@ height:30px;
 }
 
 .Group-147 {
-  width: 517px;
+  width: 100%;
   height: 522px;
-  margin: 10px 109px 36px 183px;
+  margin: 10px auto 36px auto;
   object-fit: contain;
 }
 .Group-148 {
@@ -2936,9 +2935,9 @@ height:30px;
 }
 
 .fdp3{
-  width: 502px;
+  width: 100%;
   height: 58px;
-  margin: 20px 80px 31px 500px;
+  margin: 20px auto 31px auto;
   object-fit: contain;
   font-family: 'Segoe UI';
   font-size: 40px;
