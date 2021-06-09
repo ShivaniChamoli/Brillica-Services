@@ -3093,7 +3093,7 @@ height:30px;
 .Group-146 {
   width: 60px;
   height: 47px;
-  margin: 40px 194px 35px -59px;
+  margin: -13% auto 35px 90%;
   object-fit: contain;
 }
 .Group-146:hover{
@@ -3237,7 +3237,7 @@ transform: scale(1.1);
   .internship-heading{
     width: 100%;
     height: 58px;
-    margin: 39px 49px 51px 10%;
+    margin: 39px auto 51px auto;
     object-fit: contain;
     font-family: 'Segoe UI';
     font-size: 44px;
@@ -3250,9 +3250,10 @@ transform: scale(1.1);
     color: #2c2c2c;
   }
   .internship-p{
-    width: 990px;
-    height: 216px;
-    margin: 51px 53px 84px 278px;
+    width: 70%;
+    display:block;
+    height: auto;
+    margin: 51px auto 84px auto;
     object-fit: contain;
     font-family:'Segoe UI';
     font-size: 20px;
@@ -3280,9 +3281,9 @@ transform: scale(1.1);
   margin-left:0px;
 }
 .ix{
-  width: 684px;
-  height: 58px;
-  margin: 85px 122px 39px 28%;
+  width: 100%;
+  height: auto;
+  margin: 85px auto 39px auto;
   object-fit: contain;
   font-family: 'Segoe UI';
   font-size: 44px;
@@ -3311,15 +3312,15 @@ transform: scale(1.1);
   color: #000000;
 }
 .iphoto{
-  width: 1096px;
+  width: 100%;
   height: 444px;
-  margin: 0px 0 65px 195px;
+  margin: 0px auto 65px auto;
   object-fit: contain;
 }
 .ihx{
-  width: 654px;
-  height: 58px;
-  margin: -10px 194px 39px 420px;
+  width: 100%;
+  height: auto;
+  margin: -10px auto 39px auto;
   object-fit: contain;
   font-family: 'Segoe UI';
   font-size: 44px;
@@ -3333,9 +3334,9 @@ transform: scale(1.1);
 
 }
 .ipax{
-  width: 990px;
-  height: 27px;
-  margin: 9px 11px 68px 270px;
+  width: 100%;
+  height: auto;
+  margin: 9px auto 68px auto;
   object-fit: contain;
   font-family: 'Segoe UI';
   font-size: 20px;
@@ -3348,9 +3349,9 @@ transform: scale(1.1);
   color: #000000;
 }
 .Untitled-1 {
-  width: 1511px;
+  width: 100%;
   height: 632px;
-  margin: 8px 0 36px 0px;
+  margin: 8px auto 36px auto;
   object-fit: contain;
   -webkit-filter: grayscale(100%);
 }
