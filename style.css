@@ -3128,7 +3128,7 @@ font-family:'Segoe UI';
   padding:1px;
   color:white;
   font-family:'Segoe UI';
-  margin-top:0.3%;
+  margin-top:0%;
 }
 .xfg{
   width: 100%;
@@ -3724,7 +3724,7 @@ width:1250px;
 }
 
 .listStyle {
-  margin-top: -16px;
+  margin-top: auto;
   margin-left:auto;
   margin-right: auto;
 }
