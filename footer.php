@@ -14,7 +14,7 @@ include 'header.php';
 
  </div>  
 <div class="row cvx2">
-<div class="col-lg-3 col-xlg-3 col-sm-12 ">
+<div class="col-lg-3 col-xl-3 col-sm-12 ">
     <form id="f">
         <input type="text" class="Rectangle-39" name="name" placeholder="Name"><br>
 
@@ -25,14 +25,14 @@ include 'header.php';
     </form>
    
 </div>
-<div class="col-lg-3 col-xlg-3 col-sm-12">
+<div class="col-lg-3 col-xl-3 col-sm-12">
   <p class="fpara">
   BRILLICA SERVICES is Delivering extraordinary training, Web Development, Internship & recruitment services to Individuals,
    Businesses using state of the art facilities, highly qualified instructors, Recruitment & Technical Experts.
   </p>
 </div>
 
-<div class="col-lg-4 col-xlg-4 col-sm-12 middle-border">
+<div class="col-lg-4 col-xl-4 col-sm-12 middle-border">
     <h1 class="LOCATION">LOCATION</h1>
     <p class="location-paragaph">
     2ND FLOOR ABOVE SUVIDHA<BR>
@@ -51,7 +51,7 @@ include 'header.php';
          
 </div>
 
-<div class="col-lg-2 col-lg-2">
+<div class="col-lg-2 col-xl-2">
 <div><img src="./img/Untitled-2.png"
      srcset="./img/Untitled-2@2x.png 2x,
              ./img/Untitled-2@3x.png 3x"
@@ -71,16 +71,21 @@ include 'header.php';
 </svg></a>
 </div>
 </div>
+
+
+  
+<div class="fbod">
+
+</div>
 <div class="m2">
 <ul class='row'>
-  <li class='col-lg-2 listStyle'><a class="anchx" href="./aboutus.php">ABOUT BRILLICA</a></li>
-  <li class='col-lg-2 listStyle'><a class="anchx" href="./services.php">OUR SERVICES</a></li>
-  <li class='col-lg-2 listStyle'><a class="anchx" href="./course4.php">COURSES</a></li>
-  <li class='col-lg-2 listStyle'><a class="anchx" href="./contactus.php">CONTACT US</a></li>
+  <li class='col-lg-2 listStyle'><a class="anchx" href="./aboutus.php">ABOUT BRILLICA &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<b>|</b></a></li>
+  <li class='col-lg-2 listStyle'><a class="anchx" href="./services.php">OUR SERVICES&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<b>|</b></a></li>
+  <li class='col-lg-2 listStyle'><a class="anchx" href="./course4.php">COURSES &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<b>|</b></a></li>
+  <li class='col-lg-2 listStyle'><a class="anchx" href="./contactus.php">CONTACT US&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<b>|</b></a></li>
   <li class='col-lg-2 listStyle'><a class="anchx" href="./blog3.php">BLOG</a></li>
 </ul>
 </div>
-  
 <div class="fbod">
 
 </div>

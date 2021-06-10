@@ -14,7 +14,7 @@ include_once 'header.php';
     margin-top:-60px;
     width: 640px;
     height:521px;
-   margin-left:500px;
+   margin-left:30%;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     background-color: white;
     z-index: 900;
