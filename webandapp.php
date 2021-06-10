@@ -35,8 +35,9 @@ facing your organization.
     </div>
 
     <div class="container-fluid bluebg">
+    <div class="container">
         <div class="row">
-<div class="col-lg-4 col-xlg-4 col-sm-12 col-md-6 x3">
+<div class="col-lg-4 col-xl-4 col-sm-12 col-md-6 x3">
     <div class="bgwhite1 x4">
 <div><img src="img/noun_online form_3241565 (1).svg"
    
@@ -52,7 +53,7 @@ people to use -on any device.</p>
      </div>
     </div>
 </div>
-<div class="col-lg-4 col-xlg-4 col-sm-12 col-md-6 x3">
+<div class="col-lg-4 col-xl-4 col-sm-12 col-md-6 x3">
     <div class="bgwhite2 x4">
     <div><img src="img/noun_User Experience_2209227.svg"
    
@@ -69,7 +70,7 @@ tab, talk, touch, work, or play.</p>
      </div>
     </div>
 </div>
-<div class="col-lg-4 col-xlg-4 col-sm-12 col-md-6 x3">
+<div class="col-lg-4 col-xl-4 col-sm-12 col-md-6 x3">
     <div class="bgwhite3 x4">
     <div><img src="img/noun_software development_1864933.svg"
    
@@ -85,9 +86,10 @@ your unique business goals.</p>
      </div>
     </div>
 </div>
+
         </div>
         <div class="row">
-<div class="col-lg-4 col-xlg-4 col-sm-12 col-md-6 x3">
+<div class="col-lg-4 col-xl-4 col-sm-12 col-md-6 x3">
     <div class="bgwhite1 x4">
     <div><img src="img/noun_Web Designer_108828.svg"
    
@@ -108,7 +110,7 @@ validate our designs.
 
     
 </div>
-<div class="col-lg-4 col-xlg-4 col-sm-12 col-md-6 x3">
+<div class="col-lg-4 col-xl-4 col-sm-12 col-md-6 x3">
     <div class="bgwhite2 x4">
     <div><img src="img/noun_Content marketing_2950109.svg"
      class="noun_online-form_3241565"></div>
@@ -122,7 +124,7 @@ goals.</p>
      </div>
     </div>
 </div>
-<div class="col-lg-4 col-xlg-4 col-sm-12 col-md-6 x3">
+<div class="col-lg-4 col-xl-4 col-sm-12 col-md-6 x3">
     <div class="bgwhite3 x4">
     <div><img src="img/noun_functional design_3751364.svg"
    
@@ -138,10 +140,11 @@ development teams..</p>
 </div>
         </div>
 
+    </div>
 
         <div class="row">
 
-        <div class="col-lg-5 col-xlg-5 col-sm-12 col-md-6 col-xs-12">
+        <div class="col-lg-5 col-xl-5 col-sm-12 col-md-6 col-xs-12">
 <p class="divpwebapp"><b>We Improve…</b><br>
 <br>
 
@@ -156,7 +159,7 @@ Sales & Lead Generation<br>
 Brand Awareness.</p>
         </div>
 
-        <div class="col-lg-7 col-xlg-7 col-md-6 col-sm-12">
+        <div class="col-lg-7 col-xl-7 col-md-6 col-sm-12">
 <div>
 <img src="img/l2.jpg"
      
@@ -168,14 +171,14 @@ Brand Awareness.</p>
 
     <div class="container-fluid">
         <div class="row">
-            <div class="col-lg-5 col-xlg-5col-sm-5">
+            <div class="col-lg-5 col-xl-5 col-sm-5">
             <img src="./img/Group92.svg"
      class="Group-92">
 
             </div>
         
 
-            <div class="col-lg-7 col-xlg-7 col-sm-7">
+            <div class="col-lg-7 col-xl-7 col-sm-7">
           <p class="obpar">We use objective research to drive strategy and 
 ensure strong, evidence-based solutions.<br><br>
  
@@ -195,19 +198,20 @@ to sustain consistency, quality, and growth.</p>
     <div class="container-fluid">
     <div class="row">
 <h1 class="tech2">Our Technology Stack</h1>
-<div>
+</div>
+<div class="row">
 <img src="./img/xfg.png"
      srcset="./img/xfg@2x.png 2x,
              ./img/xfg@3x.png 3x"
      class="xfg">
 </div>
-    </div>
+    
     <div class="bodx5"></div>
 </div>
 
 <div class="container-fluid">
     <div class="row">
-            <div class="col-lg-7 col-xlg-7">
+            <div class="col-lg-7 col-xl-7">
            <div> <h1 class="headconx">Contact Us</h1>
             <p class="headxp">Interested in working with Brillica Services? We scope projects and build teams to meet your organization's unique design 
                 and development needs. Tell us about your project today to start the conversation!</p>
@@ -226,7 +230,7 @@ to sustain consistency, quality, and growth.</p>
         
         
 
-            <div class="col-lg-5 col-xlg-5">
+            <div class="col-lg-5 col-xl-5">
          <div class="">
          <img src="./img/noun_contact_1092471.svg"
      class="noun_contact_1092471">
