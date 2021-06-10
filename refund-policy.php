@@ -17,9 +17,9 @@ include_once 'floatingbuttons.php';
 <body>
     <div class="container-fluid">
     <div class="row">
-        <img src="img/group 2322@3x.jpg"
-     srcset="img/group 2322@2x.jpg 2x,
-             img/group 2321@3x.jpg 3x"
+        <img src="./img/Group 2322@3x.jpg"
+     srcset="./img/Group 2322@2x.jpg 2x,
+             ./img/Group 2321@3x.jpg 3x"
      class="Group-75"> 
     </div> 
     </div>
