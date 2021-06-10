@@ -8,15 +8,6 @@ include 'header.php';
   
 </head>
 <body>
-  <div class="container-fluid m2">
-   <ul class='row'>
-  <li class='col-lg-2 listStyle'><a class="anchx" href="./aboutus.php">ABOUT BRILLICA</a></li>
-  <li class='col-lg-2 listStyle'><a class="anchx" href="./services.php">OUR SERVICES</a></li>
-  <li class='col-lg-2 listStyle'><a class="anchx" href="./course4.php">COURSES</a></li>
-  <li class='col-lg-2 listStyle'><a class="anchx" href="./contactus.php">CONTACT US</a></li>
-  <li class='col-lg-2 listStyle'><a class="anchx" href="./blog3.php">BLOG</a></li>
-</ul>
-  </div>
     <div class="container-fluid footer ">
    <div class="row">
 <h1 class="footer-note"> Leave us a Quick Note</h1>
@@ -80,8 +71,17 @@ include 'header.php';
 </svg></a>
 </div>
 </div>
-
-  <div class="fbod">
+<div class="m2">
+<ul class='row'>
+  <li class='col-lg-2 listStyle'><a class="anchx" href="./aboutus.php">ABOUT BRILLICA</a></li>
+  <li class='col-lg-2 listStyle'><a class="anchx" href="./services.php">OUR SERVICES</a></li>
+  <li class='col-lg-2 listStyle'><a class="anchx" href="./course4.php">COURSES</a></li>
+  <li class='col-lg-2 listStyle'><a class="anchx" href="./contactus.php">CONTACT US</a></li>
+  <li class='col-lg-2 listStyle'><a class="anchx" href="./blog3.php">BLOG</a></li>
+</ul>
+</div>
+  
+<div class="fbod">
 
 </div>
 <div class="container noPaddingMobile">

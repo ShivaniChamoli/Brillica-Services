@@ -998,10 +998,10 @@ margin-top: 2%!important;
 
 .Send {
   width: 85px;
-  height: 22px;
+  height: 30px;
   margin: 15px 441px 65px 30%;
   font-family:'Segoe UI';
-  font-size: 15px;
+  font-size: 14px;
   font-weight: 600;
   font-stretch: normal;
   font-style: normal;
@@ -3105,20 +3105,19 @@ height:30px;
 }
 
 .m2{
-  background-color: #000000;
   text-align: center;
   background-size: cover;
   background-position: center;
  background-repeat:no-repeat;
   object-fit: contain;
-  height:40px;
+  height:20px;
   margin-top:0%;
   margin-bottom:-40px;
 }
 .m2 ul{
   display: inline-flex;
 list-style: none;
-margin-top:-9px;
+margin-top:0px;
 font-family:'Segoe UI';
 }
 .m2 ul li{
@@ -3127,7 +3126,7 @@ font-family:'Segoe UI';
   padding:1px;
   color:white;
   font-family:'Segoe UI';
-  margin-top:0%;
+  margin-top:-6%;
 }
 .xfg{
   width: 90%;
