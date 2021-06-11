@@ -7,8 +7,8 @@ include_once 'floatingbuttons.php';
 <head>
   <style>
 #l1z{
-    width: 150px;
-  height: 20px;
+    width: 20%;
+  height: auto;
   margin: 8px 1px 22px 0px;
   object-fit: contain;
   font-family: 'Segoe UI';
@@ -22,7 +22,7 @@ include_once 'floatingbuttons.php';
   color: #000000;  
 }
 #inptz{
-  width: 281px;
+  width: 60%;
   height: 33px;
   margin: 0px 3px 10px 34px;
   object-fit: contain;
@@ -44,9 +44,9 @@ include_once 'floatingbuttons.php';
   letter-spacing: normal;
   text-align:center;
   color: #ffffff;
-  background-color:#452e7e;
+  background-color:#2d088b;
   border-radius: 14px;
-  margin-left:190px;
+  margin-left:26%;
   margin-top:20px
 }
 @media(max-width:900px){ 
@@ -113,7 +113,7 @@ include_once 'floatingbuttons.php';
              ./img/Group 71@3x.jpg 3x"
      class="Group-36">
      <h1 class="catalog">Contact</h1>
-     <p class="catalog-p">Explore your learning potentials with Brillica Services.</p>
+     <p class="catalog-p">Leave your queries and we will reach out to you. Our expert consultants will help you to find a perfect solution of your query.</p>
     </div>
     </div>
 
@@ -121,7 +121,7 @@ include_once 'floatingbuttons.php';
     <div class="container-fluid" style="background-color:#edecec; background-size: cover">
     <div class="row ">
     <div class="ppkh1">
-      <div class="col-xlg-6 col-lg-6">
+      <div class="col-xl-6 col-lg-6 col-md-12">
     <div class="Rectangle-313">
       <div>
         <h1 class="conxinfo">Contact Information</h1>
@@ -153,7 +153,7 @@ you with 24 hours. </p>
     </div>
     </div>
 
-    <div class="col-xlg-6 col-lg-6">
+    <div class="col-xl-6 col-lg-6 col-md-12">
 <div class="divnext">
   <h2 class="letx"> Let us help you  </h2>
 </div>
@@ -212,8 +212,12 @@ you with 24 hours. </p>
 <div class="div4">
 <div>
   <img src="./img/noun_Mail_2051381.svg" class="vbg2">
-  <p class="phxc1">MAIL US<br>
-info@brillicaservices.com</p>
+  <p class="phxc1">MAIL US<br></p>
+  <p class="phxc3">For any Training/Internship/Job-related query<br>
+
+<span style="color:#2d088b;font-size:19px">info@brillicaservices.com</span></p>
+<p class="phxc3">For any Business/Corporate/Job-related query<br>
+<span style="color:#2d088b;font-size:19px">Yogendra.negi@brillicaservices.com</span></p>
 </div>
 </div>
 </div>
