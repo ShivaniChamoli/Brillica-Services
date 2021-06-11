@@ -5759,11 +5759,11 @@ height:fit-content;
     padding: 26px 28px 0 26px;
     object-fit: contain;
     border-radius: 14px;
-    background-color: #452e7e;
+    background-color: #2d088b;
   
 }
 .ybox{
-  background-color: #f5d868;
+  background-color: #749b3f;
   height:30px;
   width:100px;
   padding:auto;
@@ -5782,21 +5782,20 @@ height:fit-content;
     font-size: 15px ;
     }
     .vbg,.vbg2{
-      width: 80%;
-      height: 200px;
-      margin: 26.4px auto 0 auto;
+      width: 65%;
+      height: auto;
+      margin: 26.4px auto 40px auto;
       object-fit: contain;
       margin-left:auto;
       margin-right: auto;
-      margin-bottom:40px;
       color: #071826;
       display: block;
   }
 
   .phxc,.phxc1{
     width: 80%;
-    height: 76px;
-    margin: 26.4px auto 0 auto;
+    height: auto;
+    margin: 26.4px auto 20px auto;
     object-fit: contain;
     font-family:'Segoe UI';
     font-size:19px;
@@ -5807,7 +5806,6 @@ height:fit-content;
     letter-spacing: normal;
     text-align: center;
     color: #071826;
-    margin-bottom:40px;
   }
   .dehradun{
     color: #f5d868;
@@ -5853,6 +5851,22 @@ height:fit-content;
   letter-spacing: normal;
   text-align: left;
   color: #ffffff;
+}
+.phxc3{
+  width: 100%;
+  height: auto;
+  margin: 0px 46px 25px 0;
+  object-fit: contain;
+  font-family:'Segoe UI';
+  font-size: 16px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align:center;
+  color: #071826;
+
 }
 .conxinfo{
   width: 80%x;

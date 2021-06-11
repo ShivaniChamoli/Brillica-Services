@@ -88,7 +88,7 @@ include_once 'floatingbuttons.php';
   letter-spacing: normal;
   text-align:center;
   color: #ffffff;
-  background-color:#452e7e;
+  background-color:#2d088b;
   border-radius: 14px;
   margin-left:auto;
   margin-right: auto;
@@ -215,9 +215,9 @@ you with 24 hours. </p>
   <p class="phxc1">MAIL US<br></p>
   <p class="phxc3">For any Training/Internship/Job-related query<br>
 
-<span style="color:#2d088b;font-size:19px">info@brillicaservices.com</span></p>
+<span style="color:#2d088b;font-size:17px">info@brillicaservices.com</span></p>
 <p class="phxc3">For any Business/Corporate/Job-related query<br>
-<span style="color:#2d088b;font-size:19px">Yogendra.negi@brillicaservices.com</span></p>
+<span style="color:#2d088b;font-size:17px">Yogendra.negi@brillicaservices.com</span></p>
 </div>
 </div>
 </div>
