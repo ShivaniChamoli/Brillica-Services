@@ -9,7 +9,7 @@ include_once 'floatingbuttons.php';
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>leadership</title>
+  <title>Our Team</title>
 
 </head>
 <body>
@@ -89,51 +89,13 @@ include_once 'floatingbuttons.php';
 		
 </div>
 <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12  anch ">
-<img class="pooja-mam2" src="./img/priya.jpg">
+<img class="pooja-mam2" src="./img/Reenamam.jpg">
             
             <div ><p class="leadership-col-2-name">
-            Priya Chauhan
-            </p></div>
-            <div class="leadership-col-2-designation"> 
-            HR Executive
-            </div>
-           <div class="leadership-col-2-paragraph">
-            Result-oriented professional with 14Yrs .of Training & Development experience. 
-            Learning and reinforcement by incorporating appropriate means using the right 
-            learning methodologies includes ILT, CT, On the job. Developing the company’s 
-            strategy for using technological resources Ensuring technologies are used efficiently, 
-            profitably and securely
-
-           </div> 
-</div>
-<div class="col-lg-6 col-md-12 col-xs-12 col-sm-12  anch ">
-			
-			<img class="yogendrasir2" src="./img/Reenamam.jpg">
-            
-            <div ><p class="leadership-col-1-name">
             Reena Negi
             </p></div>
-            <div class="leadership-col-1-designation"> 
-            Center Manager
-            </div>
-           <div class="leadership-col-1-paragraph">
-            Result-oriented professional with 14Yrs .of Training & Development experience. 
-            Learning and reinforcement by incorporating appropriate means using the right 
-            learning methodologies includes ILT, CT, On the job. Developing the company’s 
-            strategy for using technological resources Ensuring technologies are used efficiently, 
-            profitably and securely
-
-           </div> 
-		
-</div>
-<div class="col-lg-6 col-md-12 col-xs-12 col-sm-12  anch ">
-<img class="pooja-mam2" src="./img/Deepikamam.jpeg">
-           
-            <div ><p class="leadership-col-2-name">
-            Deepika Negi
-            </p></div>
             <div class="leadership-col-2-designation"> 
-            Training Consultant
+            Center Manager
             </div>
            <div class="leadership-col-2-paragraph">
             Result-oriented professional with 14Yrs .of Training & Development experience. 
@@ -143,8 +105,8 @@ include_once 'floatingbuttons.php';
             profitably and securely
 
            </div> 
-             
 </div>
+
 <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12  anch ">
 <img class="yogendrasir2" src="./img/ayushsir.jpeg">
             
