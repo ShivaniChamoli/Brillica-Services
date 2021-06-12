@@ -233,12 +233,14 @@ include_once 'floatingbuttons.php';
       <div class="item">
         <img src="./img/intel.jpg" alt="Chicago" class="c-it">
         <h1 class="indus-title">INTEL</h1>
-        <br><br><br><br>
+        <h1 class="indus-title1">Consulting Partner</h1>
+        <br><br>
       </div>
       <div class="item">
         <img src="./img/cloudera.png" alt="Chicago" class="c-it">
         <h1 class="indus-title">CLOUDERA</h1>
-        <br><br><br><br>
+        <h1 class="indus-title1">Bronze Consulting Partner</h1>
+        <br>
       </div>
     
       
