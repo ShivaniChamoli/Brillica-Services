@@ -107,9 +107,8 @@ include_once 'floatingbuttons.php';
         </div>
         <div class="card-content-2">
             <p>
-                An internship is the best way to<br>
-put classroom knowledge to <br>
-practice.
+            Learn Highly demanded IT Training Programs with us. 
+            <br>ONLINE | OFFLINE both modes available.
             </p>
         </div>
         <div >
@@ -128,9 +127,9 @@ practice.
         </div>
         <div class="card-content-3">
             <p>
-                An internship is the best way to<br>
-put classroom knowledge to <br>
-practice.
+            Brillica Services Company provides design and technology services to help companies create a great,
+             cohesive experience across complex systeams,
+             at every touchpoint between people and your organization
             </p>
         </div>
         <div >
@@ -149,9 +148,7 @@ practice.
         </div>
         <div class="card-content-2">
             <p>
-                An internship is the best way to<br>
-put classroom knowledge to <br>
-practice.
+            Make your future part of ours. Join the Brillica Services today.
             </p>
         </div>
         <div >
@@ -170,9 +167,7 @@ practice.
         </div>
         <div class="card-content-4">
             <p>
-                An internship is the best way to<br>
-put classroom knowledge to <br>
-practice.
+            Get IT Internships and Work Experience Guidance by Experts and work on live projects.
             </p>
         </div>
         <div >
@@ -190,9 +185,7 @@ practice.
         </div>
         <div class="card-content-5">
             <p>
-                An internship is the best way to<br>
-put classroom knowledge to <br>
-practice.
+               Faculty Development Program is a skill development program specially designed for academic educators.
             </p>
         </div>
         <div >
@@ -217,6 +210,7 @@ practice.
       <li data-target="#myCarousel2" data-slide-to="0" class="active"></li>
       <li data-target="#myCarousel2" data-slide-to="1"></li>
       <li data-target="#myCarousel2" data-slide-to="2"></li>
+      <li data-target="#myCarousel2" data-slide-to="2"></li>
     </ol>
 
     <!-- Wrapper for slides -->
@@ -233,6 +227,17 @@ practice.
         <img src="./img/m2.png" alt="Chicago" class="c-it">
         <h1 class="indus-title">IBM</h1>
         <h1 class="indus-title1">Registered Business Partner</h1>
+        <br><br><br><br>
+      </div>
+
+      <div class="item">
+        <img src="./img/intel.jpg" alt="Chicago" class="c-it">
+        <h1 class="indus-title">INTEL</h1>
+        <br><br><br><br>
+      </div>
+      <div class="item">
+        <img src="./img/cloudera.png" alt="Chicago" class="c-it">
+        <h1 class="indus-title">CLOUDERA</h1>
         <br><br><br><br>
       </div>
     
@@ -323,9 +328,9 @@ class="certified">
               <h1 class="text-hover leadx">Our Team</h1>
               <div class="card-content-9">
             <p>
-                An internship is the best way to<br>
-put classroom knowledge to <br>
-practice.
+               Our Team has an ambitious vision and a strong
+               track record of performance. This drives the innovative
+               and people-focused business we are today.
             </p>
         </div>
         <div >
@@ -347,9 +352,7 @@ practice.
         <h1 class="text-hover2 leadx2">Career</h1>
         <div class="card-content-10">
             <p>
-                An internship is the best way to<br>
-put classroom knowledge to <br>
-practice.
+              Make your future part of ours. Join the Brillica Services today.
             </p>
         </div>
         <div >
@@ -368,9 +371,7 @@ practice.
             <h1 class="text-hover1 leadx3">Contact</h1>
             <div class="card-content-11">
             <p>
-                An internship is the best way to<br>
-put classroom knowledge to <br>
-practice.
+            Let's find possible ways of collaboration.
             </p>
         </div>
         <div >
