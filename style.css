@@ -16,7 +16,7 @@ html {
   font-family: 'Segoe UI' !important;
   font-size: 16px !important;
   font-weight: normal !important;
-  width:100%;
+  width:90%;
   font-stretch: normal !important;
   font-style: normal !important;
   line-height: normal !important;
@@ -314,10 +314,9 @@ margin-top:-180px;
 }
 
 .redirect2{
-  margin-top: 60px;
+  margin-top: 21px;
   font-size: 16px;
   display: block;
-  height:100px;
   font-family: 'Segoe UI';
   font-weight: bold;
   font-stretch: normal;
@@ -333,7 +332,7 @@ margin-top:-180px;
   margin-top: 60px;
   font-size: 16px;
   display: block;
-  height:100px;
+  
   font-family: 'Segoe UI';
   font-weight: bold;
   font-stretch: normal;
@@ -346,7 +345,7 @@ margin-top:-180px;
   margin-left:14%;
 }
 .redirect4{
-  margin-top: 60px;
+  margin-top: 74px;
   font-size: 16px;
   display: block;
   height:100px;
@@ -537,7 +536,7 @@ text-align: left;
 .card-content-3{
   margin-top:45px ;
   font-family: 'Segoe UI' ;
-  font-size: 12px ;
+  font-size: 11px ;
   font-weight: normal ;
   font-stretch: normal ;
   font-style: normal ;
@@ -887,7 +886,7 @@ text-align:left;
   font-family: 'Segoe UI' !important;
   font-size: 16px !important;
   font-weight: normal !important;
-  width:100%;
+  width:90%;
   font-stretch: normal !important;
   font-style: normal !important;
   line-height: normal !important;
@@ -901,7 +900,7 @@ text-align:left;
   font-family: 'Segoe UI' !important;
   font-size: 16px !important;
   font-weight: normal !important;
-  width:100%;
+  width:90%;
   font-stretch: normal !important;
   font-style: normal !important;
   line-height: normal !important;
@@ -4872,7 +4871,7 @@ height:fit-content;
 }
 .card2{
   margin-top:-300px;
-  font-size:30px;
+  font-size:27px;
   width:50%;
   color:white;
   font-family: 'Segoe UI';
@@ -4886,11 +4885,11 @@ height:fit-content;
     }
 
     .card-content-2,.card-content-3,.card-content-4,.card-content-5{
-      margin-top:40px !important;
+      margin-top:25px !important;
       font-family: 'Segoe UI' !important;
-      font-size: 16px !important;
+      font-size: 15px !important;
       font-weight: normal !important;
-      width:100%;
+      width:90%;
       font-stretch: normal !important;
       font-style: normal !important;
       line-height: normal !important;
@@ -4902,7 +4901,7 @@ height:fit-content;
   font-family: 'Segoe UI' !important;
   font-size: 16px !important;
   font-weight: normal !important;
-  width:100%;
+  width:90%;
   font-stretch: normal !important;
   font-style: normal !important;
   line-height: normal !important;
