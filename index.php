@@ -219,28 +219,44 @@ include_once 'floatingbuttons.php';
    <div class="item active">
         <img src="./img/m1.png" alt="Los Angeles" class="c-it">
         <h1 class="indus-title">MICROSOFT</h1>
-        <h1 class="indus-title1">Authorised Education Partner</h1>
         <br><br><br><br>
       </div>
      
       <div class="item">
         <img src="./img/m2.png" alt="Chicago" class="c-it">
         <h1 class="indus-title">IBM</h1>
-        <h1 class="indus-title1">Registered Business Partner</h1>
         <br><br><br><br>
       </div>
-
       <div class="item">
-        <img src="./img/intel.jpg" alt="Chicago" class="c-it">
+        <img src="./img/INTEL.png" alt="Chicago" class="c-it">
         <h1 class="indus-title">INTEL</h1>
-        <h1 class="indus-title1">Consulting Partner</h1>
-        <br><br>
+        <br><br><br><br>
       </div>
       <div class="item">
-        <img src="./img/cloudera.png" alt="Chicago" class="c-it">
+        <img src="./img/CLOUDERAX.png" alt="Chicago" class="c-it">
         <h1 class="indus-title">CLOUDERA</h1>
-        <h1 class="indus-title1">Bronze Consulting Partner</h1>
-        <br>
+        <br><br><br><br>
+      </div>
+      <div class="item">
+        <img src="./img/CERT.png" alt="Chicago" class="c-it">
+        <h1 class="indus-title">CERTNEXUS</h1>
+        <br><br><br><br>
+      </div>
+      <div class="item">
+        <img src="./img/MAPR.png" alt="Chicago" class="c-it">
+        <h1 class="indus-title">MAPR</h1>
+        <br><br><br><br>
+      </div>
+      <div class="item">
+        <img src="./img/BLOCKCHAIN.png" alt="Chicago" class="c-it">
+        <h1 class="indus-title">BLOCKCHAIN</h1>
+        <br><br><br><br>
+      </div>
+      <div class="item">
+        <img src="./img/AWS.png" alt="Chicago" class="c-it">
+        <h1 class="indus-title">AWS</h1>
+        <br><br><br><br>
+      </div>
       </div>
     
       

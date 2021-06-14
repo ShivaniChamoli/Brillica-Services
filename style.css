@@ -1120,10 +1120,7 @@ font-family: 'SegoeUI bold';
   color: #bababd;
   border-radius: 8px;;
 }
-.twitter:hover{
-  color: #2e6de4;
-  transform: scale(1.1);
-}
+
 .instagram{
   width: 40px;
   height: 40px;
@@ -1131,10 +1128,7 @@ font-family: 'SegoeUI bold';
   color: #bababd;
   border-radius: 8px;;
 }
-.instagram:hover{
-  color: #21dd10;
-  transform: scale(1.1);
-}
+
 .middle-border{
   border-left:#dbdbdd solid 2px!important;
 margin-left:-10px !important;
