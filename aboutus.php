@@ -4,7 +4,142 @@
    include_once 'navbar.php';
    include_once 'floatingbuttons.php';
    ?>
- 
+ <head>
+    <style>
+       .slick-slide {
+    margin: 0px 20px;
+}
+
+
+.slick-slider
+{
+    position: relative;
+    display: block;
+    box-sizing: border-box;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+            user-select: none;
+    -webkit-touch-callout: none;
+    -khtml-user-select: none;
+    -ms-touch-action: pan-y;
+        touch-action: pan-y;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.slick-list
+{
+    position: relative;
+    display: block;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+.slick-list:focus
+{
+    outline: none;
+}
+.slick-list.dragging
+{
+    cursor: pointer;
+    cursor: hand;
+}
+
+.slick-slider .slick-track,
+.slick-slider .slick-list
+{
+    -webkit-transform: translate3d(0, 0, 0);
+       -moz-transform: translate3d(0, 0, 0);
+        -ms-transform: translate3d(0, 0, 0);
+         -o-transform: translate3d(0, 0, 0);
+            transform: translate3d(0, 0, 0);
+}
+
+.slick-track
+{
+    position: relative;
+    top: 0;
+    left: 0;
+    display: block;
+}
+.slick-track:before,
+.slick-track:after
+{
+    display: table;
+    content: '';
+}
+.slick-track:after
+{
+    clear: both;
+}
+.slick-loading .slick-track
+{
+    visibility: hidden;
+}
+
+.slick-slide
+{
+    display: none;
+    float: left;
+    height: 100%;
+    min-height: 1px;
+}
+[dir='rtl'] .slick-slide
+{
+    float: right;
+}
+
+.slick-slide.slick-loading img
+{
+    display: none;
+}
+.slick-slide.dragging img
+{
+    pointer-events: none;
+}
+.slick-initialized .slick-slide
+{
+    display: block;
+}
+.slick-loading .slick-slide
+{
+    visibility: hidden;
+}
+.slick-vertical .slick-slide
+{
+    display: block;
+    height: auto;
+    border: 1px solid transparent;
+}
+.slick-arrow.slick-hidden {
+    display: none;
+}
+       </style>
+       <script>
+        $(document).ready(function(){
+    $('.customer-logos').slick({
+        slidesToShow: 6,
+        slidesToScroll: 1,
+        autoplay: true,
+        autoplaySpeed: 1500,
+        arrows: false,
+        dots: false,
+        pauseOnHover: false,
+        responsive: [{
+            breakpoint: 768,
+            settings: {
+                slidesToShow: 4
+            }
+        }, {
+            breakpoint: 520,
+            settings: {
+                slidesToShow: 3
+            }
+        }]
+    });
+        });
+        </script>
+ </head>
 <div class="container-fluid header-3">
    <div class="row">
       <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12 col-xl-12">
@@ -56,42 +191,27 @@
 </div>
 
 
-
 <div class="container-fluid bx3">
-  <h2 class="industry-association">Our Industry Association</h2>  
- 
-  <div id="myCarousel2" class="carousel slide" data-ride="carousel">
-    <!-- Indicators -->
-    <ol class="carousel-indicators">
-      <li data-target="#myCarousel2" data-slide-to="0" class="active"></li>
-      <li data-target="#myCarousel2" data-slide-to="1"></li>
-      <li data-target="#myCarousel2" data-slide-to="2"></li>
-    </ol>
-
-    <!-- Wrapper for slides -->
-   
-    <div class="carousel-inner">
-   <div class="item active">
-        <img src="./img/m1.png" alt="Los Angeles" class="c-it">
-        <h1 class="indus-title">MICROSOFT</h1>
-        <h1 class="indus-title1">Authorised Education Partner</h1>
-        <br><br><br><br>
-      </div>
-     
-      <div class="item">
-        <img src="./img/m2.png" alt="Chicago" class="c-it">
-        <h1 class="indus-title">IBM</h1>
-        <h1 class="indus-title1">Registered Business Partner</h1>
-        <br><br><br><br>
-      </div>
-    
-      
-   
+<h2 class="industry-association">Our Industry Association</h2>  
+         <section class="customer-logos slider">
+            <div class="slide"><img src="./img/m1.png" alt="" class="c-it"> <br><br></div>
+       
+            <div class="slide"><img src="./img/m2.png" alt="" class="c-it"><br><br></div>
+           
+            <div class="slide"> <img src="./img/INTEL.png" alt="" class="c-it"><br><br></div>
+        
+            <div class="slide"><img src="./img/CLOUDERAX.png" alt="" class="c-it"><br><br></div>
+        
+            <div class="slide"><img src="./img/CERT.png" alt="" class="c-it"><br><br></div>
+        
+            <div class="slide"><img src="./img/MAPR.png" alt="" class="c-it"><br><br></div>
+        
+            <div class="slide"><img src="./img/BLOCKCHAIN.png" alt="" class="c-it"><br><br></div>
+        
+            <div class="slide"><img src="./img/AWS.png" alt="" class="c-it"><br><br></div>
+        
+         </section>
     </div>
-    <!-- Left and right controls -->
-   
-  </div>
-</div>
 
 <div class="container-fluid training-container">
 <div class= "row">

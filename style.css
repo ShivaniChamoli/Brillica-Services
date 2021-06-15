@@ -122,10 +122,9 @@ color: #2c2c2c;
 }
 .c-it{
   margin:auto;
-  width:350px;
-  height:500px;
+  height:150px;
   display: block;
-  margin-top:50px;
+  width:100%;
 }
 .indus-title1{
   margin-left:auto;
@@ -145,7 +144,7 @@ color: #2c2c2c;
   color: white;
   margin-top: 50px;
   font-family: 'Segoe UI';
-  font-size:35px;
+  font-size:25px;
   width:100%;
   text-align: center;
 }
@@ -531,6 +530,7 @@ text-align: left;
   letter-spacing: normal ;
   color:white ;
   margin-left:30px ;
+  width:60%
 }
 
 .card-content-3{
@@ -544,6 +544,7 @@ text-align: left;
   letter-spacing: normal ;
   color:white ;
   margin-left:30px ;
+  width:60%
 }
 
 
@@ -558,6 +559,7 @@ text-align: left;
   letter-spacing: normal;
   color:white;
   margin-left:30px;
+  width:60%
 }
 
 .card-content-5{
@@ -571,6 +573,7 @@ text-align: left;
   letter-spacing: normal;
   color:white;
   margin-left:30px;
+  width:60%
 }
 .redirect{
   font-size: 17px;
@@ -4863,20 +4866,6 @@ height:fit-content;
   width:90% !important ;
   margin-bottom:30px;
 }
-.card2{
-  margin-top:-300px;
-  font-size:27px;
-  width:50%;
-  color:white;
-  font-family: 'Segoe UI';
-  font-weight: bold;
-  font-stretch: normal;
-  font-style: normal;
-  line-height: normal;
-  letter-spacing: normal;
-  text-align: left;
-  display: block;
-    }
 
     .card-content-2,.card-content-3,.card-content-4,.card-content-5{
       margin-top:25px !important;
@@ -5953,8 +5942,9 @@ color: #ffffff;
 }
 .c-it{
   margin:auto;
-  width:auto;
-  margin-top:20px;
+  width:116px;
+  height:70px;
+  margin-top:20px
 }
 .c-it2{
   margin:auto;
@@ -6106,47 +6096,9 @@ color: #ffffff;
     }
 }
 
-@media only screen and (min-width: 901px) and (max-width: 1199px){
+@media only screen and (min-width: 999px) and (max-width: 1199px){
   
     
-
-.card-content-2,.card-content-3{
-  margin-top: 70px;
-  font-family: 'Segoe UI';
-  font-size: 12px;
-  font-weight: normal;
-  font-stretch: normal;
-  font-style: normal;
-  line-height: normal;
-  letter-spacing: normal;
-  color: white;
-  margin-left: 30px;
-  width:70%
-
-}
-.rect1,.rect2,.rect3{
-  width: auto !important;
-  height: auto;
-  margin: 15px 0px 0px 0px;
-
-  padding: 5px 10px 38px 20px;
-  object-fit: contain;
-  margin-right:13px;
-}
-.card2{
-  margin-top:-300px;
-  font-size:20px;
-  width:50%;
-  color:white;
-  font-family: 'Segoe UI';
-  font-weight: bold;
-  font-stretch: normal;
-  font-style: normal;
-  line-height: normal;
-  letter-spacing: normal;
-  text-align: left;
-  display: block;
-    }
 
     .twitterx2{
       width: 35px;
@@ -6162,6 +6114,45 @@ color: #ffffff;
       padding-top:5px;
       float:left;
     }
-
+    .rect1{
+      width: 200px;
+      height: 349px;
+      margin: 20px 27px 30px 0px;
+      padding: 33px 18px 38px 31px;
+      object-fit: contain;
+      margin-right:20px;
+      float:right;
     
+    }
+    .card2{
+      margin-top:-300px;
+    font-size:18px;
+    width:50%;
+    color:white;
+    font-family: 'Segoe UI';
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    display: block;
+    }
+    
+}
+@media(max-width:750px){
+  .card2{
+    margin-top:-300px;
+    font-size:27px;
+    width:50%;
+    color:white;
+    font-family: 'Segoe UI';
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    display: block;
+  }  
 }

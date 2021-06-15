@@ -36,9 +36,9 @@ if(isset($_POST['phone'])&&isset($_POST['name'])&&isset($_POST['email'])&&isset(
        $mail->Port       =  587;
  
        //Recipients
-       $mail->setFrom($email, 'donotreply@brillicaservices@enquiry.com');//
-       $mail->addAddress('shivaniichamoli@gmail.com', '');     // Add a recipient
-       //$mail->addAddress('sakshinegi724@gmail.com', '');
+       $mail->setFrom($email, 'donotreply.brillicaservices@enquiry.com');//
+       $mail->addAddress('info@brillicaservices.com', '');     // Add a recipient
+     
        
        $mail->isHTML(true);                                  // Set email format to HTML
        $mail->Subject = 'BRillica Services Enquiry'; //

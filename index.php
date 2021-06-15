@@ -5,11 +5,120 @@ include 'navbar.php';
 include_once 'floatingbuttons.php';
 ?>
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <title>Brillica Services</title>
   <style>
+    
+.slick-slide {
+    margin: 0px 20px;
+}
+
+
+.slick-slider
+{
+    position: relative;
+    display: block;
+    box-sizing: border-box;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+            user-select: none;
+    -webkit-touch-callout: none;
+    -khtml-user-select: none;
+    -ms-touch-action: pan-y;
+        touch-action: pan-y;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.slick-list
+{
+    position: relative;
+    display: block;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+.slick-list:focus
+{
+    outline: none;
+}
+.slick-list.dragging
+{
+    cursor: pointer;
+    cursor: hand;
+}
+
+.slick-slider .slick-track,
+.slick-slider .slick-list
+{
+    -webkit-transform: translate3d(0, 0, 0);
+       -moz-transform: translate3d(0, 0, 0);
+        -ms-transform: translate3d(0, 0, 0);
+         -o-transform: translate3d(0, 0, 0);
+            transform: translate3d(0, 0, 0);
+}
+
+.slick-track
+{
+    position: relative;
+    top: 0;
+    left: 0;
+    display: block;
+}
+.slick-track:before,
+.slick-track:after
+{
+    display: table;
+    content: '';
+}
+.slick-track:after
+{
+    clear: both;
+}
+.slick-loading .slick-track
+{
+    visibility: hidden;
+}
+
+.slick-slide
+{
+    display: none;
+    float: left;
+    height: 100%;
+    min-height: 1px;
+}
+[dir='rtl'] .slick-slide
+{
+    float: right;
+}
+
+.slick-slide.slick-loading img
+{
+    display: none;
+}
+.slick-slide.dragging img
+{
+    pointer-events: none;
+}
+.slick-initialized .slick-slide
+{
+    display: block;
+}
+.slick-loading .slick-slide
+{
+    visibility: hidden;
+}
+.slick-vertical .slick-slide
+{
+    display: block;
+    height: auto;
+    border: 1px solid transparent;
+}
+.slick-arrow.slick-hidden {
+    display: none;
+}
     .carousel-wrap {
   margin: 40px auto -50px;
   padding: 0 5%;
@@ -44,6 +153,52 @@ include_once 'floatingbuttons.php';
   right: -30px;
 }
     </style>
+        <script>
+        $(document).ready(function(){
+    $('.customer-logos').slick({
+        slidesToShow: 6,
+        slidesToScroll: 1,
+        autoplay: true,
+        autoplaySpeed: 1500,
+        arrows: false,
+        dots: false,
+        pauseOnHover: false,
+        responsive: [{
+            breakpoint: 768,
+            settings: {
+                slidesToShow: 4
+            }
+        }, {
+            breakpoint: 520,
+            settings: {
+                slidesToShow: 3
+            }
+        }]
+    });
+    $('.owl-carousel').owlCarousel({
+  loop: true,
+  margin: 40,
+  nav: true,
+  navText: [
+    "<i class='fa fa-caret-left'></i>",
+    "<i class='fa fa-caret-right'></i>"
+  ],
+  autoplay: true,
+  autoplayHoverPause: true,
+  responsive: {
+    0: {
+      items: 1
+    },
+    600: {
+      items: 3
+    },
+    1000: {
+      items: 3
+    }
+  }
+});
+});
+    </script>
 </head>
 <body>
   <div class="container-fluid">
@@ -61,16 +216,16 @@ include_once 'floatingbuttons.php';
 <!-- The slideshow -->
 <div class="carousel-inner">
   <div class="carousel-item active" >
-    <img class="xq" src="./img/N1.jpg" alt="Los Angeles">
+    <img class="xq" src="./img/N1.jpg" alt="">
   </div>
   <div class="carousel-item">
-    <img  class="xq" src="./img/1st.jpg" alt="Chicago" >
+    <img  class="xq" src="./img/1st.jpg" alt="" >
   </div>
   <div class="carousel-item">
-    <img class="xq" src="./img/2nd.jpg" alt="Chicago" >
+    <img class="xq" src="./img/2nd.jpg" alt="" >
   </div>
   <div class="carousel-item">
-    <img class="xq" src="./img/3rd.jpg" alt="Chicago" >
+    <img class="xq" src="./img/3rd.jpg" alt="" >
   </div>
 </div>
 
@@ -97,7 +252,7 @@ include_once 'floatingbuttons.php';
 </div>
 
 <div class="row">
-  <div class="col-xl-2 col-lg-2 rect1">
+  <div class="col-xl-2 col-lg-3 col-md-4 rect1">
       <a href="./course4.php" > <img src="img/Group 2250.png"
         srcset="img/Group 2250@2x.png 2x,
                 img/Group 2250@3x.png 3x"
@@ -117,7 +272,7 @@ include_once 'floatingbuttons.php';
       </a>
     </div>
   
-    <div class="col-xl-2 col-lg-2 rect2">
+    <div class="col-xl-2 col-lg-3 col-md-4 rect2">
     <a href="./webandapp.php" >  <img src="img/Group 2251.png"
         srcset="img/Group 2251@2x.png 2x,
                 img/Group 2251@3x.png 3x"
@@ -128,8 +283,7 @@ include_once 'floatingbuttons.php';
         <div class="card-content-3">
             <p>
             Brillica Services Company provides design and technology services to help companies create a great,
-             cohesive experience across complex systeams,
-             at every touchpoint between people and your organization
+             cohesive experience across complex systeams.
             </p>
         </div>
         <div >
@@ -138,7 +292,7 @@ include_once 'floatingbuttons.php';
     </a>
     </div>
   
-    <div class="col-xl-2 col-lg-2 rect3">
+    <div class="col-xl-2 col-lg-3 col-md-4 rect3">
     <a href="#" >   <img src="img/Group 2252.png"
         srcset="img/Group 2252@2x.png 2x,
                 img/Group 2252@3x.png 3x"
@@ -157,7 +311,7 @@ include_once 'floatingbuttons.php';
     </a>
     </div>
 
-    <div class="col-xl-2 col-lg-2 rect4">
+    <div class="col-xl-2 col-lg-3 col-md-4 rect4">
     <a href="./internship.php" >   <img src="img/Group 2253.png"
         srcset="img/Group 2253@2x.png 2x,
                 img/Group 2253@3x.png 3x"
@@ -175,7 +329,7 @@ include_once 'floatingbuttons.php';
         </div>
     </a>
     </div>
-    <div class="col-xl-2 col-lg-2 rect5">
+    <div class="col-xl-2 col-lg-4 col-md-4 rect5">
     <a href="./facultydevelopment.php" >   <img src="img/Group 2254.png"
         srcset="img/Group 2254@2x.png 2x,
                 img/Group 2254@3x.png 3x"
@@ -202,70 +356,27 @@ include_once 'floatingbuttons.php';
 </div>
 
 <div class="container-fluid bx3">
-  <h2 class="industry-association">Our Industry Association</h2>  
- 
-  <div id="myCarousel2" class="carousel slide" data-ride="carousel">
-    <!-- Indicators -->
-    <ol class="carousel-indicators">
-      <li data-target="#myCarousel2" data-slide-to="0" class="active"></li>
-      <li data-target="#myCarousel2" data-slide-to="1"></li>
-      <li data-target="#myCarousel2" data-slide-to="2"></li>
-      <li data-target="#myCarousel2" data-slide-to="2"></li>
-    </ol>
-
-    <!-- Wrapper for slides -->
-   
-    <div class="carousel-inner">
-   <div class="item active">
-        <img src="./img/m1.png" alt="Los Angeles" class="c-it">
-        <h1 class="indus-title">MICROSOFT</h1>
-        <br><br><br><br>
-      </div>
-     
-      <div class="item">
-        <img src="./img/m2.png" alt="Chicago" class="c-it">
-        <h1 class="indus-title">IBM</h1>
-        <br><br><br><br>
-      </div>
-      <div class="item">
-        <img src="./img/INTEL.png" alt="Chicago" class="c-it">
-        <h1 class="indus-title">INTEL</h1>
-        <br><br><br><br>
-      </div>
-      <div class="item">
-        <img src="./img/CLOUDERAX.png" alt="Chicago" class="c-it">
-        <h1 class="indus-title">CLOUDERA</h1>
-        <br><br><br><br>
-      </div>
-      <div class="item">
-        <img src="./img/CERT.png" alt="Chicago" class="c-it">
-        <h1 class="indus-title">CERTNEXUS</h1>
-        <br><br><br><br>
-      </div>
-      <div class="item">
-        <img src="./img/MAPR.png" alt="Chicago" class="c-it">
-        <h1 class="indus-title">MAPR</h1>
-        <br><br><br><br>
-      </div>
-      <div class="item">
-        <img src="./img/BLOCKCHAIN.png" alt="Chicago" class="c-it">
-        <h1 class="indus-title">BLOCKCHAIN</h1>
-        <br><br><br><br>
-      </div>
-      <div class="item">
-        <img src="./img/AWS.png" alt="Chicago" class="c-it">
-        <h1 class="indus-title">AWS</h1>
-        <br><br><br><br>
-      </div>
-      </div>
-    
-      
-   
+<h2 class="industry-association">Our Industry Association</h2>  
+         <section class="customer-logos slider">
+            <div class="slide"><img src="./img/m1.png" alt="" class="c-it"> <br><br></div>
+       
+            <div class="slide"><img src="./img/m2.png" alt="" class="c-it"><br><br></div>
+           
+            <div class="slide"> <img src="./img/INTEL.png" alt="" class="c-it"><br><br></div>
+        
+            <div class="slide"><img src="./img/CLOUDERAX.png" alt="" class="c-it"><br><br></div>
+        
+            <div class="slide"><img src="./img/CERT.png" alt="" class="c-it"><br><br></div>
+        
+            <div class="slide"><img src="./img/MAPR.png" alt="" class="c-it"><br><br></div>
+        
+            <div class="slide"><img src="./img/BLOCKCHAIN.png" alt="" class="c-it"><br><br></div>
+        
+            <div class="slide"><img src="./img/AWS.png" alt="" class="c-it"><br><br></div>
+        
+         </section>
     </div>
-    <!-- Left and right controls -->
-   
-  </div>
-</div>
+
 
 <div class="container-fluid">
 
@@ -401,38 +512,11 @@ class="certified">
     </div>
 </div>
 </div>
-
-<div class="container">
-
-</div>
-
-
 </body>
 
 <?php
 include 'footer.php';
 ?>
 <script>
-$('.owl-carousel').owlCarousel({
-  loop: true,
-  margin: 40,
-  nav: true,
-  navText: [
-    "<i class='fa fa-caret-left'></i>",
-    "<i class='fa fa-caret-right'></i>"
-  ],
-  autoplay: true,
-  autoplayHoverPause: true,
-  responsive: {
-    0: {
-      items: 1
-    },
-    600: {
-      items: 3
-    },
-    1000: {
-      items: 3
-    }
-  }
-})
+
 </script>
