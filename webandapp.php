@@ -171,14 +171,14 @@ Brand Awareness.</p>
 
     <div class="container-fluid">
         <div class="row">
-            <div class="col-lg-5 col-xl-5 col-sm-5">
+            <div class="col-lg-5 col-xl-5 col-md-12 col-sm-5">
             <img src="./img/Group92.svg"
      class="Group-92">
 
             </div>
         
 
-            <div class="col-lg-7 col-xl-7 col-sm-7">
+            <div class="col-lg-7 col-xl-7 col-md-12 col-sm-7">
           <p class="obpar">We use objective research to drive strategy and 
 ensure strong, evidence-based solutions.<br><br>
  

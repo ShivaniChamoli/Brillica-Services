@@ -42,7 +42,7 @@ if ($result->num_rows > 0) {
     <div class="container-fluid">
   
     <div class="row">
-        <div class="col-xlg-9 col-lg-9 col-md-9">
+        <div class="col-xlg-9 col-lg-9 col-md-12 col-md-9">
             <p class="blog-p2">
             <?=$blog['blog_title']?>
                 </p>
@@ -52,7 +52,7 @@ if ($result->num_rows > 0) {
 
 
     <div class="row">
-<div class="col-xlg-9 col-lg-9 ">
+<div class="col-xlg-9 col-lg-9 col-md-12  ">
     <div class="">
 <img src="<?=$blog['blog_img']?>" class="blog-photo">
     </div>

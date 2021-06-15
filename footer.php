@@ -79,10 +79,10 @@ include 'header.php';
 </div>
 <div class="m2">
 <ul class='row'>
-  <li class='col-lg-2 listStyle'><a class="anchx" href="./aboutus.php">ABOUT BRILLICA &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<b>|</b></a></li>
-  <li class='col-lg-2 listStyle'><a class="anchx" href="./services.php">OUR SERVICES&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<b>|</b></a></li>
-  <li class='col-lg-2 listStyle'><a class="anchx" href="./course4.php">COURSES &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<b>|</b></a></li>
-  <li class='col-lg-2 listStyle'><a class="anchx" href="./contactus.php">CONTACT US&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<b>|</b></a></li>
+  <li class='col-lg-2 listStyle'><a class="anchx" href="./aboutus.php">ABOUT BRILLICA &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<b>|</b></a></li>
+  <li class='col-lg-2 listStyle'><a class="anchx" href="./services.php">OUR SERVICES&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &nbsp&nbsp<b>|</b></a></li>
+  <li class='col-lg-2 listStyle'><a class="anchx" href="./course4.php">COURSES &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<b>|</b></a></li>
+  <li class='col-lg-2 listStyle'><a class="anchx" href="./contactus.php">CONTACT US&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<b>|</b></a></li>
   <li class='col-lg-2 listStyle'><a class="anchx" href="./blog3.php">BLOG</a></li>
 </ul>
 </div>

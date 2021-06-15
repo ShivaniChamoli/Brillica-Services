@@ -45,12 +45,12 @@ facing your organization. </p>
     </div>
     
     <div class="row">
-<div class="col-lg-6 col-xl-6">
+<div class="col-lg-6 col-xl-6 col-md-6">
 <img src="img/xx2.png"
      class="Group-147">
 </div>
 
-<div class="col-lg-1 col-xl-1">
+<div class="col-lg-1 col-xl-1 col-md-1">
 <img src="./img/Group 148.svg"
      class="Group-148">
      <div class="Rectangle-242"></div>
@@ -64,7 +64,7 @@ facing your organization. </p>
      class="Group-151">
 </div>
 
-<div class="col-lg-5 col-xl-5">
+<div class="col-lg-5 col-xl-5 col-md-5">
 <p class="t1">Teaching Training & 
 Research Skills</p>
 <p class="t2">Assessments Self-exploration
